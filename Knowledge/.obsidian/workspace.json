@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "6e4368b865bcaf5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "91ef1fa747ee3045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3a6bce406a681d8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "458eccd0809fdb55",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ad298056259ebeb",
+        "type": "tabs",
+        "dimension": 68.16091954022988,
+        "children": [
+          {
+            "id": "ec03ab3f2440e695",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6915ba502be972c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b23241b8fb74e931",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b3c53d4ca24a8933",
+        "type": "tabs",
+        "dimension": 31.839080459770113,
+        "children": [
+          {
+            "id": "f17eb6faa5285c9e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "a160afadabdaf5c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "89e9fb926799e9d0",
+        "type": "tabs",
+        "dimension": 50.526315789473685,
+        "children": [
+          {
+            "id": "42a681ff4d9b0dd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/Python/sys library.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for sys library"
+            }
+          },
+          {
+            "id": "bee7c242ea68639c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/Python/sys library.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from sys library"
+            }
+          },
+          {
+            "id": "c6bb8bb108cf7041",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd394d9e360a6d6d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "26c82c2aa3ec8d71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/Python/sys library.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of sys library"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e36b84d8fcc39dd2",
+        "type": "tabs",
+        "dimension": 49.473684210526315,
+        "children": [
+          {
+            "id": "bea151f68ec0c447",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ec03ab3f2440e695",
+  "lastOpenFiles": [
+    "Computer Science/Python/Libraries/pynput library.md",
+    "Computer Science/Git/Basics/GitHub authentication.md",
+    "Computer Science/Python/Libraries/sys library.md",
+    "Computer Science/Python/Libraries/requests library.md",
+    "Untitled.md",
+    "Computer Science/Python/Python Introduction.md",
+    "Computer Science/PowerShell/basics/powershell functions.md",
+    "Computer Science/Git/Basics/Basics.md",
+    "Computer Science/Python/Libraries/qrcode library.md",
+    "Computer Science/Python/Libraries/rich library.md",
+    "Computer Science/Python/Libraries/bs4 library.md",
+    "Computer Science/JavaScript/Content/DOMpurify.md",
+    "Computer Science/JavaScript/Content/Audio.md",
+    "Computer Science/Git/Introduction.md",
+    "Computer Science/Git/Git_logo.png",
+    "Computer Science/JavaScript/Content/LocalStorage browser.md",
+    "Computer Science/JavaScript/JavaScript introduction.md",
+    "Computer Science/JavaScript/JavaScript_logo.png",
+    "Computer Science/Linux/Cybersecurity kind of lol/OSINT (Open Source Intelligent).md",
+    "Computer Science/Introduction.md",
+    "Pasted image 20260218065205.png",
+    "Pasted image 20260218065150.png",
+    "Computer Science/Git/Basics",
+    "Computer Science/Git",
+    "Computer Science/PowerShell/Introduction.md",
+    "Computer Science/PC utils/diskpart.md",
+    "Computer Science/Python/Libraries/json library.md",
+    "Computer Science/PowerShell/basics",
+    "Computer Science/PowerShell/powershell_icon.webp",
+    "Computer Science/PowerShell",
+    "Computer Science/PC utils",
+    "Computer Science/drive-download-20260209T201240Z-1-001/PowerShell/basics/powershell functions.md",
+    "Computer Science/drive-download-20260209T201240Z-1-001/PowerShell/powershell_icon.webp",
+    "Computer Science/drive-download-20260209T201240Z-1-001/PowerShell/basics",
+    "Computer Science/drive-download-20260209T201240Z-1-001/PowerShell/Introduction.md",
+    "Computer Science/drive-download-20260209T201240Z-1-001/PowerShell",
+    "Computer Science/drive-download-20260209T201240Z-1-001/PC utils/diskpart.md",
+    "Computer Science/drive-download-20260209T201240Z-1-001/PC utils",
+    "Computer Science/drive-download-20260209T201240Z-1-001",
+    "Computer Science/drive-download-20260209T201240Z-1-001.zip",
+    "Computer Science/Linux/Cybersecurity kind of lol/Web services Introduction.md",
+    "Computer Science/Python/Libraries/colorama library.md",
+    "Computer Science/Python/python-logo.png",
+    "Computer Science/Computer_science_picture.webp",
+    "Computer Science/JavaScript/Node.js/nodejs_logo.svg",
+    "Pasted image 20251230102854.png",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
