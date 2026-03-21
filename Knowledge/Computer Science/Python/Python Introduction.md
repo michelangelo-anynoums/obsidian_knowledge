@@ -17,7 +17,7 @@ Python is a ==high-level==, ==interpreted programming language== known for its s
 **os** – Interact with the operating system (files, paths). [[os library]]
 **sys** – Access system-related parameters and runtime info.  [[sys library]]
 **socket** – Low‑level network communication (TCP/UDP).  
-**subprocess** – Run external system commands or programs.  
+**subprocess** – Run external system commands or programs. [[subprocess_library]]
 **argparse** – Handle command‑line arguments.  
 **re** – Regular expressions for pattern matching.  
 **threading** – Create and manage threads. [[threading library]]
@@ -49,6 +49,7 @@ Python is a ==high-level==, ==interpreted programming language== known for its s
 **rich** - is a Python library for rich text and formatting in the terminal. [[rich library]]
 **pytube** - is a Python library to work with YouTube services and download content. [[pytube library]]
 **qrcode** - The qrcode library is a simple and popular Python package for generating QR codes. [[qrcode library]]
+**calendar** - this powerful module shows a full calendar in a console. [[calendar_library]]
 
 ---
 Forgot **hotkeys**? Go to [Hotkeys](app://obsidian.md/Hotkeys)  
