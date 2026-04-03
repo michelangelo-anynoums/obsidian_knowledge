@@ -136,6 +136,14 @@ git push -u origin main
 - `-u` = sets upstream (so future pushes are easier)
     
 
+## Force a commit
+
+To force a push to the remote origin in Git, use the **git push --force** or **git push -f** command followed by the remote name and branch. 
+
+```Bash
+git push --force origin <branch-name>
+```
+
 ---
 
 ## 🔁 Regular Push (After First Time)
