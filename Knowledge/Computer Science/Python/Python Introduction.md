@@ -16,7 +16,7 @@ Python is a ==high-level==, ==interpreted programming language== known for its s
 **colorama** - python3 library used to change text color in terminal/console. [[colorama library]]
 **os** – Interact with the operating system (files, paths). [[os library]]
 **sys** – Access system-related parameters and runtime info.  [[sys library]]
-**socket** – Low‑level network communication (TCP/UDP).  
+**socket** – Low‑level network communication (TCP/UDP). [[socket library]]
 **subprocess** – Run external system commands or programs. [[subprocess_library]]
 **argparse** – Handle command‑line arguments.  
 **re** – Regular expressions for pattern matching.  
@@ -33,6 +33,7 @@ Python is a ==high-level==, ==interpreted programming language== known for its s
 **platform** - is a built-in Python library that allows you to identify the system and environment where your Python program is running. [[platform library]]
 **atexit** - is a module in Python allows you to register functions that will be executed when the Python interpreter is about to terminate. [[atexit library]]
 **zipfile** - library is a built-in Python module used to create, read, extract, and manage ZIP files (compressed files). [[zipfile library]]
+**encode and decode** - built-in Python methods, used to convert between text and binary data. [[encode and decode methods]]
 
 ---
 
