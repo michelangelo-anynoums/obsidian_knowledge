@@ -34,6 +34,7 @@ Python is a ==high-level==, ==interpreted programming language== known for its s
 **atexit** - is a module in Python allows you to register functions that will be executed when the Python interpreter is about to terminate. [[atexit library]]
 **zipfile** - library is a built-in Python module used to create, read, extract, and manage ZIP files (compressed files). [[zipfile library]]
 **encode and decode** - built-in Python methods, used to convert between text and binary data. [[encode and decode methods]]
+**built-in methods** - built-in Python methods for number base conversion [[built-in methods]]
 
 ---
 
