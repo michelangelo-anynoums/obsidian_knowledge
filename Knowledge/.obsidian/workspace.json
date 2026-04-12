@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Python/Libraries/built-in methods.md",
+                "file": "Computer Science/Python/Libraries/os library.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "built-in methods"
+              "title": "os library"
             }
           }
         ]
@@ -222,8 +222,8 @@
   },
   "active": "1a543fce7d4b65fc",
   "lastOpenFiles": [
-    "Computer Science/Python/Python Introduction.md",
     "Computer Science/Python/Libraries/built-in methods.md",
+    "Computer Science/Python/Python Introduction.md",
     "Computer Science/JavaScript/Node.js/Node.js introduction.md",
     "Computer Science/Python/Libraries/encode and decode methods.md",
     "Computer Science/Python/Libraries/sys library.md",
