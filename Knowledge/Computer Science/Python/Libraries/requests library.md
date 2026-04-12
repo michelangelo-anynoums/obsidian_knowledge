@@ -311,7 +311,8 @@ Think of it as: _“Act like the same browser for multiple requests.”_
 ```Python
 import requests  
 
-session = requests.Session()  session.get("https://example.com/login") 
+session = requests.Session()  
+session.get("https://example.com/login") 
 
 response = session.get("https://example.com/dashboard")
 ```
