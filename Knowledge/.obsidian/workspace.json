@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Python/Libraries/requests library.md",
+                "file": "Computer Science/Python/Libraries/threading library.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "requests library"
+              "title": "threading library"
             }
           }
         ]
@@ -222,6 +222,7 @@
   },
   "active": "1a543fce7d4b65fc",
   "lastOpenFiles": [
+    "Computer Science/Python/Libraries/requests library.md",
     "Computer Science/Python/Libraries/asyncio library.md",
     "Computer Science/Python/Python Introduction.md",
     "Computer Science/Introduction.md",
@@ -240,7 +241,6 @@
     "Computer Science/PC utils/diskpart.md",
     "Computer Science/Python/Libraries/pynput library.md",
     "Computer Science/Git/Basics/GitHub authentication.md",
-    "Computer Science/Python/Libraries/requests library.md",
     "Untitled.md",
     "Computer Science/PowerShell/basics/powershell functions.md",
     "Computer Science/Python/Libraries/qrcode library.md",
