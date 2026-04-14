@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/JavaScript/Content/Math.md",
+                "file": "Computer Science/PowerShell/basics/Download + ENVIRONMENT.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Math"
+              "title": "Download + ENVIRONMENT"
             }
           }
         ]
@@ -222,11 +222,13 @@
   },
   "active": "1a543fce7d4b65fc",
   "lastOpenFiles": [
-    "Computer Science/JavaScript/Content/Canvas.md",
-    "Computer Science/JavaScript/Content/Math.md",
-    "Computer Science/JavaScript/JavaScript introduction.md",
-    "Computer Science/Python/Libraries/math and cmath library.md",
+    "Computer Science/Python/Libraries/venv.md",
+    "Computer Science/PowerShell/basics/Download + ENVIRONMENT.md",
     "Computer Science/Python/Python Introduction.md",
+    "Computer Science/Python/Libraries/math and cmath library.md",
+    "Computer Science/JavaScript/Content/Math.md",
+    "Computer Science/JavaScript/Content/Canvas.md",
+    "Computer Science/JavaScript/JavaScript introduction.md",
     "Computer Science/Python/python-logo.png",
     "Computer Science/Linux/SQLmap/SQLmap.md",
     "Computer Science/Python/Libraries/asyncio library.md",
@@ -248,8 +250,6 @@
     "Computer Science/PC utils/Schtasks.md",
     "Computer Science/PC utils/diskpart.md",
     "Computer Science/Python/Libraries/pynput library.md",
-    "Computer Science/Git/Basics/GitHub authentication.md",
-    "Untitled.md",
     "Computer Science/Git/Git_logo.png",
     "Computer Science/JavaScript/JavaScript_logo.png",
     "Pasted image 20260218065205.png",
