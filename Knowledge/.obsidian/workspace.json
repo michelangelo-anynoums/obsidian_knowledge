@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "6e4368b865bcaf5a",
+    "id": "b5e55c646bdc0715",
     "type": "split",
     "children": [
       {
-        "id": "8fb09f2d2bd3a88e",
+        "id": "34ccd691c959bc37",
         "type": "tabs",
         "children": [
           {
-            "id": "1a543fce7d4b65fc",
+            "id": "7f0ddd0649778d97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Introduction.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "New tab"
             }
           }
         ]
@@ -27,29 +23,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "458eccd0809fdb55",
+    "id": "1440ca41eac965e9",
     "type": "split",
     "children": [
       {
-        "id": "7ad298056259ebeb",
+        "id": "ca8e597a53f1df6d",
         "type": "tabs",
-        "dimension": 68.16091954022988,
         "children": [
           {
-            "id": "ec03ab3f2440e695",
+            "id": "e2d34af53a470ca6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
-                "autoReveal": true
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "6915ba502be972c4",
+            "id": "f7de086f26c22697",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +61,7 @@
             }
           },
           {
-            "id": "b23241b8fb74e931",
+            "id": "b95f0242ac2fb3f3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,72 +71,52 @@
             }
           }
         ]
-      },
-      {
-        "id": "b3c53d4ca24a8933",
-        "type": "tabs",
-        "dimension": 31.839080459770113,
-        "children": [
-          {
-            "id": "f17eb6faa5285c9e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 300
   },
   "right": {
-    "id": "a160afadabdaf5c2",
+    "id": "f29786b7b5f26695",
     "type": "split",
     "children": [
       {
-        "id": "89e9fb926799e9d0",
+        "id": "f841e2e6978c2cff",
         "type": "tabs",
-        "dimension": 50.526315789473685,
         "children": [
           {
-            "id": "42a681ff4d9b0dd3",
+            "id": "9644aaeb9752f4bd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Python/sys library.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sys library"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "bee7c242ea68639c",
+            "id": "c56283f0dbf9c02e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Python/sys library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from sys library"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "c6bb8bb108cf7041",
+            "id": "9857bbf44bbb6bd7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -156,13 +131,13 @@
             }
           },
           {
-            "id": "bd394d9e360a6d6d",
+            "id": "533080aa988b071e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
@@ -170,43 +145,35 @@
             }
           },
           {
-            "id": "26c82c2aa3ec8d71",
+            "id": "ff8768c3e294eeb5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Python/sys library.md",
-                "followCursor": true,
-                "showSearch": true,
+                "file": "Computer Science/Linux/SQLmap/SQLmap.md",
+                "followCursor": false,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sys library"
+              "title": "Outline of SQLmap"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "e36b84d8fcc39dd2",
-        "type": "tabs",
-        "dimension": 49.473684210526315,
-        "children": [
+          },
           {
-            "id": "bea151f68ec0c447",
+            "id": "23c12a5c51798d74",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -220,56 +187,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "1a543fce7d4b65fc",
-  "lastOpenFiles": [
-    "Computer Science/Linux/Introduction.md",
-    "Computer Science/Python/Libraries/requests library.md",
-    "Computer Science/Python/Libraries/asyncio library.md",
-    "Computer Science/Python/Python Introduction.md",
-    "Computer Science/Introduction.md",
-    "Computer Science/Python/Libraries/os library.md",
-    "Computer Science/Python/Libraries/built-in methods.md",
-    "Computer Science/JavaScript/Node.js/Node.js introduction.md",
-    "Computer Science/Python/Libraries/encode and decode methods.md",
-    "Computer Science/Python/Libraries/sys library.md",
-    "Computer Science/Python/Libraries/socket library.md",
-    "Computer Science/Git/Basics/Essential commands.md",
-    "Computer Science/Git/Basics/Basics.md",
-    "Computer Science/Git/Introduction.md",
-    "Computer Science/Python/Libraries/calendar_library.md",
-    "Computer Science/Python/Libraries/subprocess_library.md",
-    "Computer Science/PC utils/Schtasks.md",
-    "Computer Science/PC utils/diskpart.md",
-    "Computer Science/Python/Libraries/pynput library.md",
-    "Computer Science/Git/Basics/GitHub authentication.md",
-    "Untitled.md",
-    "Computer Science/PowerShell/basics/powershell functions.md",
-    "Computer Science/Python/Libraries/qrcode library.md",
-    "Computer Science/Python/Libraries/rich library.md",
-    "Computer Science/Python/Libraries/bs4 library.md",
-    "Computer Science/JavaScript/Content/DOMpurify.md",
-    "Computer Science/Git/Git_logo.png",
-    "Computer Science/JavaScript/JavaScript_logo.png",
-    "Pasted image 20260218065205.png",
-    "Pasted image 20260218065150.png",
-    "Computer Science/Git/Basics",
-    "Computer Science/Git",
-    "Computer Science/PowerShell/basics",
-    "Computer Science/PowerShell/powershell_icon.webp",
-    "Computer Science/PowerShell",
-    "Computer Science/PC utils",
-    "Computer Science/drive-download-20260209T201240Z-1-001/PowerShell/powershell_icon.webp",
-    "Computer Science/drive-download-20260209T201240Z-1-001/PowerShell/basics",
-    "Computer Science/drive-download-20260209T201240Z-1-001/PowerShell",
-    "Computer Science/drive-download-20260209T201240Z-1-001/PC utils",
-    "Computer Science/drive-download-20260209T201240Z-1-001",
-    "Computer Science/drive-download-20260209T201240Z-1-001.zip",
-    "Computer Science/Python/python-logo.png",
-    "Computer Science/Computer_science_picture.webp",
-    "Computer Science/JavaScript/Node.js/nodejs_logo.svg",
-    "Pasted image 20251230102854.png",
-    "Untitled 2.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
-  ]
+  "active": "e2d34af53a470ca6",
+  "lastOpenFiles": []
 }
