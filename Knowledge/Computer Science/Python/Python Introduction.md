@@ -38,6 +38,7 @@ Python is a ==high-level==, ==interpreted programming language== known for its s
 **asyncio** – is a built-in Python library used to write concurrent code using async and await. [[asyncio library]]
 **math and cmath** – are essential mathematics libraries in Python. [[math and cmath library]]
 **venv** – is a Python virtual environment for scripting code. [[venv]]
+**Python names** – essential reserved variables in Python. [[python names]]
 
 
 ---
@@ -56,6 +57,7 @@ Python is a ==high-level==, ==interpreted programming language== known for its s
 **pytube** - is a Python library to work with YouTube services and download content. [[pytube library]]
 **qrcode** - The qrcode library is a simple and popular Python package for generating QR codes. [[qrcode library]]
 **calendar** - this powerful module shows a full calendar in a console. [[calendar_library]]
+**Flask** – is a lightweight micro-framework for web development in Python. [[Computer Science/Python/Libraries/Flask_framework/Introduction|Introduction]]
 
 ---
 Forgot **hotkeys**? Go to [Hotkeys](app://obsidian.md/Hotkeys)  
