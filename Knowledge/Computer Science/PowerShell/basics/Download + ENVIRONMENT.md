@@ -70,7 +70,7 @@ Start-BitsTransfer -Source "https://example.com/file.exe" -Destination "file.exe
 
 👉 **Recommendation:**
 
-- Use **`WebClient`** for speed
+- Use **WebClient** for speed
     
 - Use **BITS** for reliability
     
