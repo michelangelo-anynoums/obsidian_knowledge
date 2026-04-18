@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Python/Python Introduction.md",
+                "file": "Computer Science/PowerShell/basics/Windows essentials.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Introduction"
+              "title": "Windows essentials"
             }
           }
         ]
@@ -223,8 +223,9 @@
   "active": "1a543fce7d4b65fc",
   "lastOpenFiles": [
     "Computer Science/PowerShell/basics/Download + ENVIRONMENT.md",
-    "Computer Science/Python/Libraries/venv.md",
+    "Computer Science/PowerShell/basics/Windows essentials.md",
     "Computer Science/Python/Python Introduction.md",
+    "Computer Science/Python/Libraries/venv.md",
     "Computer Science/Python/Libraries/math and cmath library.md",
     "Computer Science/JavaScript/Content/Math.md",
     "Computer Science/JavaScript/Content/Canvas.md",
@@ -249,7 +250,6 @@
     "Computer Science/Python/Libraries/subprocess_library.md",
     "Computer Science/PC utils/Schtasks.md",
     "Computer Science/PC utils/diskpart.md",
-    "Computer Science/Python/Libraries/pynput library.md",
     "Computer Science/Git/Git_logo.png",
     "Computer Science/JavaScript/JavaScript_logo.png",
     "Pasted image 20260218065205.png",
