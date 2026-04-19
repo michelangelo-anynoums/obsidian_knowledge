@@ -64,7 +64,7 @@ Access tag attributes:
 
 ```Python
 link = soup.a  
-print(link['href'])
+print(link['href']) # or use 'get()' method
 ```
 
 ---
@@ -104,7 +104,7 @@ Search with **string=** parameter
 soup.find(string="Hello")  
 soup.find_all(string=True)  # all text nodes
 
-Using a function:
+# Using a function:
 
 soup.find_all(string=lambda text: "Python" in text)
 ```
