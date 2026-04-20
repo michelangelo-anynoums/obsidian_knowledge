@@ -1,4 +1,4 @@
-**`sqlite3`** is a built-in Python module that lets you work with a small, file-based database. You don’t need to install anything extra—Python already includes it.
+**sqlite3** is a built-in Python module that lets you work with a small, file-based database. You don’t need to install anything extra—Python already includes it.
 
 Here are the most important parts, explained simply:
 
