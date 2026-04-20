@@ -6,7 +6,7 @@
 
 ### Core Concepts
 
-- [ ]  Class structure and instance methods
+- [x]  Class structure and instance methods
 - [ ]  Class vs instance attributes
 - [ ]  `__init__` and `self`
 - [ ]  Inheritance
