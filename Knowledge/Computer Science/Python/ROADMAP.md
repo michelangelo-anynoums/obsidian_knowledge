@@ -6,10 +6,14 @@
 
 ### Core Concepts
 
-- [x]  Class structure and instance methods
-- [ ]  Class vs instance attributes
-- [ ]  `__init__` and `self`
-- [ ]  Inheritance
+- [x]  Class structure and instance methods  
+[[Class structure and instance methods]]
+- [x]  Class vs instance attributes
+[[Class vs instance attributes]]
+- [x]  `__init__` and `self`
+[[__init__ and self]]
+- [x]  Inheritance
+[[Inheritance]]
 - [ ]  Polymorphism
 - [ ]  `super()` usage
 - [ ]  Encapsulation basics
