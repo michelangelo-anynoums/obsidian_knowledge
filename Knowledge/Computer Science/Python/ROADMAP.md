@@ -14,7 +14,8 @@
 [[__init__ and self]]
 - [x]  Inheritance
 [[Inheritance]]
-- [ ]  Polymorphism
+- [x]  Polymorphism
+[[Polymorphism]]
 - [ ]  `super()` usage
 - [ ]  Encapsulation basics
 
