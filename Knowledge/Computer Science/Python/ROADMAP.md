@@ -16,7 +16,9 @@
 [[Inheritance]]
 - [x]  Polymorphism
 [[Polymorphism]]
-- [ ]  `super()` usage
+- [x]  `super()` usage
+[[super() usage]]
+
 - [ ]  Encapsulation basics
 
 ### Advanced Features
