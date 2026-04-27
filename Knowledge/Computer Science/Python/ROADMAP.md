@@ -19,7 +19,9 @@
 - [x]  `super()` usage
 [[super() usage]]
 
-- [ ]  Encapsulation basics
+- [x]  Encapsulation basics
+[[encapsulation basics]]
+
 
 ### Advanced Features
 
@@ -35,40 +37,7 @@
 
 ---
 
-## 2. 🌐 Flask (Web Development)
-
-### Core Concepts
-
-- [ ]  Routing (`@app.route`)
-- [ ]  Request & response handling
-- [ ]  Configuration files
-- [ ]  Templates (Jinja2 basics)
-
-### Working with Data
-
-- [ ]  File handling (upload/read/write)
-- [ ]  SQLite3 basics
-- [ ]  SQLAlchemy & ORM
-
-### Authentication & Security
-
-- [ ]  User registration & login
-- [ ]  Password hashing
-- [ ]  Session management
-- [ ]  Basic web security practices
-
-### Project
-
-- [ ]  Simple Login Web App
-    - [ ]  User registration
-    - [ ]  Login system
-    - [ ]  SQLite database
-    - [ ]  Protected routes
-    - [ ]  Basic UI templates
-
----
-
-## 3. ⚡ AsyncIO (Asynchronous Programming)
+## 2. ⚡ AsyncIO (Asynchronous Programming)
 
 ### Core Concepts
 
@@ -86,86 +55,7 @@
 
 ---
 
-## 4. ⚙️ Subprocess (System Interaction)
-
-### Core Concepts
-
-- [ ]  Running external commands
-- [ ]  `subprocess.run()`
-- [ ]  `subprocess.Popen()`
-- [ ]  Capture output/errors
-
-### Practice
-
-- [ ]  External Program Launcher
-    - [ ]  Open applications
-    - [ ]  Execute shell commands
-    - [ ]  Log outputs
-
----
-
-## 5. 🔌 Sockets (Networking Basics)
-
-### Core Concepts
-
-- [ ]  Client-server architecture
-- [ ]  TCP sockets
-- [ ]  Send/receive data
-- [ ]  `encode()` / `decode()`
-
-### Practice
-
-- [ ]  Chat Application
-    - [ ]  Server setup
-    - [ ]  Multiple clients
-    - [ ]  Messaging system
-    - [ ]  Basic commands (`/quit`, etc.)
-
-## 6. 🔐 Cryptography
-
-### Core Concepts
-
-- [ ]  What cryptography is (confidentiality, integrity, authentication)
-- [ ]  Symmetric vs asymmetric encryption
-- [ ]  Hashing vs encryption (key differences)
-- [ ]  Common algorithms (AES, RSA, SHA family)
-- [ ]  Encoding vs encryption (Base64 vs real crypto)
-- [ ]  Randomness & secure key generation
-- [ ]  Salting & why it matters
-
-### Python Tools & Libraries
-
-- [ ]  `hashlib` (SHA256, SHA512, etc.)
-- [ ]  `secrets` (secure token generation)
-- [ ]  `os.urandom()`
-- [ ]  `cryptography` library basics
-- [ ]  `bcrypt` for password hashing
-
-### Practical Security Concepts
-
-- [ ]  Password hashing best practices
-- [ ]  Secure storage of secrets
-- [ ]  Basic encryption/decryption workflow
-- [ ]  Avoiding common mistakes (hardcoded keys, weak hashes)
-
-### Practice
-
-- [ ]  Password Hasher Tool
-    - [ ]  Hash user passwords
-    - [ ]  Verify password input
-    - [ ]  Add salting
-- [ ]  File Encryptor
-    - [ ]  Encrypt a file
-    - [ ]  Decrypt the file
-    - [ ]  Handle keys securely
-- [ ]  Secure Notes App (CLI)
-    - [ ]  Save encrypted notes
-    - [ ]  Read/decrypt notes
-    - [ ]  Password-protected access
-
----
-
-## 7. 🌍 Browser Automation (Playwright)
+## 3. 🌍 Browser Automation (Playwright)
 
 ### Core Concepts
 
@@ -211,5 +101,164 @@
 - [ ]  Screenshot Tool
     - [ ]  Capture full-page screenshots
     - [ ]  Save images automatically
+
+---
+
+## 🧩 4. 🖥️ Command-Line Interfaces (`argparse`)
+
+### Core Concepts
+
+- [ ]  What command-line interfaces (CLI) are  
+- [ ]  Why CLIs are useful (automation, scripting, tooling)  
+- [ ]  Positional vs optional arguments  
+- [ ]  Flags and switches (`--verbose`, `--output`)  
+- [ ]  Data types for arguments (`int`, `str`, etc.)  
+- [ ]  Default values and required arguments  
+- [ ]  Help messages (`-h/--help`)
+
+---
+
+### Core argparse Features
+
+- [ ]  Creating a parser (`ArgumentParser`)  
+- [ ]  Adding arguments (`add_argument`)  
+- [ ]  Parsing input (`parse_args`)  
+- [ ]  Boolean flags (`store_true`)  
+- [ ]  Setting choices (`choices=[...]`)  
+- [ ]  Grouping arguments (optional vs required groups)  
+- [ ]  Custom help descriptions
+
+---
+
+### Advanced Usage
+
+- [ ]  Subcommands (e.g., `git commit`, `git push`)  
+- [ ]  Argument validation and constraints  
+- [ ]  Parsing multiple values (lists)  
+- [ ]  Reading arguments from files  
+- [ ]  Environment variable integration  
+- [ ]  Custom error handling  
+- [ ]  Structuring larger CLI tools
+
+---
+
+### Practice
+
+- [ ]  **Greeter CLI**  
+- [ ]  Accept a name as input  
+- [ ]  Add optional `--uppercase` flag  
+- [ ]  Print customized greeting
+
+---
+
+## 5. ⚙️ Subprocess (System Interaction)
+
+### Core Concepts
+
+- [ ]  Running external commands
+- [ ]  `subprocess.run()`
+- [ ]  `subprocess.Popen()`
+- [ ]  Capture output/errors
+
+### Practice
+
+- [ ]  External Program Launcher
+    - [ ]  Open applications
+    - [ ]  Execute shell commands
+    - [ ]  Log outputs
+
+---
+
+## 6. 🔌 Sockets (Networking Basics)
+
+### Core Concepts
+
+- [ ]  Client-server architecture
+- [ ]  TCP sockets
+- [ ]  Send/receive data
+- [ ]  `encode()` / `decode()`
+
+### Practice
+
+- [ ]  Chat Application
+    - [ ]  Server setup
+    - [ ]  Multiple clients
+    - [ ]  Messaging system
+    - [ ]  Basic commands (`/quit`, etc.)
+
+## 7. 🔐 Cryptography
+
+### Core Concepts
+
+- [ ]  What cryptography is (confidentiality, integrity, authentication)
+- [ ]  Symmetric vs asymmetric encryption
+- [ ]  Hashing vs encryption (key differences)
+- [ ]  Common algorithms (AES, RSA, SHA family)
+- [ ]  Encoding vs encryption (Base64 vs real crypto)
+- [ ]  Randomness & secure key generation
+- [ ]  Salting & why it matters
+
+### Python Tools & Libraries
+
+- [ ]  `hashlib` (SHA256, SHA512, etc.)
+- [ ]  `secrets` (secure token generation)
+- [ ]  `os.urandom()`
+- [ ]  `cryptography` library basics
+- [ ]  `bcrypt` for password hashing
+
+### Practical Security Concepts
+
+- [ ]  Password hashing best practices
+- [ ]  Secure storage of secrets
+- [ ]  Basic encryption/decryption workflow
+- [ ]  Avoiding common mistakes (hardcoded keys, weak hashes)
+
+### Practice
+
+- [ ]  Password Hasher Tool
+    - [ ]  Hash user passwords
+    - [ ]  Verify password input
+    - [ ]  Add salting
+- [ ]  File Encryptor
+    - [ ]  Encrypt a file
+    - [ ]  Decrypt the file
+    - [ ]  Handle keys securely
+- [ ]  Secure Notes App (CLI)
+    - [ ]  Save encrypted notes
+    - [ ]  Read/decrypt notes
+    - [ ]  Password-protected access
+
+---
+
+## 8. 🌐 Flask (Web Development)
+
+### Core Concepts
+
+- [ ]  Routing (`@app.route`)
+- [ ]  Request & response handling
+- [ ]  Configuration files
+- [ ]  Templates (Jinja2 basics)
+
+### Working with Data
+
+- [ ]  File handling (upload/read/write)
+- [ ]  SQLite3 basics
+- [ ]  SQLAlchemy & ORM
+
+### Authentication & Security
+
+- [ ]  User registration & login
+- [ ]  Password hashing
+- [ ]  Session management
+- [ ]  Basic web security practices
+
+### Project
+
+- [ ]  Simple Login Web App
+    - [ ]  User registration
+    - [ ]  Login system
+    - [ ]  SQLite database
+    - [ ]  Protected routes
+    - [ ]  Basic UI templates
 
 ---
