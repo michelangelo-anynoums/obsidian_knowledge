@@ -25,7 +25,8 @@
 
 ### Advanced Features
 
-- [ ]  `@property`
+- [x]  `@property`
+[[property decorator]]
 - [ ]  `@staticmethod`
 - [ ]  `@classmethod`
 
