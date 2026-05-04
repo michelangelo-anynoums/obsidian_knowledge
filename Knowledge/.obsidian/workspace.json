@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Computer Science/Python/ROADMAP.md",
+=======
+                "file": "Space and galaxies.md",
+>>>>>>> c1d0aba3363c2bc46c8e8547f0625255adb2137d
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "ROADMAP"
+=======
+              "title": "Space and galaxies"
+>>>>>>> c1d0aba3363c2bc46c8e8547f0625255adb2137d
             }
           }
         ]
@@ -41,7 +49,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -222,6 +230,7 @@
   },
   "active": "1a543fce7d4b65fc",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Computer Science/Git/Basics/Checkout.md",
     "Computer Science/Git/Basics/GitIgnore.md",
     "Computer Science/Python/Python Introduction.md",
@@ -249,7 +258,38 @@
     "Computer Science/Python/Libraries/math and cmath library.md",
     "Computer Science/JavaScript/Content/Math.md",
     "Computer Science/JavaScript/Content/Canvas.md",
+=======
+    "Computer Science/Python/Classes/static method.md",
+    "Space and galaxies.md",
+    "Computer Science/Python/ROADMAP.md",
+    "Computer Science/Python/Libraries/threading library.md",
+    "Computer Science/Python/Classes/property decorator.md",
+    "Computer Science/Python/Classes/encapsulation basics.md",
+    "Spanish/Resume Pracitice/1. Rutina de Alicia.md",
+    "Spanish/Los Tiempos.md",
+>>>>>>> c1d0aba3363c2bc46c8e8547f0625255adb2137d
     "Computer Science/JavaScript/JavaScript introduction.md",
+    "Computer Science/PC utils/Thermal paste.md",
+    "Computer Science/Python/Classes/super() usage.md",
+    "Computer Science/Linux/SQLmap/SQLmap.md",
+    "Computer Science/Python/Classes/Polymorphism.md",
+    "Computer Science/Introduction.md",
+    "Computer Science/Python/Classes/Inheritance.md",
+    "Computer Science/Python/Classes/Class vs instance attributes.md",
+    "Computer Science/Python/Classes/Class structure and instance methods.md",
+    "Computer Science/Python/Classes/__init__ and self.md",
+    "Computer Science/Python/Python Introduction.md",
+    "Computer Science/Python/Classes",
+    "Computer Science/PC utils/VeraCrypt.md",
+    "Computer Science/PC utils/Schtasks.md",
+    "Computer Science/PC utils/diskpart.md",
+    "Computer Science/Linux/Linux_picture.webp",
+    "Computer Science/Linux/Vulnerability methods.md",
+    "Computer Science/Git/Basics/Checkout.md",
+    "Computer Science/Python/Flask_framework/Content/configs.md",
+    "Computer Science/Python/Flask_framework/Content/request method.md",
+    "Computer Science/Python/Flask_framework/Content",
+    "Computer Science/Python/Flask_framework",
     "Computer Science/Python/python-logo.png",
     "Computer Science/Linux/SQLmap",
     "Computer Science/Git/Git_logo.png",
@@ -264,10 +304,8 @@
     "Computer Science/PC utils",
     "Computer Science/drive-download-20260209T201240Z-1-001/PowerShell/powershell_icon.webp",
     "Computer Science/drive-download-20260209T201240Z-1-001/PowerShell/basics",
-    "Computer Science/drive-download-20260209T201240Z-1-001/PowerShell",
     "Computer Science/Computer_science_picture.webp",
     "Computer Science/JavaScript/Node.js/nodejs_logo.svg",
-    "Pasted image 20251230102854.png",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
