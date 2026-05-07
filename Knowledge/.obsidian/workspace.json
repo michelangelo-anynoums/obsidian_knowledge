@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "6e4368b865bcaf5a",
+    "id": "224489ad460a541f",
     "type": "split",
     "children": [
       {
-        "id": "8fb09f2d2bd3a88e",
+        "id": "005b96a6a1cb1caf",
         "type": "tabs",
         "children": [
           {
-            "id": "1a543fce7d4b65fc",
+            "id": "b620dd732acc60bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Computer Science/Python/ROADMAP.md",
-=======
                 "file": "Space and galaxies.md",
->>>>>>> c1d0aba3363c2bc46c8e8547f0625255adb2137d
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "ROADMAP"
-=======
               "title": "Space and galaxies"
->>>>>>> c1d0aba3363c2bc46c8e8547f0625255adb2137d
             }
           }
         ]
@@ -35,29 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "458eccd0809fdb55",
+    "id": "95796b5105496e4e",
     "type": "split",
     "children": [
       {
-        "id": "7ad298056259ebeb",
+        "id": "8d6323bc50cdcc4d",
         "type": "tabs",
-        "dimension": 68.16091954022988,
         "children": [
           {
-            "id": "ec03ab3f2440e695",
+            "id": "02b9f68937027fa0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "6915ba502be972c4",
+            "id": "99728836a6a7f060",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,7 +65,7 @@
             }
           },
           {
-            "id": "b23241b8fb74e931",
+            "id": "fbe4b571c22ff6f3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,72 +75,54 @@
             }
           }
         ]
-      },
-      {
-        "id": "b3c53d4ca24a8933",
-        "type": "tabs",
-        "dimension": 31.839080459770113,
-        "children": [
-          {
-            "id": "f17eb6faa5285c9e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 300
   },
   "right": {
-    "id": "a160afadabdaf5c2",
+    "id": "620444b996bf9adb",
     "type": "split",
     "children": [
       {
-        "id": "89e9fb926799e9d0",
+        "id": "dd53294527aac26e",
         "type": "tabs",
-        "dimension": 50.526315789473685,
         "children": [
           {
-            "id": "42a681ff4d9b0dd3",
+            "id": "402fff31fd5cc2cb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Python/sys library.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Space and galaxies.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sys library"
+              "title": "Backlinks for Space and galaxies"
             }
           },
           {
-            "id": "bee7c242ea68639c",
+            "id": "f35132c46435b290",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Python/sys library.md",
+                "file": "Space and galaxies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from sys library"
+              "title": "Outgoing links from Space and galaxies"
             }
           },
           {
-            "id": "c6bb8bb108cf7041",
+            "id": "07739afa405bd200",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -164,13 +137,13 @@
             }
           },
           {
-            "id": "bd394d9e360a6d6d",
+            "id": "32372b643a1d0154",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
@@ -178,43 +151,35 @@
             }
           },
           {
-            "id": "26c82c2aa3ec8d71",
+            "id": "9d218e46c0e5eda1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Python/sys library.md",
-                "followCursor": true,
-                "showSearch": true,
+                "file": "Space and galaxies.md",
+                "followCursor": false,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sys library"
+              "title": "Outline of Space and galaxies"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "e36b84d8fcc39dd2",
-        "type": "tabs",
-        "dimension": 49.473684210526315,
-        "children": [
+          },
           {
-            "id": "bea151f68ec0c447",
+            "id": "1498c49e422e2417",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -228,86 +193,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "1a543fce7d4b65fc",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Computer Science/Git/Basics/Checkout.md",
-    "Computer Science/Git/Basics/GitIgnore.md",
-    "Computer Science/Python/Python Introduction.md",
-    "Computer Science/Python/Libraries/Flask_framework/Content/configs.md",
-    "Computer Science/Python/Libraries/Flask_framework/Content/request method.md",
-    "Computer Science/Python/Libraries/Flask_framework/Content/route method.md",
-    "Computer Science/Python/Libraries/Flask_framework/Content/Deep SQLite3.md",
-    "Computer Science/Python/ROADMAP.md",
-    "Computer Science/Python/Libraries/asyncio library.md",
-    "Computer Science/Python/Libraries/bs4 library.md",
-    "Computer Science/Python/Libraries/venv.md",
-    "Computer Science/Python/Libraries/Flask_framework/Introduction.md",
-    "Computer Science/Python/Libraries/Flask_framework/Content/SQLite database.md",
-    "Computer Science/Python/Libraries/Flask_framework/Content/Deep file handling.md",
-    "Computer Science/Python/Libraries/Flask_framework/Content/File handling.md",
-    "Computer Science/Python/Libraries/Flask_framework/Content/Basics.md",
-    "Computer Science/Python/Libraries/python names.md",
-    "Computer Science/PC utils/VeraCrypt.md",
-    "Computer Science/PC utils/CPU explanation (models).md",
-    "Computer Science/Python/Libraries/zipfile library.md",
-    "Computer Science/Python/Libraries/Flask_framework/Content",
-    "Computer Science/Python/Libraries/Flask_framework",
-    "Computer Science/PowerShell/basics/Windows essentials.md",
-    "Computer Science/PowerShell/basics/Download + ENVIRONMENT.md",
-    "Computer Science/Python/Libraries/math and cmath library.md",
-    "Computer Science/JavaScript/Content/Math.md",
-    "Computer Science/JavaScript/Content/Canvas.md",
-=======
-    "Computer Science/Python/Classes/static method.md",
-    "Space and galaxies.md",
-    "Computer Science/Python/ROADMAP.md",
-    "Computer Science/Python/Libraries/threading library.md",
-    "Computer Science/Python/Classes/property decorator.md",
-    "Computer Science/Python/Classes/encapsulation basics.md",
-    "Spanish/Resume Pracitice/1. Rutina de Alicia.md",
-    "Spanish/Los Tiempos.md",
->>>>>>> c1d0aba3363c2bc46c8e8547f0625255adb2137d
-    "Computer Science/JavaScript/JavaScript introduction.md",
-    "Computer Science/PC utils/Thermal paste.md",
-    "Computer Science/Python/Classes/super() usage.md",
-    "Computer Science/Linux/SQLmap/SQLmap.md",
-    "Computer Science/Python/Classes/Polymorphism.md",
-    "Computer Science/Introduction.md",
-    "Computer Science/Python/Classes/Inheritance.md",
-    "Computer Science/Python/Classes/Class vs instance attributes.md",
-    "Computer Science/Python/Classes/Class structure and instance methods.md",
-    "Computer Science/Python/Classes/__init__ and self.md",
-    "Computer Science/Python/Python Introduction.md",
-    "Computer Science/Python/Classes",
-    "Computer Science/PC utils/VeraCrypt.md",
-    "Computer Science/PC utils/Schtasks.md",
-    "Computer Science/PC utils/diskpart.md",
-    "Computer Science/Linux/Linux_picture.webp",
-    "Computer Science/Linux/Vulnerability methods.md",
-    "Computer Science/Git/Basics/Checkout.md",
-    "Computer Science/Python/Flask_framework/Content/configs.md",
-    "Computer Science/Python/Flask_framework/Content/request method.md",
-    "Computer Science/Python/Flask_framework/Content",
-    "Computer Science/Python/Flask_framework",
-    "Computer Science/Python/python-logo.png",
-    "Computer Science/Linux/SQLmap",
-    "Computer Science/Git/Git_logo.png",
-    "Computer Science/JavaScript/JavaScript_logo.png",
-    "Pasted image 20260218065205.png",
-    "Pasted image 20260218065150.png",
-    "Computer Science/Git/Basics",
-    "Computer Science/Git",
-    "Computer Science/PowerShell/basics",
-    "Computer Science/PowerShell/powershell_icon.webp",
-    "Computer Science/PowerShell",
-    "Computer Science/PC utils",
-    "Computer Science/drive-download-20260209T201240Z-1-001/PowerShell/powershell_icon.webp",
-    "Computer Science/drive-download-20260209T201240Z-1-001/PowerShell/basics",
-    "Computer Science/Computer_science_picture.webp",
-    "Computer Science/JavaScript/Node.js/nodejs_logo.svg",
-    "Untitled 2.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
-  ]
+  "active": "b620dd732acc60bf",
+  "lastOpenFiles": []
 }
