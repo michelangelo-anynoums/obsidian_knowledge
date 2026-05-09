@@ -29,8 +29,67 @@
 [[property decorator]]
 - [x]  `@staticmethod`
 [[static method]]
-- [x]  `@classmethod`
+- [ ]  `@classmethod`
 
+## Python Classes
+
+- [ ]  Understand what **dunder methods** (“double underscore methods”) are
+- [ ]  Learn the most common object lifecycle methods:
+    - [ ]  `__init__`
+    - [ ]  `__del__`
+    - [ ]  `__new__`
+- [ ]  Learn how objects are represented:
+    - [ ]  `__str__`
+    - [ ]  `__repr__`
+- [ ]  Learn comparison and equality methods:
+    - [ ]  `__eq__`
+    - [ ]  `__lt__`
+    - [ ]  `__gt__`
+- [ ]  Learn operator overloading:
+    - [ ]  `__add__`
+    - [ ]  `__sub__`
+    - [ ]  `__mul__`
+- [ ]  Learn container and iterable behavior:
+    - [ ]  `__len__`
+    - [ ]  `__getitem__`
+    - [ ]  `__setitem__`
+    - [ ]  `__iter__`
+- [ ]  Learn callable and context manager objects:
+    - [ ]  `__call__`
+    - [ ]  `__enter__`
+    - [ ]  `__exit__`
+- [ ]  Understand the difference between:
+    - [ ]  instance attributes
+    - [ ]  class attributes
+    - [ ]  properties with `@property`
+
+---
+
+## Dataclasses
+
+- [ ]  Learn why Python provides the `dataclasses` module
+- [ ]  Create your first dataclass with `@dataclass`
+- [ ]  Understand automatic method generation:
+    - [ ]  `__init__`
+    - [ ]  `__repr__`
+    - [ ]  `__eq__`
+- [ ]  Learn dataclass options:
+    - [ ]  `frozen=True`
+    - [ ]  `order=True`
+    - [ ]  `slots=True`
+- [ ]  Learn default values and `field()`
+- [ ]  Learn `default_factory`
+- [ ]  Learn type hints inside dataclasses
+- [ ]  Convert dataclasses to dictionaries with `asdict()`
+- [ ]  Learn when to use:
+    - [ ]  normal classes
+    - [ ]  dataclasses
+    - [ ]  namedtuples
+- [ ]  Build small practice projects using dataclasses:
+    - [ ]  inventory system
+    - [ ]  game character stats
+    - [ ]  banking/account models
+    - [ ]  configuration objects
 ### Practice
 
 - [ ]  Bank Account system (deposit, withdraw, balance)
