@@ -29,7 +29,7 @@
 [[property decorator]]
 - [x]  `@staticmethod`
 [[static method]]
-- [ ]  `@classmethod`
+- [x]  `@classmethod`
 
 ### Practice
 

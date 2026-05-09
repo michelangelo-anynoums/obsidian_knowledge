@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space and galaxies.md",
+                "file": "Computer Science/Python/ROADMAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Space and galaxies"
+              "title": "ROADMAP"
             }
           }
         ]
@@ -194,5 +194,10 @@
     }
   },
   "active": "b620dd732acc60bf",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Computer Science/Python/Classes/static method.md",
+    "Computer Science/Python/Classes/super() usage.md",
+    "Computer Science/Python/Classes/__init__ and self.md",
+    "Space and galaxies.md"
+  ]
 }
