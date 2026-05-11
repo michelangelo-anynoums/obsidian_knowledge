@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Python/ROADMAP.md",
+                "file": "Computer Science/Python/Classes/classmethod.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROADMAP"
+              "title": "classmethod"
             }
           }
         ]
@@ -195,6 +195,8 @@
   },
   "active": "b620dd732acc60bf",
   "lastOpenFiles": [
+    "Computer Science/Python/ROADMAP.md",
+    "Computer Science/Python/Classes/classmethod.md",
     "Computer Science/Python/Classes/static method.md",
     "Computer Science/Python/Classes/super() usage.md",
     "Computer Science/Python/Classes/__init__ and self.md",

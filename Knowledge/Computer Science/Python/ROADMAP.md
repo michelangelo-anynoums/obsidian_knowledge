@@ -29,9 +29,10 @@
 [[property decorator]]
 - [x]  `@staticmethod`
 [[static method]]
-- [ ]  `@classmethod`
+- [x]  `@classmethod`
+[[classmethod]]
 
-## Python Classes
+### Python Classes
 
 - [ ]  Understand what **dunder methods** (“double underscore methods”) are
 - [ ]  Learn the most common object lifecycle methods:
@@ -65,7 +66,7 @@
 
 ---
 
-## Dataclasses
+### Dataclasses
 
 - [ ]  Learn why Python provides the `dataclasses` module
 - [ ]  Create your first dataclass with `@dataclass`
