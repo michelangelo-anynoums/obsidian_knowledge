@@ -11,7 +11,12 @@
   },
   "knownTags": {
     "tags": 1,
-    "requests": 2
+    "requests": 2,
+    "python": 3,
+    "oop": 4,
+    "dunder-methods": 5,
+    "memory-management": 6,
+    "notes": 7
   },
   "_version": 3
 }

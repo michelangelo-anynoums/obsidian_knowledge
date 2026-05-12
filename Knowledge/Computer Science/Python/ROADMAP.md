@@ -34,11 +34,12 @@
 
 ### Python Classes
 
-- [ ]  Understand what **dunder methods** (“double underscore methods”) are
-- [ ]  Learn the most common object lifecycle methods:
-    - [ ]  `__init__`
-    - [ ]  `__del__`
-    - [ ]  `__new__`
+- [x]  Understand what **dunder methods** (“double underscore methods”) are
+- [x]  Learn the most common object lifecycle methods:
+[[init, new and del dunder methods]]
+    - [x]  `__init__`
+    - [x]  `__del__`
+    - [x]  `__new__`
 - [ ]  Learn how objects are represented:
     - [ ]  `__str__`
     - [ ]  `__repr__`
