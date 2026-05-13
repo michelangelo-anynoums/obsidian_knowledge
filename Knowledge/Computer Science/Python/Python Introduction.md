@@ -39,6 +39,8 @@ Python is a ==high-level==, ==interpreted programming language== known for its s
 **math and cmath** – are essential mathematics libraries in Python. [[math and cmath library]]
 **venv** – is a Python virtual environment for scripting code. [[venv]]
 **Python names** – essential reserved variables in Python. [[python names]]
+**random** — is essential module to generate random numbers in Python. [[random library]]
+
 
 
 ---

@@ -40,9 +40,10 @@
     - [x]  `__init__`
     - [x]  `__del__`
     - [x]  `__new__`
-- [ ]  Learn how objects are represented:
-    - [ ]  `__str__`
-    - [ ]  `__repr__`
+- [x]  Learn how objects are represented:
+[[str, repr dunder methods]]
+    - [x]  `__str__`
+    - [x]  `__repr__`
 - [ ]  Learn comparison and equality methods:
     - [ ]  `__eq__`
     - [ ]  `__lt__`
