@@ -60,6 +60,7 @@ Python is a ==high-level==, ==interpreted programming language== known for its s
 **qrcode** - The qrcode library is a simple and popular Python package for generating QR codes. [[qrcode library]]
 **calendar** - this powerful module shows a full calendar in a console. [[calendar_library]]
 **Flask** – is a lightweight micro-framework for web development in Python. [[Computer Science/Python/Flask_framework/Introduction|Introduction]]
+**dotenv** - Python module for creating environment variables. [[dotenv library]]
 
 ---
 Forgot **hotkeys**? Go to [Hotkeys](app://obsidian.md/Hotkeys)  
