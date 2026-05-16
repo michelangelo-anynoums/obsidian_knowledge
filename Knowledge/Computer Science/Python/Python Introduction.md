@@ -27,7 +27,7 @@ Python is a ==high-level==, ==interpreted programming language== known for its s
 **json** – JSON library to work with json files over the network. [[json library]]
 **time** - Python library used for time measuring and control. [[time library]]
 **datetime** - Python library used for time and date control. [[datetime library]]
-**with** - Python basics used for controlling code and errors. [[with basics]]
+**context manager** - Python basics used for controlling code and errors. [[context manager]]
 **map** - standard core Python basics function used to iterate lists. [[map basics]]
 **tempfile** - is a module in Python is a great tool for working with temporary files and directories. [[tempfile library]]
 **platform** - is a built-in Python library that allows you to identify the system and environment where your Python program is running. [[platform library]]

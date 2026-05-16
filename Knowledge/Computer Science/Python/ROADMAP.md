@@ -44,14 +44,16 @@
 [[str, repr dunder methods]]
     - [x]  `__str__`
     - [x]  `__repr__`
-- [ ]  Learn comparison and equality methods:
-    - [ ]  `__eq__`
-    - [ ]  `__lt__`
-    - [ ]  `__gt__`
-- [ ]  Learn operator overloading:
-    - [ ]  `__add__`
-    - [ ]  `__sub__`
-    - [ ]  `__mul__`
+- [x]  Learn comparison and equality methods:
+[[eq, ls, gt dunder methods]]
+    - [x]  `__eq__`
+    - [x]  `__lt__`
+    - [x]  `__gt__`
+- [x]  Learn operator overloading:
+[[add, sub, mul dunder methods]]
+    - [x]  `__add__`
+    - [x]  `__sub__`
+    - [x]  `__mul__`
 - [ ]  Learn container and iterable behavior:
     - [ ]  `__len__`
     - [ ]  `__getitem__`
