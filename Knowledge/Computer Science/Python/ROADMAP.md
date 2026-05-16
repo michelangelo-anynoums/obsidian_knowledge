@@ -328,3 +328,72 @@
     - [ ]  Basic UI templates
 
 ---
+
+# Middle Python knowledge
+## 1) Core “must fully understand” Python behavior
+
+These fix the gaps that separate junior from mid-level:
+
+- Mutability (deep vs shallow copy, references)
+- Closures + late binding (`lambda`, nested functions)
+- Scope rules (LEGB in practice)
+- `*args`, `**kwargs` (real usage, not just syntax)
+- Object identity vs equality (`is` vs `==`)
+
+---
+
+## 2) OOP (real-world level)
+
+Go beyond basic classes:
+
+- Inheritance vs composition (when to use which)
+- `@classmethod` vs `@staticmethod`
+- Dunder methods (`__str__`, `__repr__`, `__len__`, etc.)
+- Basic SOLID principles (especially SRP + OCP)
+
+---
+
+## 3) Iteration & functional tools
+
+These appear everywhere in real code:
+
+- Iterators vs iterables
+- Generators + `yield`
+- `map`, `filter`, `any`, `all`
+- Comprehension mastery (list/dict/set)
+
+---
+
+## 4) Error handling (production style)
+
+- Custom exceptions
+- Proper use of `try/except/else/finally`
+- Avoiding silent failures
+
+---
+
+## 5) Concurrency basics (very important gap for you)
+
+- `asyncio` fundamentals (event loop, `await`)
+- When NOT to use async
+- Difference: threading vs multiprocessing vs async
+
+---
+
+## 6) Practical “job-ready” skills
+
+These matter more than theory for getting hired:
+
+- Working with APIs (requests / REST)
+- File handling (JSON, CSV)
+- Basic SQL (SELECT, JOIN, WHERE)
+- Virtual environments + pip/poetry
+- Debugging (reading stack traces properly)
+
+---
+
+## 7) Testing (often ignored, but important)
+
+- `unittest` or `pytest`
+- Writing simple test cases
+- Why tests matter in real projects
