@@ -54,19 +54,21 @@
     - [x]  `__add__`
     - [x]  `__sub__`
     - [x]  `__mul__`
-- [ ]  Learn container and iterable behavior:
-    - [ ]  `__len__`
-    - [ ]  `__getitem__`
-    - [ ]  `__setitem__`
-    - [ ]  `__iter__`
-- [ ]  Learn callable and context manager objects:
-    - [ ]  `__call__`
-    - [ ]  `__enter__`
-    - [ ]  `__exit__`
-- [ ]  Understand the difference between:
-    - [ ]  instance attributes
-    - [ ]  class attributes
-    - [ ]  properties with `@property`
+- [x]  Learn container and iterable behavior:
+[[len, iter, getitem, setitem]]
+    - [x]  `__len__`
+    - [x]  `__getitem__`
+    - [x]  `__setitem__`
+    - [x]  `__iter__`
+- [x]  Learn callable and context manager objects:
+[[call, enter, exit]]
+    - [x]  `__call__`
+    - [x]  `__enter__`
+    - [x]  `__exit__`
+- [x]  Understand the difference between:
+    - [x]  instance attributes
+    - [x]  class attributes
+    - [x]  properties with `@property`
 
 ---
 
