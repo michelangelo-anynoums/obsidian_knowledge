@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Python/Classes/call, enter, exit.md",
+                "file": "Computer Science/Linux/Cybersecurity kind of lol/Google Dorks/Cheat Sheet.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "call, enter, exit"
+              "title": "Cheat Sheet"
             }
           }
         ]
@@ -195,8 +195,10 @@
   },
   "active": "aa5fc268f8f8e914",
   "lastOpenFiles": [
-    "Computer Science/Python/Classes/len, iter, getitem, setitem.md",
     "Computer Science/Python/Classes/call, enter, exit.md",
+    "Computer Science/Linux/Cybersecurity kind of lol/Google Dorks/Cheat Sheet.md",
+    "Computer Science/Linux/Cybersecurity kind of lol/Google Dorks",
+    "Computer Science/Python/Classes/len, iter, getitem, setitem.md",
     "Computer Science/Python/ROADMAP.md",
     "Computer Science/Python/Classes/eq, ls, gt dunder methods.md",
     "Computer Science/Python/Libraries/rich library.md",
@@ -224,7 +226,6 @@
     "Untitled.canvas",
     "Untitled.base",
     "Computer Science/Python/Classes/property decorator.md",
-    "Computer Science/Python/Classes/Polymorphism.md",
-    "Computer Science/Python/Classes/classmethod.md"
+    "Computer Science/Python/Classes/Polymorphism.md"
   ]
 }
