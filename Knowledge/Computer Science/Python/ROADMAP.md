@@ -74,34 +74,43 @@
 
 ### Dataclasses
 
-- [ ]  Learn why Python provides the `dataclasses` module
-- [ ]  Create your first dataclass with `@dataclass`
-- [ ]  Understand automatic method generation:
-    - [ ]  `__init__`
-    - [ ]  `__repr__`
-    - [ ]  `__eq__`
-- [ ]  Learn dataclass options:
-    - [ ]  `frozen=True`
-    - [ ]  `order=True`
-    - [ ]  `slots=True`
-- [ ]  Learn default values and `field()`
-- [ ]  Learn `default_factory`
-- [ ]  Learn type hints inside dataclasses
-- [ ]  Convert dataclasses to dictionaries with `asdict()`
-- [ ]  Learn when to use:
-    - [ ]  normal classes
-    - [ ]  dataclasses
-    - [ ]  namedtuples
-- [ ]  Build small practice projects using dataclasses:
-    - [ ]  inventory system
-    - [ ]  game character stats
-    - [ ]  banking/account models
-    - [ ]  configuration objects
+- [x]  Learn why Python provides the `dataclasses` module
+- [x]  Create your first dataclass with `@dataclass`
+- [x]  Understand automatic method generation:
+    - [x]  `__init__`
+    - [x]  `__repr__`
+    - [x]  `__eq__`
+- [x]  Learn dataclass options:
+    - [x]  `frozen=True`
+    - [x]  `order=True`
+    - [x]  `slots=True`
+- [x]  Learn default values and `field()`
+- [x]  Learn `default_factory`
+- [x]  Learn type hints inside dataclasses
+- [x]  Convert dataclasses to dictionaries with `asdict()`
+- [x]  Learn when to use:
+    - [x]  normal classes
+    - [x]  dataclasses
+    - [x]  namedtuples
+- [x]  Build small practice projects using dataclasses:
+    - [x]  inventory system
+    - [x]  game character stats
+    - [x]  banking/account models
+    - [x]  configuration objects
+
+
+
+
+
+
+
+
+[[dataclasses python]]
 ### Practice
 
 - [ ]  Bank Account system (deposit, withdraw, balance)
 - [ ]  Library Manager (books, users, borrowing)
-- [ ]  Game Character system (inheritance-based)
+- [x]  Game Character system (inheritance-based)
 
 ---
 
