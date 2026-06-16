@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiKeyboard",
-      "LiList",
-      "LiStar",
-      "LiComputer",
-      "LiLanguages"
+      "LiActivity",
+      "🔌",
+      "LiToolCase",
+      "LiAtom",
+      "🧑‍🔬"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,10 @@
   "Spanish": "LiLanguages",
   "Computer Science": "LiComputer",
   "Spanish/Grammar": "LiList",
-  "Shortcuts": "LiKeyboard"
+  "Shortcuts": "LiKeyboard",
+  "Astronomy": "FabSpaceAwesome",
+  "Chess": "LiChessKing",
+  "Physics": "LiAtom",
+  "Kali Tools": "LiToolCase",
+  "Soldering iron": "LiActivity"
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astronomy/Space and galaxies.md",
+                "file": "Soldering iron/ROADMAP.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Space and galaxies"
+              "title": "ROADMAP"
             }
           }
         ]
@@ -195,9 +195,23 @@
   },
   "active": "aa5fc268f8f8e914",
   "lastOpenFiles": [
+    "Kali Tools/ROADMAP.md",
+    "Soldering iron/ROADMAP.md",
+    "Soldering iron/Untitled",
+    "Soldering iron",
+    "Physics/ROADMAP.md",
+    "Kali Tools",
+    "Astronomy/Space and galaxies.md",
+    "Chess/ROADMAP.md",
+    "Physics",
+    "Spanish/Los Tiempos.md",
+    "Chess",
+    "Spanish/Grammar/Modo Indicativo/Pretérito imperfecto.md",
+    "Spanish/Grammar/Modo Indicativo/Presente.md",
+    "Computer Science/Python/ROADMAP.md",
+    "Computer Science/Python/Libraries/venv.md",
     "Computer Science/Introduction.md",
     "Computer Science/Python/Libraries/asyncio library.md",
-    "Computer Science/Python/ROADMAP.md",
     "Computer Science/Python/Python Introduction.md",
     "Computer Science/Python/python-logo.png",
     "Computer Science/Python/Classes/classmethod.md",
@@ -214,16 +228,7 @@
     "Computer Science/Python/Libraries/bs4 library.md",
     "Computer Science/Python/Libraries/os library.md",
     "Computer Science/Python/Libraries/sys library.md",
-    "Computer Science/Python/Classes/add, sub, mul dunder methods.md",
-    "Computer Science/Python/Libraries/qrcode library.md",
-    "Computer Science/Python/Libraries/time library.md",
-    "Computer Science/Python/Libraries/tempfile library.md",
-    "Computer Science/Python/Libraries/context manager.md",
-    "Computer Science/Python/Libraries/dotenv library.md",
-    "Astronomy/Space and galaxies.md",
     "Astronomy",
-    "Computer Science/Python/Libraries/random library.md",
-    "Computer Science/Python/Classes/str, repr dunder methods.md",
     "Untitled 1.canvas",
     "Untitled 1.base",
     "Untitled.canvas",
