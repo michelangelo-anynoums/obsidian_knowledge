@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Python/ROADMAP.md",
+                "file": "Astronomy/Space and galaxies.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROADMAP"
+              "title": "Space and galaxies"
             }
           }
         ]
@@ -193,13 +193,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "02b9f68937027fa0",
+  "active": "aa5fc268f8f8e914",
   "lastOpenFiles": [
     "Computer Science/Introduction.md",
+    "Computer Science/Python/Libraries/asyncio library.md",
+    "Computer Science/Python/ROADMAP.md",
+    "Computer Science/Python/Python Introduction.md",
+    "Computer Science/Python/python-logo.png",
     "Computer Science/Python/Classes/classmethod.md",
     "Computer Science/Python/Libraries/rich library.md",
     "Computer Science/Python/Classes/dataclasses python.md",
-    "Computer Science/Python/ROADMAP.md",
     "Computer Science/Python/Classes/encapsulation basics.md",
     "Computer Science/Linux/Cybersecurity kind of lol/Google Dorks/Cheat Sheet.md",
     "Computer Science/Python/Classes/call, enter, exit.md",
@@ -213,7 +216,6 @@
     "Computer Science/Python/Libraries/sys library.md",
     "Computer Science/Python/Classes/add, sub, mul dunder methods.md",
     "Computer Science/Python/Libraries/qrcode library.md",
-    "Computer Science/Python/Python Introduction.md",
     "Computer Science/Python/Libraries/time library.md",
     "Computer Science/Python/Libraries/tempfile library.md",
     "Computer Science/Python/Libraries/context manager.md",
@@ -222,7 +224,6 @@
     "Astronomy",
     "Computer Science/Python/Libraries/random library.md",
     "Computer Science/Python/Classes/str, repr dunder methods.md",
-    "Computer Science/Python/Classes/init, new and del dunder methods.md",
     "Untitled 1.canvas",
     "Untitled 1.base",
     "Untitled.canvas",

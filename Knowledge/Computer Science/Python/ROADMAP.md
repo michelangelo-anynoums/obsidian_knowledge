@@ -108,9 +108,9 @@
 [[dataclasses python]]
 ### Practice
 
-- [ ]  Bank Account system (deposit, withdraw, balance)
+- [x]  Bank Account system (deposit, withdraw, balance)
 - [ ]  Library Manager (books, users, borrowing)
-- [x]  Game Character system (inheritance-based)
+- [ ]  Game Character system (inheritance-based)
 
 ---
 
