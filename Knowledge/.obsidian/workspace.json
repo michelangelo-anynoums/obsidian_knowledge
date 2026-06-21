@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soldering iron/ROADMAP.md",
+                "file": "Lockpicking/ROADMAP.md",
                 "mode": "preview",
                 "source": false
               },
@@ -171,8 +171,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -195,11 +195,18 @@
   },
   "active": "aa5fc268f8f8e914",
   "lastOpenFiles": [
-    "Kali Tools/ROADMAP.md",
+    "WiFI mastery/ROADMAP.md",
+    "Lockpicking/ROADMAP.md",
+    "Lockpicking/Untitled",
+    "Lockpicking",
+    "Physics/ROADMAP.md",
+    "WiFI mastery",
+    "Computer Science/Git/Basics/Essential commands.md",
+    "Computer Science/Git/Basics/Basics.md",
     "Soldering iron/ROADMAP.md",
+    "Kali Tools/ROADMAP.md",
     "Soldering iron/Untitled",
     "Soldering iron",
-    "Physics/ROADMAP.md",
     "Kali Tools",
     "Astronomy/Space and galaxies.md",
     "Chess/ROADMAP.md",
@@ -224,14 +231,8 @@
     "Computer Science/Python/Classes/len, iter, getitem, setitem.md",
     "Computer Science/Python/Classes/eq, ls, gt dunder methods.md",
     "Computer Science/Python/Libraries/threading library.md",
-    "Computer Science/Python/Libraries/built-in methods.md",
-    "Computer Science/Python/Libraries/bs4 library.md",
-    "Computer Science/Python/Libraries/os library.md",
-    "Computer Science/Python/Libraries/sys library.md",
     "Astronomy",
     "Untitled 1.canvas",
-    "Untitled 1.base",
-    "Untitled.canvas",
-    "Untitled.base"
+    "Untitled.canvas"
   ]
 }

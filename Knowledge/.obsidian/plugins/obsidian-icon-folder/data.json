@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLock",
+      "LiWifi",
       "LiActivity",
       "🔌",
-      "LiToolCase",
-      "LiAtom",
-      "🧑‍🔬"
+      "LiToolCase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,7 @@
   "Chess": "LiChessKing",
   "Physics": "LiAtom",
   "Kali Tools": "LiToolCase",
-  "Soldering iron": "LiActivity"
+  "Soldering iron": "LiActivity",
+  "WiFI mastery": "LiWifi",
+  "Lockpicking": "LiLock"
 }
