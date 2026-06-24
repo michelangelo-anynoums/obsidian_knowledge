@@ -12,7 +12,7 @@ In this course, I will focus on practical programming skills, operating systems,
     
 - **==Python==**: Key principles of programming, data handling, and automation with one of the most beginner-friendly yet powerful languages. [[Python Introduction]]
     
-- **==Linux==**: The fundamentals of using and managing a Linux operating system, including command-line skills and system administration. [[Computer Science/Linux/Introduction|Introduction]]
+- **==Linux==**: The fundamentals of using and managing a Linux operating system, including command-line skills and system administration. [[Summer routine/Computer Science/Linux/Introduction|Introduction]]
 
 ![[Computer_science_picture.webp]]
 

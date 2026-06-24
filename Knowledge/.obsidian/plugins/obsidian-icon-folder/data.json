@@ -33,16 +33,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "Spanish": "LiLanguages",
-  "Computer Science": "LiComputer",
-  "Spanish/Grammar": "LiList",
-  "Shortcuts": "LiKeyboard",
-  "Astronomy": "FabSpaceAwesome",
-  "Chess": "LiChessKing",
-  "Physics": "LiAtom",
-  "Kali Tools": "LiToolCase",
-  "Soldering iron": "LiActivity",
-  "WiFI mastery": "LiWifi",
-  "Lockpicking": "LiLock"
+  }
 }

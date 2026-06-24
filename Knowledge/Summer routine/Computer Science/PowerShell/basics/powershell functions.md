@@ -278,4 +278,4 @@ Get-Greeting -Name "Alex" -Formal $true
 
 ---
 Forgot **hotkeys**? Go to [Hotkeys](app://obsidian.md/Hotkeys)  
-Learn more? Go to Introduction: [[Computer Science/PowerShell/Introduction|Introduction]]
+Learn more? Go to Introduction: [[Summer routine/Computer Science/PowerShell/Introduction|Introduction]]
