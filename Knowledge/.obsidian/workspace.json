@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lockpicking/ROADMAP.md",
+                "file": "Computer Science/Python/Python Introduction.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROADMAP"
+              "title": "Python Introduction"
             }
           }
         ]
@@ -195,8 +195,9 @@
   },
   "active": "aa5fc268f8f8e914",
   "lastOpenFiles": [
-    "WiFI mastery/ROADMAP.md",
+    "Computer Science/Python/ROADMAP.md",
     "Lockpicking/ROADMAP.md",
+    "WiFI mastery/ROADMAP.md",
     "Lockpicking/Untitled",
     "Lockpicking",
     "Physics/ROADMAP.md",
@@ -215,7 +216,6 @@
     "Chess",
     "Spanish/Grammar/Modo Indicativo/Pretérito imperfecto.md",
     "Spanish/Grammar/Modo Indicativo/Presente.md",
-    "Computer Science/Python/ROADMAP.md",
     "Computer Science/Python/Libraries/venv.md",
     "Computer Science/Introduction.md",
     "Computer Science/Python/Libraries/asyncio library.md",
