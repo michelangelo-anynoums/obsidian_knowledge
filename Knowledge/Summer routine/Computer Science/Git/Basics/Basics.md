@@ -101,4 +101,4 @@ Git will never track these.
 
 ---
 Forgot **hotkeys**? Go to [Hotkeys](app://obsidian.md/Hotkeys)  
-Learn more? Go to Introduction: [[Computer Science/Git/Introduction|Introduction]]
+Learn more? Go to Introduction: [[Summer routine/Computer Science/Git/Introduction|Introduction]]
