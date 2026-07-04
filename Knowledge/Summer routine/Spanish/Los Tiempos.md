@@ -19,7 +19,7 @@
     
 - Pretérito imperfecto: [[Pretérito imperfecto]]
     
-- Pretérito perfecto simple
+- Pretérito perfecto simple [[Pretérito perfecto simple]]
     
 - Pretérito perfecto compuesto
     

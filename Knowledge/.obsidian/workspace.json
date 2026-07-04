@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer routine/Assembly/ROADMAP.md",
+                "file": "Summer routine/Spanish/Grammar/Modo Indicativo/Pretérito perfecto simple.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROADMAP"
+              "title": "Pretérito perfecto simple"
             }
           }
         ]
@@ -195,8 +195,13 @@
   },
   "active": "aa5fc268f8f8e914",
   "lastOpenFiles": [
-    "Summer routine/Assembly/Softwares.md",
+    "Summer routine/Spanish/palabras o frases.md",
+    "Summer routine/Spanish/Grammar/Modo Indicativo/Pretérito perfecto simple.md",
+    "Summer routine/Spanish/Los Tiempos.md",
+    "Summer routine/Spanish/Grammar/Modo Indicativo/Presente.md",
+    "Summer routine/Spanish/Grammar/Modo Indicativo/Pretérito imperfecto.md",
     "Summer routine/Assembly/ROADMAP.md",
+    "Summer routine/Assembly/Softwares.md",
     "Summer routine/Physics/ROADMAP.md",
     "Summer routine/Assembly",
     "Summer routine/Chess/ROADMAP.md",
@@ -216,9 +221,6 @@
     "Summer routine/Kali Tools",
     "Other/Astronomy/Space and galaxies.md",
     "Summer routine/Physics",
-    "Summer routine/Spanish/Los Tiempos.md",
-    "Summer routine/Spanish/Grammar/Modo Indicativo/Pretérito imperfecto.md",
-    "Summer routine/Spanish/Grammar/Modo Indicativo/Presente.md",
     "Summer routine/Computer Science/Python/ROADMAP.md",
     "Summer routine/Computer Science/Python/Libraries/venv.md",
     "Summer routine/Computer Science/Introduction.md",
@@ -230,8 +232,6 @@
     "Summer routine/Computer Science/Python/Classes/dataclasses python.md",
     "Summer routine/Computer Science/Python/Classes/encapsulation basics.md",
     "Summer routine/Computer Science/Linux/Cybersecurity kind of lol/Google Dorks/Cheat Sheet.md",
-    "Summer routine/Computer Science/Python/Classes/call, enter, exit.md",
-    "Summer routine/Computer Science/Python/Classes/len, iter, getitem, setitem.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
