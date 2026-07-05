@@ -21,7 +21,7 @@
     
 - Pretérito perfecto simple [[Pretérito perfecto simple]]
     
-- Pretérito perfecto compuesto
+- Pretérito perfecto compuesto [[Pretérito perfecto compuesto]]
     
 - Pretérito pluscuamperfecto
     

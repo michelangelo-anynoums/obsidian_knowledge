@@ -2,6 +2,8 @@
 
 ## 1. Pin Tumbler Cylinder Locks
 
+![[Pasted image 20260705115142.png|321]]
+
 ### Examples
 
 - Most residential door locks
@@ -30,6 +32,11 @@ Pins inside the lock must align at a specific height for the cylinder to rotate.
 - Tight manufacturing tolerances
     
 
+![[Pasted image 20260705114827.png|407]]
+
+![[Pasted image 20260705114938.png|450]]
+
+![[Pasted image 20260705114908.png|181]]
 ### Common Vulnerabilities
 
 - Poor manufacturing tolerances
