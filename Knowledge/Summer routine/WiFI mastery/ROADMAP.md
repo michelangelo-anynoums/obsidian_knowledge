@@ -1,5 +1,22 @@
 # 30-Day Wi-Fi Cybersecurity Roadmap
 
+---
+
+> **Prompt**: Hi, I just wondered, if you could please help me. 
+>
+I learn physics and computer science and I need to write simple, short and well explained notes about this topic. Please it should be in "WRITING" mode. 
+> 
+> Use simple words and easy sentences. Maintain the shortness and important ideas of the texts. Highlight important words or phrases using Obsidian rules.
+> 
+> **Topic: (just give a breve answer to each point/topic)**
+> 
+> ### Networking Basics
+Learn: - What is a network? - LAN vs WAN - Internet - Clients - Servers - Network topologies
+> 
+> Thanks a lot. Thanks.
+
+---
+
 ## Study Strategy
 
 Each day:
@@ -26,7 +43,7 @@ By Day 30, understand Wi-Fi well enough to analyze captures, understand WPA2/WPA
 
 ### Day 1
 
-### Networking Basics
+### Networking Basics [[Networking Basics]]
 
 Learn:
 

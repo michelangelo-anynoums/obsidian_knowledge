@@ -47,20 +47,6 @@ Best for structured and repeatable intelligence gathering.
 
 ## 2. Vulnerability Analysis
 
-### Nessus / OpenVAS
-
-Purpose: Vulnerability scanning  
-Key concepts:
-
-- CVE detection
-- CVSS risk scoring
-- Automated reporting
-
-Notes:  
-Identifies known vulnerabilities in systems and services.
-
----
-
 ### Nikto
 
 Purpose: Web server scanning  
@@ -73,40 +59,10 @@ Key concepts:
 Notes:  
 Fast, lightweight web server scanner.
 
----
-
-## 3. Web Application Testing
-
-### Burp Suite
-
-Purpose: Web application security testing  
-Key concepts:
-
-- Intercepting proxy
-- Request/response manipulation
-- Repeater (manual testing)
-- Intruder (automated attacks)
-
-Notes:  
-Industry-standard tool for web security testing.
 
 ---
 
-### OWASP ZAP
-
-Purpose: Web vulnerability scanner  
-Key concepts:
-
-- Passive scanning
-- Active scanning
-- Spidering applications
-- OWASP Top 10 mapping
-
-Notes:  
-Good free alternative to Burp Suite.
-
----
-
+## 3. Directory brute force
 ### Dirb
 
 Purpose: Web directory brute-forcing  
@@ -242,20 +198,6 @@ Essential for understanding network traffic.
 
 ---
 
-### tcpdump
-
-Purpose: CLI packet capture  
-Key concepts:
-
-- Lightweight sniffing
-- Filtering by IP/port
-- Capture file generation
-
-Notes:  
-Useful when GUI tools are unavailable.
-
----
-
 ### Scapy
 
 Purpose: Packet crafting and network manipulation  
@@ -304,37 +246,7 @@ Focuses on exploiting human behavior rather than systems.
 
 ---
 
-## 10. Privilege Escalation
-
-### LinPEAS / WinPEAS
-
-Purpose: System enumeration  
-Key concepts:
-
-- Misconfiguration detection
-- Credential discovery
-- Privilege escalation paths
-
-Notes:  
-Automates post-exploitation analysis.
-
----
-
-### Linux Exploit Suggester
-
-Purpose: Kernel exploit mapping  
-Key concepts:
-
-- Kernel version analysis
-- CVE matching
-- Exploit suggestions
-
-Notes:  
-Helps identify potential escalation opportunities.
-
----
-
-## 11. Wordlists & Generation Tools
+## 10. Wordlists & Generation Tools
 
 ### Crunch
 
@@ -349,15 +261,3 @@ Notes:
 Used for custom brute-force lists.
 
 ---
-
-### SecLists
-
-Purpose: Security wordlist collection  
-Key concepts:
-
-- Password lists
-- Directory brute-force lists
-- User enumeration lists
-
-Notes:  
-Essential resource for penetration testing.
