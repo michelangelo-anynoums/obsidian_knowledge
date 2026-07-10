@@ -6,7 +6,8 @@
 >
 I learn physics and computer science and I need to write simple, short and well explained notes about this topic. Please it should be in "WRITING" mode. 
 > 
-> Use simple words and easy sentences. Maintain the shortness and important ideas of the texts. Highlight important words or phrases using Obsidian rules.
+> Use simple words and easy sentences. Maintain the shortness and important ideas of the texts. Highlight important words or phrases using Obsidian rules. Please, include easy and simple examples + some physics equations with readable formulas.
+> PLEASE: Include 2-3 simple and easy RESOLVED example about current topic to be able to practice.
 > 
 > **Topic: (just give a breve answer to each point/topic)**
 > 
@@ -74,25 +75,25 @@ I learn physics and computer science and I need to write simple, short and well 
 
 # 3. Electricity Fundamentals (CORE)
 
-## 3.1 Electric Charge
+## 3.1 Electric Charge [[Electric Charge]]
 
 - Electrons as charge carriers
 - Positive vs negative charge
 - Charge conservation
 
-## 3.2 Voltage
+## 3.2 Voltage [[Voltage]]
 
 - Electrical potential difference
 - “Pressure” pushing electrons
 - Measured in volts
 
-## 3.3 Current
+## 3.3 Current [[Current]]
 
 - Flow of electric charge
 - Measured in amperes
 - Electron flow in conductors
 
-## 3.4 Resistance
+## 3.4 Resistance [[Resistance]]
 
 - Opposition to current flow
 - Material properties affecting resistance

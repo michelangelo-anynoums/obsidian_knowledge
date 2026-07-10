@@ -6,6 +6,20 @@ Learn the essential computer hardware components, peripheral devices, maintenanc
 
 **Time Commitment:** 2–3 hours per week
 
+
+> **Prompt**: Hi, I just wondered, if you could please help me. 
+>
+I learn physics and computer science and I need to write simple, short and well explained notes about this topic. Please it should be in "WRITING" mode. 
+> 
+> Use simple words and easy sentences. Maintain the shortness and important ideas of the texts. Highlight important words or phrases using Obsidian rules.
+> 
+> **Topic: (just give a breve answer to each point/topic)**
+> 
+> ---
+> 
+> Thanks a lot. Thanks.
+
+
 ---
 
 # Week 1 — Peripherals & Displays
@@ -18,9 +32,12 @@ Understand the most common input and output devices and their major variants.
 
 ## Theory
 
-### Keyboards
+### Keyboards [[Keyboards]]
 
-#### Membrane
+https://www.youtube.com/watch?v=6HqO1ltAat4&pp=ygUSa2V5Ym9hcmQgZXhwbGFpbmVk
+
+https://youtu.be/Qx-8JdRgAK4
+#### Membrane 
 
 - Rubber dome switches
     
@@ -90,7 +107,9 @@ Understand the most common input and output devices and their major variants.
 
 ---
 
-### Mouse Types
+### Mouse Types [[Mouse Types]]
+
+https://www.youtube.com/watch?v=eoUgDF5QtP0&pp=ygUadHlwZXMgb2YgbW91c2UgaW4gY29tcHV0ZXI%3D
 
 #### Mechanical Mouse
 
@@ -152,7 +171,7 @@ Understand the most common input and output devices and their major variants.
 
 ---
 
-### Display Types
+### Display Types [[Display Types]] 
 
 #### LCD
 
@@ -201,42 +220,7 @@ Understand the most common input and output devices and their major variants.
 - Better HDR performance
     
 
----
-
-## References
-
-### Video
-
-- Linus Tech Tips: Keyboard Switches Explained
-    
-- Linus Tech Tips: Mouse Sensor Guide
-    
-- Hardware Canucks: Monitor Panel Types Explained
-    
-
-### Reading
-
-- How-To Geek: Mechanical Keyboard Guide
-    
-- How-To Geek: IPS vs VA vs TN
-    
-- Tom's Hardware: Mouse Buying Guide
-    
-
----
-
-## Notes
-
-Create notes for:
-
-- Keyboard Types
-    
-- Keyboard Switch Types
-    
-- Mouse Types
-    
-- Display Technologies
-    
+https://www.youtube.com/watch?v=EMg87BB4BoU&pp=ygUcdHlwZXMgb2Ygc2NyZWVucyBleHBsYW5hdGlvbg%3D%3D
 
 ---
 

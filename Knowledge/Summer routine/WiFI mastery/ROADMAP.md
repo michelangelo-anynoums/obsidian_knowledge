@@ -67,7 +67,7 @@ Draw a simple home network.
 
 ### Day 2
 
-### OSI + TCP/IP Models
+### OSI + TCP/IP Models [[OSI TCP IP Models]]
 
 Learn:
 
