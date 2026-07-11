@@ -23,9 +23,9 @@
     
 - Pretérito perfecto compuesto [[Pretérito perfecto compuesto]]
     
-- Pretérito pluscuamperfecto
+- Pretérito pluscuamperfecto [[Pretérito pluscuamperfecto]]
     
-- Pretérito anterior
+- Pretérito anterior [[Pretérito anterior]]
     
 - Futuro simple
     

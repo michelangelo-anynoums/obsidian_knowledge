@@ -10,17 +10,17 @@
         
     -  [x] Two Knights Defense [[Two Knights Defense]]
         
--  [ ] Ruy Lopez (Spanish Game)
+-  [x] Ruy Lopez (Spanish Game) [[Spanish Game]]
     
-    -  [ ] Exchange Variation
+    -  [x] Exchange Variation [[Exchange Variation]]
         
-    -  [ ] Closed Variation
+    -  [x] Closed Variation [[Closed Variation]]
         
-    -  [ ] Open Variation
+    -  [x] Open Variation [[Open Variation]]
         
-    -  [ ] Berlin Defense
+    -  [x] Berlin Defense [[Berlin Defense]]
         
-    -  [ ] Marshall Attack
+    -  [x] Marshall Attack [[Marshall Attack]]
         
 -  [ ] Scotch Game
     
