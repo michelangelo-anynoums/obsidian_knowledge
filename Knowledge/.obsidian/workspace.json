@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer routine/Spanish/palabras o frases.md",
+                "file": "Summer routine/WiFI mastery/ROADMAP.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "palabras o frases"
+              "title": "ROADMAP"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 321.5004348754883
   },
   "right": {
     "id": "620444b996bf9adb",
@@ -195,6 +195,15 @@
   },
   "active": "490b09000223faac",
   "lastOpenFiles": [
+    "Summer routine/WiFI mastery/Notes/IP Addressing Routing.md",
+    "Summer routine/WiFI mastery/ROADMAP.md",
+    "Summer routine/WiFI mastery/Notes/MAC Addresses Ethernet Switching.md",
+    "Summer routine/Physics/Notes/Ohm's Law.md",
+    "Summer routine/Physics/ROADMAP.md",
+    "Summer routine/Physics/Notes/Electrical Power.md",
+    "Summer routine/Computer Science/Ethnical hacking/Notes.md",
+    "Summer routine/Computer Science/Linux/SQLmap/SQLmap.md",
+    "Summer routine/Spanish/palabras o frases.md",
     "Summer routine/Spanish/Grammar/Modo Indicativo/Pretérito anterior.md",
     "Summer routine/Spanish/Los Tiempos.md",
     "Summer routine/Spanish/Grammar/Modo Indicativo/Pretérito pluscuamperfecto.md",
@@ -219,22 +228,13 @@
     "Summer routine/Chess/Notes/Spanish Game.md",
     "Summer routine/Chess/Chess notation.md",
     "Summer routine/Chess/Rating notation.md",
-    "Summer routine/Computer Science/Ethnical hacking/Notes.md",
     "Summer routine/Soldering iron/ROADMAP.md",
     "Summer routine/Computer Science/Ethnical hacking",
     "Summer routine/Soldering iron/Notes/Tools Equipment.md",
     "Summer routine/Soldering iron/Notes/Fundamentals of Soldering.md",
     "Summer routine/Soldering iron/Notes",
-    "Summer routine/Assembly/ROADMAP.md",
-    "Summer routine/Assembly/Notes/Display Types.md",
-    "Summer routine/Assembly/Notes/Mouse Types.md",
-    "Summer routine/Assembly/Notes/Keyboards.md",
-    "Summer routine/Assembly/Softwares.md",
-    "Summer routine/Physics/ROADMAP.md",
     "Summer routine/Assembly/Images",
     "Summer routine/Assembly/Notes",
-    "Summer routine/Physics/Notes/Voltage.md",
-    "Summer routine/Physics/Notes/Electric Charge.md",
     "OSI/TCP",
     "OSI",
     "OSI and TCP",

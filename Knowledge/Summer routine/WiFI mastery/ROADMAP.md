@@ -89,7 +89,7 @@ Focus:
 
 ### Day 3
 
-### MAC Addresses + Ethernet + Switching
+### MAC Addresses + Ethernet + Switching [[MAC Addresses Ethernet Switching]]
 
 Learn:
 
@@ -110,7 +110,7 @@ Learn:
 
 ### Day 4
 
-### IP Addressing + Routing
+### IP Addressing + Routing [[IP Addressing Routing]]
 
 Learn:
 

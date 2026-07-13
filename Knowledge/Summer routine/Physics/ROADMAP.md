@@ -99,12 +99,12 @@ I learn physics and computer science and I need to write simple, short and well 
 - Material properties affecting resistance
 - Heat generation in resistors
 
-## 3.5 Ohm’s Law
+## 3.5 Ohm’s Law [[Ohm's Law]]
 
 - Relationship between voltage, current, resistance
 - Linear electrical behavior in simple circuits
 
-## 3.6 Electrical Power
+## 3.6 Electrical Power [[Electrical Power]]
 
 - Power = voltage × current
 - Why devices heat up
