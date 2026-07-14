@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer routine/WiFI mastery/ROADMAP.md",
+                "file": "Summer routine/Computer Science/Ethnical hacking/Notes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROADMAP"
+              "title": "Notes"
             }
           }
         ]
@@ -195,8 +195,10 @@
   },
   "active": "490b09000223faac",
   "lastOpenFiles": [
-    "Summer routine/WiFI mastery/Notes/IP Addressing Routing.md",
     "Summer routine/WiFI mastery/ROADMAP.md",
+    "Summer routine/Assembly/Notes/Keyboards.md",
+    "Summer routine/Assembly/ROADMAP.md",
+    "Summer routine/WiFI mastery/Notes/IP Addressing Routing.md",
     "Summer routine/WiFI mastery/Notes/MAC Addresses Ethernet Switching.md",
     "Summer routine/Physics/Notes/Ohm's Law.md",
     "Summer routine/Physics/ROADMAP.md",
@@ -230,8 +232,6 @@
     "Summer routine/Chess/Rating notation.md",
     "Summer routine/Soldering iron/ROADMAP.md",
     "Summer routine/Computer Science/Ethnical hacking",
-    "Summer routine/Soldering iron/Notes/Tools Equipment.md",
-    "Summer routine/Soldering iron/Notes/Fundamentals of Soldering.md",
     "Summer routine/Soldering iron/Notes",
     "Summer routine/Assembly/Images",
     "Summer routine/Assembly/Notes",

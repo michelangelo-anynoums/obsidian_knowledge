@@ -43,6 +43,13 @@ iwconfig
 sudo airmong-ng stop [interface]
 sudo systemctl restart NetworkManager
 sudo airodump-ng [interface monitor]
+sudo airodump-ng [interface monitor] --write [directory]
+wireshark
+wireshark [open a file .cap]
+
+sudo airodump-ng --band a (5GHz) b (2.4GHz old) g (2.4GHz common)  ag (both frequencies) [interface monitor]
+
+sduo airodump-ng --bssid [MAC] -c [channel]  [optinal] --write [directory]  [interface monitor]
 
 
 
