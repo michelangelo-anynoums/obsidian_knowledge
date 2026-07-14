@@ -4,21 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "0b5626f2fea6ba2f",
+        "id": "3471445779cc37c5",
         "type": "tabs",
         "children": [
           {
-            "id": "aa5fc268f8f8e914",
+            "id": "490b09000223faac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Summer routine/Assembly/ROADMAP.md",
+=======
+                "file": "Summer routine/Computer Science/Ethnical hacking/Notes.md",
+>>>>>>> 4eaefa6c21da0b24b6925cb6c219a6b7b633d2e9
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "ROADMAP"
+=======
+              "title": "Notes"
+>>>>>>> 4eaefa6c21da0b24b6925cb6c219a6b7b633d2e9
             }
           }
         ]
@@ -78,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 321.5004348754883
   },
   "right": {
     "id": "620444b996bf9adb",
@@ -193,8 +201,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "aa5fc268f8f8e914",
+  "active": "490b09000223faac",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Summer routine/Assembly/Softwares.md",
     "Summer routine/Computer Science/Python/Flask_framework/Content/SQLite database.md",
     "Summer routine/Computer Science/Python/Flask_framework/Content/route method.md",
@@ -240,6 +249,54 @@
     "Summer routine/Computer Science/Git/Git_logo.png",
     "Summer routine/Computer Science/Computer_science_picture.webp",
     "Computer Science/Python/python-logo.png",
+=======
+    "Summer routine/WiFI mastery/ROADMAP.md",
+    "Summer routine/Assembly/Notes/Keyboards.md",
+    "Summer routine/Assembly/ROADMAP.md",
+    "Summer routine/WiFI mastery/Notes/IP Addressing Routing.md",
+    "Summer routine/WiFI mastery/Notes/MAC Addresses Ethernet Switching.md",
+    "Summer routine/Physics/Notes/Ohm's Law.md",
+    "Summer routine/Physics/ROADMAP.md",
+    "Summer routine/Physics/Notes/Electrical Power.md",
+    "Summer routine/Computer Science/Ethnical hacking/Notes.md",
+    "Summer routine/Computer Science/Linux/SQLmap/SQLmap.md",
+    "Summer routine/Spanish/palabras o frases.md",
+    "Summer routine/Spanish/Grammar/Modo Indicativo/Pretérito anterior.md",
+    "Summer routine/Spanish/Los Tiempos.md",
+    "Summer routine/Spanish/Grammar/Modo Indicativo/Pretérito pluscuamperfecto.md",
+    "Summer routine/Spanish/Grammar/Modo Indicativo/Presente.md",
+    "Summer routine/Lockpicking/ROADMAP.md",
+    "Summer routine/Lockpicking/Images/Pasted image 20260711104854.png",
+    "Summer routine/Lockpicking/Images/Pasted image 20260711104756.png",
+    "Summer routine/Lockpicking/Images/Pasted image 20260711104436.png",
+    "Summer routine/Lockpicking/Images/Pasted image 20260711104135.png",
+    "Summer routine/Lockpicking/Images/Pasted image 20260711103954.png",
+    "Summer routine/Lockpicking/Images/Pasted image 20260711103826.png",
+    "Summer routine/Chess/Notes/Marshall Attack.md",
+    "Summer routine/Chess/Images/Pasted image 20260711102904.png",
+    "Summer routine/Chess/Images/Pasted image 20260711102849.png",
+    "Summer routine/Chess/ROADMAP.md",
+    "Summer routine/Chess/Notes/Berlin Defense.md",
+    "Summer routine/Chess/Images/Pasted image 20260711102735.png",
+    "Summer routine/Chess/Notes/Open Variation.md",
+    "Summer routine/Chess/Images/Pasted image 20260711102516.png",
+    "Summer routine/Chess/Notes/Closed Variation.md",
+    "Summer routine/Chess/Notes/Exchange Variation.md",
+    "Summer routine/Chess/Notes/Spanish Game.md",
+    "Summer routine/Chess/Chess notation.md",
+    "Summer routine/Chess/Rating notation.md",
+    "Summer routine/Soldering iron/ROADMAP.md",
+    "Summer routine/Computer Science/Ethnical hacking",
+    "Summer routine/Soldering iron/Notes",
+    "Summer routine/Assembly/Images",
+    "Summer routine/Assembly/Notes",
+    "OSI/TCP",
+    "OSI",
+    "OSI and TCP",
+    "\"OSI + TCP",
+    "OSI + TCP",
+    "Summer routine/WiFI mastery/Notes",
+>>>>>>> 4eaefa6c21da0b24b6925cb6c219a6b7b633d2e9
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

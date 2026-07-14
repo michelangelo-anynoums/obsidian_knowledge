@@ -19,13 +19,13 @@
     
 - Pretérito imperfecto: [[Pretérito imperfecto]]
     
-- Pretérito perfecto simple
+- Pretérito perfecto simple [[Pretérito perfecto simple]]
     
-- Pretérito perfecto compuesto
+- Pretérito perfecto compuesto [[Pretérito perfecto compuesto]]
     
-- Pretérito pluscuamperfecto
+- Pretérito pluscuamperfecto [[Pretérito pluscuamperfecto]]
     
-- Pretérito anterior
+- Pretérito anterior [[Pretérito anterior]]
     
 - Futuro simple
     

@@ -1,6 +1,9 @@
 # Lock Types, Security Features, and Common Vulnerabilities
 
+![[Pasted image 20260711104436.png|370]]
 ## 1. Pin Tumbler Cylinder Locks
+
+![[Pasted image 20260705115142.png|321]]
 
 ### Examples
 
@@ -30,6 +33,11 @@ Pins inside the lock must align at a specific height for the cylinder to rotate.
 - Tight manufacturing tolerances
     
 
+![[Pasted image 20260705114827.png|407]]
+
+![[Pasted image 20260705114938.png|450]]
+
+![[Pasted image 20260705114908.png|181]]
 ### Common Vulnerabilities
 
 - Poor manufacturing tolerances
@@ -52,6 +60,13 @@ Pins inside the lock must align at a specific height for the cylinder to rotate.
 
 ## 2. Wafer Locks
 
+https://youtu.be/rdkkxUwkttM
+
+![[Pasted image 20260711103826.png|487]]
+
+![[Pasted image 20260711103954.png|283]]
+
+![[Pasted image 20260711104135.png|430]]
 ### Examples
 
 - Filing cabinets
@@ -66,6 +81,8 @@ Pins inside the lock must align at a specific height for the cylinder to rotate.
 ### How They Work
 
 Flat wafers align instead of pins.
+
+![[Pasted image 20260711104756.png|376]]
 
 ### Security Features
 
@@ -87,6 +104,8 @@ Flat wafers align instead of pins.
 
 - Generally Low
     
+
+![[Pasted image 20260711104854.png|307]]
 
 ---
 

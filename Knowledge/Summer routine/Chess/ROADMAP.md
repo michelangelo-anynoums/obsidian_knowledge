@@ -2,47 +2,47 @@
 
 ## Open Games (1.e4 e5)
 
-- Italian Game
+-  [x] Italian Game
     
-    - Giuoco Piano
+    -  [x] Giuoco Piano [[Giuoco Piano]]
         
-    - Evans Gambit
+    -  [x] Evans Gambit [[Evans Gambit]]
         
-    - Two Knights Defense
+    -  [x] Two Knights Defense [[Two Knights Defense]]
         
-- Ruy Lopez (Spanish Game)
+-  [x] Ruy Lopez (Spanish Game) [[Spanish Game]]
     
-    - Exchange Variation
+    -  [x] Exchange Variation [[Exchange Variation]]
         
-    - Closed Variation
+    -  [x] Closed Variation [[Closed Variation]]
         
-    - Open Variation
+    -  [x] Open Variation [[Open Variation]]
         
-    - Berlin Defense
+    -  [x] Berlin Defense [[Berlin Defense]]
         
-    - Marshall Attack
+    -  [x] Marshall Attack [[Marshall Attack]]
         
-- Scotch Game
+-  [ ] Scotch Game
     
-    - Classical Variation
+    -  [ ] Classical Variation
         
-    - Schmidt Variation
+    -  [ ] Schmidt Variation
         
-    - Scotch Gambit
+    -  [ ] Scotch Gambit
         
-- Four Knights Game
+-  [ ] Four Knights Game
     
-- Petrov Defense
+-  [ ] Petrov Defense
     
-- Vienna Game
+-  [ ] Vienna Game
     
-    - Vienna Gambit
+    -  [ ] Vienna Gambit
         
-- King's Gambit
+-  [ ] King's Gambit
     
-    - Accepted
+    -  [ ] Accepted
         
-    - Declined
+    -  [ ] Declined
         
 
 ---

@@ -2,30 +2,44 @@
 
 > This note covers only the physics needed to understand computers, networking, electronics, and signals at a deep technical level.
 
+> **Prompt**: Hi, I just wondered, if you could please help me. 
+>
+I learn physics and computer science and I need to write simple, short and well explained notes about this topic. Please it should be in "WRITING" mode. 
+> 
+> Use simple words and easy sentences. Maintain the shortness and important ideas of the texts. Highlight important words or phrases using Obsidian rules. Please, include easy and simple examples + some physics equations with readable formulas.
+> PLEASE: Include 2-3 simple and easy RESOLVED example about current topic to be able to practice.
+> 
+> **Topic: (just give a breve answer to each point/topic)**
+> 
+> __1.1 Units - SI units (meters, seconds, amps, volts) - Derived units (Hz, ohm, joule, watt) - Why computers rely on standardized units.__ 
+> 
+> Thanks a lot. Thanks.
+
+
 ---
 
 # 1. Measurement & Scientific Thinking
 
-## 1.1 Units
+## 1.1 Units [[Units]]
 
 - SI units (meters, seconds, amps, volts)
 - Derived units (Hz, ohm, joule, watt)
 - Why computers rely on standardized units
 
-## 1.2 Scale & Orders of Magnitude
+## 1.2 Scale & Orders of Magnitude [[Scale & Orders of Magnitude]]
 
 - Nanoseconds (CPU timing)
 - Gigahertz (processor frequency)
 - Nanometers (transistor size)
 - Decibels (signal strength)
 
-## 1.3 Scientific Notation
+## 1.3 Scientific Notation [[Scientific Notation]]
 
 - Powers of 10
 - Why engineers use it
 - Converting large/small values
 
-## 1.4 Estimation
+## 1.4 Estimation [[Estimation]]
 
 - Back-of-the-envelope calculations
 - Approximate system behavior
@@ -35,23 +49,23 @@
 
 # 2. Energy, Work, and Power
 
-## 2.1 Force
+## 2.1 Force [[Force]]
 
 - Interaction between objects
 - Newton’s laws (basic intuition only)
 
-## 2.2 Work
+## 2.2 Work [[Work]]
 
 - Work = force × distance
 - Energy transfer concept
 
-## 2.3 Energy
+## 2.3 Energy [[Energy]]
 
 - Stored capacity to do work
 - Electrical energy in circuits
 - CPU energy consumption
 
-## 2.4 Power
+## 2.4 Power [[Power]]
 
 - Power = energy / time
 - Watt as unit of computing consumption
@@ -61,36 +75,36 @@
 
 # 3. Electricity Fundamentals (CORE)
 
-## 3.1 Electric Charge
+## 3.1 Electric Charge [[Electric Charge]]
 
 - Electrons as charge carriers
 - Positive vs negative charge
 - Charge conservation
 
-## 3.2 Voltage
+## 3.2 Voltage [[Voltage]]
 
 - Electrical potential difference
 - “Pressure” pushing electrons
 - Measured in volts
 
-## 3.3 Current
+## 3.3 Current [[Current]]
 
 - Flow of electric charge
 - Measured in amperes
 - Electron flow in conductors
 
-## 3.4 Resistance
+## 3.4 Resistance [[Resistance]]
 
 - Opposition to current flow
 - Material properties affecting resistance
 - Heat generation in resistors
 
-## 3.5 Ohm’s Law
+## 3.5 Ohm’s Law [[Ohm's Law]]
 
 - Relationship between voltage, current, resistance
 - Linear electrical behavior in simple circuits
 
-## 3.6 Electrical Power
+## 3.6 Electrical Power [[Electrical Power]]
 
 - Power = voltage × current
 - Why devices heat up

@@ -1,6 +1,25 @@
 # 🧰 Soldering Iron Roadmap
 
-## 1. Fundamentals of Soldering
+
+> **Prompt**: Hi, I just wondered, if you could please help me. 
+>
+I learn physics and computer science and I need to write simple, short and well explained notes about this topic. Please it should be in "WRITING" mode. 
+> 
+> Use simple words and easy sentences. Maintain the shortness and important ideas of the texts. Highlight important words or phrases using Obsidian rules.
+> 
+> **Topic: (just give a breve answer to each point/topic)**
+> 
+> Thanks a lot. Thanks.
+
+### Reference:
+
+https://youtu.be/h9RTe8-vmxo
+
+https://youtu.be/YBewGUkwWfk
+
+https://youtu.be/PI7XrSIEqOo
+
+## 1. Fundamentals of Soldering [[Fundamentals of Soldering]]
 
 ### What soldering is
 
@@ -16,7 +35,7 @@
 
 ---
 
-## 2. Tools & Equipment
+## 2. Tools & Equipment [[Tools Equipment]]
 
 ### Essential tools
 
