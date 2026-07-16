@@ -114,25 +114,25 @@ I learn physics and computer science and I need to write simple, short and well 
 
 # 4. Circuits (FUNDAMENTAL)
 
-## 4.1 Series Circuits
+## 4.1 Series Circuits [[Series Circuits]]
 
 - Same current through all components
 - Voltage divides across components
 - Equivalent resistance increases
 
-## 4.2 Parallel Circuits
+## 4.2 Parallel Circuits [[Parallel Circuits]]
 
 - Same voltage across branches
 - Current divides
 - Equivalent resistance decreases
 
-## 4.3 Capacitors
+## 4.3 Capacitors [[Capacitors]]
 
 - Store electric charge
 - Charge/discharge behavior
 - Used in memory and filtering
 
-## 4.4 Inductors
+## 4.4 Inductors [[Inductors]]
 
 - Store energy in magnetic field
 - Oppose changes in current

@@ -137,7 +137,7 @@ One of the fastest password cracking tools available.
 
 ## 5. Wireless Attacks
 
-### Aircrack-ng Suite
+### Aircrack-ng Suite [[Aircrack-ng Suite]]
 
 Purpose: Wi-Fi security testing  
 Key concepts:
@@ -167,6 +167,17 @@ Simplifies wireless penetration testing.
 
 ## 6. Exploitation
 
+### SQLmap [[SQLmap]]
+
+Purpose: SQL injection
+Key concepts:
+
+- Web SQL injection
+- Injection commands
+- Automation
+
+Notes:
+Must know tool for web vulnerability exploitation
 ### Metasploit Framework
 
 Purpose: Exploitation framework  
@@ -183,21 +194,6 @@ Core framework for vulnerability exploitation.
 ---
 
 ## 7. Sniffing & Traffic Analysis
-
-### Wireshark
-
-Purpose: Packet analysis tool  
-Key concepts:
-
-- PCAP analysis
-- Protocol decoding
-- Filtering (display/capture filters)
-
-Notes:  
-Essential for understanding network traffic.
-
----
-
 ### Scapy
 
 Purpose: Packet crafting and network manipulation  

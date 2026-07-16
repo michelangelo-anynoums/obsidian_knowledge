@@ -127,7 +127,7 @@ Learn:
 
 ### Day 5
 
-### ARP + DHCP + DNS
+### ARP + DHCP + DNS [[ARP DHCP DNS]]
 
 Learn:
 
@@ -142,7 +142,7 @@ Learn:
 
 ### Day 6
 
-### VLANs + NAT + Segmentation
+### VLANs + NAT + Segmentation [[VLANs NAT Segmentation]]
 
 Learn:
 
