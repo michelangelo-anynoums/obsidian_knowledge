@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "224489ad460a541f",
+    "id": "985b0dc5b89a091a",
     "type": "split",
     "children": [
       {
-        "id": "3471445779cc37c5",
+        "id": "755dca58488fe751",
         "type": "tabs",
         "children": [
           {
-            "id": "490b09000223faac",
+            "id": "16c4d224c8074433",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Summer routine/Assembly/ROADMAP.md",
-=======
                 "file": "Summer routine/Computer Science/Ethnical hacking/Notes.md",
->>>>>>> 4eaefa6c21da0b24b6925cb6c219a6b7b633d2e9
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "ROADMAP"
-=======
               "title": "Notes"
->>>>>>> 4eaefa6c21da0b24b6925cb6c219a6b7b633d2e9
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "95796b5105496e4e",
+    "id": "477105d16d348cb0",
     "type": "split",
     "children": [
       {
-        "id": "8d6323bc50cdcc4d",
+        "id": "b3ab07944ad42576",
         "type": "tabs",
         "children": [
           {
-            "id": "02b9f68937027fa0",
+            "id": "9dda1ce92ff60334",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +48,7 @@
             }
           },
           {
-            "id": "99728836a6a7f060",
+            "id": "2f283b0d43eef024",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +65,7 @@
             }
           },
           {
-            "id": "fbe4b571c22ff6f3",
+            "id": "436eda8970a079de",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5004348754883
+    "width": 300
   },
   "right": {
-    "id": "620444b996bf9adb",
+    "id": "817f74e316b03cfa",
     "type": "split",
     "children": [
       {
-        "id": "dd53294527aac26e",
+        "id": "e94e952d676f217d",
         "type": "tabs",
         "children": [
           {
-            "id": "402fff31fd5cc2cb",
+            "id": "c22a63cb25c7a7be",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Space and galaxies.md",
+                "file": "Summer routine/Computer Science/Ethnical hacking/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Space and galaxies"
+              "title": "Backlinks for Notes"
             }
           },
           {
-            "id": "f35132c46435b290",
+            "id": "0293093638c70870",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Space and galaxies.md",
+                "file": "Summer routine/Computer Science/Ethnical hacking/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Space and galaxies"
+              "title": "Outgoing links from Notes"
             }
           },
           {
-            "id": "07739afa405bd200",
+            "id": "f8b9e5be24dc6352",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,7 +137,7 @@
             }
           },
           {
-            "id": "32372b643a1d0154",
+            "id": "2f618436b44e3872",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -159,28 +151,28 @@
             }
           },
           {
-            "id": "9d218e46c0e5eda1",
+            "id": "6dd0a64fde870289",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Space and galaxies.md",
+                "file": "Summer routine/Computer Science/Ethnical hacking/Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Space and galaxies"
+              "title": "Outline of Notes"
             }
           },
           {
-            "id": "1498c49e422e2417",
+            "id": "cd2751968d3640bf",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -201,103 +193,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "490b09000223faac",
+  "active": "16c4d224c8074433",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Summer routine/Assembly/Softwares.md",
-    "Summer routine/Computer Science/Python/Flask_framework/Content/SQLite database.md",
-    "Summer routine/Computer Science/Python/Flask_framework/Content/route method.md",
-    "Summer routine/Computer Science/Python/Flask_framework/Content/request method.md",
-    "Summer routine/Computer Science/Python/Flask_framework/Content/File handling.md",
-    "Summer routine/Computer Science/Python/Flask_framework/Content/Deep SQLite3.md",
-    "Summer routine/Computer Science/Python/Flask_framework/Content/Deep file handling.md",
-    "Summer routine/Computer Science/Python/Flask_framework/Content/configs.md",
-    "Summer routine/Computer Science/Python/Flask_framework/Content/Basics.md",
-    "Summer routine/Computer Science/Linux/Cybersecurity kind of lol/Google Dorks/Cheat Sheet.md",
-    "Summer routine/Spanish/Grammar/Modo Indicativo/Pretérito imperfecto.md",
-    "Summer routine/Spanish/Grammar/Modo Indicativo/Presente.md",
-    "Summer routine/Computer Science/Python/Libraries/zipfile library.md",
-    "Summer routine/Computer Science/Python/Libraries/venv.md",
-    "Summer routine/Computer Science/Python/Libraries/time library.md",
-    "Summer routine/Computer Science/Python/Libraries/sys library.md",
-    "Summer routine/Computer Science/Python/Libraries/threading library.md",
-    "Summer routine/Computer Science/Python/Libraries/tempfile library.md",
-    "Summer routine/Computer Science/Python/Libraries/subprocess_library.md",
-    "Summer routine/Computer Science/Python/Libraries/socket library.md",
-    "Summer routine/Computer Science/Python/Libraries/rich library.md",
-    "Summer routine/Computer Science/Python/Libraries/requests library.md",
-    "Summer routine/Computer Science/Python/Libraries/random library.md",
-    "Summer routine/Computer Science/Python/Libraries/qrcode library.md",
-    "Summer routine/Computer Science/Python/Libraries/pytube library.md",
-    "Summer routine/Computer Science/Python/Libraries/pynput library.md",
-    "Summer routine/Computer Science/Python/Flask_framework/Content",
-    "Summer routine/Computer Science/JavaScript/Node.js/nodejs_logo.svg",
-    "Summer routine/Computer Science/Linux/Vim_Editor/vimlogo.svg",
-    "Summer routine/Computer Science/Linux/Cybersecurity kind of lol/Google Dorks",
-    "Summer routine/Spanish/Grammar/Modo Indicativo",
-    "Summer routine/Computer Science/Python/python-logo.png",
-    "Summer routine/Computer Science/Python/Libraries",
-    "Summer routine/Computer Science/Python/Flask_framework",
-    "Summer routine/Computer Science/Python/Classes",
-    "Summer routine/Computer Science/PowerShell/powershell_icon.webp",
-    "Summer routine/Computer Science/PowerShell/basics",
-    "Summer routine/Computer Science/JavaScript/Node.js",
-    "Summer routine/Computer Science/JavaScript/JavaScript_logo.png",
-    "Summer routine/Computer Science/JavaScript/Content",
-    "Summer routine/Computer Science/Linux/Vim_Editor",
-    "Summer routine/Computer Science/Linux/Linux_picture.webp",
-    "Summer routine/Computer Science/Git/Git_logo.png",
-    "Summer routine/Computer Science/Computer_science_picture.webp",
-    "Computer Science/Python/python-logo.png",
-=======
-    "Summer routine/WiFI mastery/ROADMAP.md",
-    "Summer routine/Assembly/Notes/Keyboards.md",
-    "Summer routine/Assembly/ROADMAP.md",
-    "Summer routine/WiFI mastery/Notes/IP Addressing Routing.md",
-    "Summer routine/WiFI mastery/Notes/MAC Addresses Ethernet Switching.md",
-    "Summer routine/Physics/Notes/Ohm's Law.md",
-    "Summer routine/Physics/ROADMAP.md",
-    "Summer routine/Physics/Notes/Electrical Power.md",
-    "Summer routine/Computer Science/Ethnical hacking/Notes.md",
-    "Summer routine/Computer Science/Linux/SQLmap/SQLmap.md",
-    "Summer routine/Spanish/palabras o frases.md",
-    "Summer routine/Spanish/Grammar/Modo Indicativo/Pretérito anterior.md",
-    "Summer routine/Spanish/Los Tiempos.md",
-    "Summer routine/Spanish/Grammar/Modo Indicativo/Pretérito pluscuamperfecto.md",
-    "Summer routine/Spanish/Grammar/Modo Indicativo/Presente.md",
-    "Summer routine/Lockpicking/ROADMAP.md",
-    "Summer routine/Lockpicking/Images/Pasted image 20260711104854.png",
-    "Summer routine/Lockpicking/Images/Pasted image 20260711104756.png",
-    "Summer routine/Lockpicking/Images/Pasted image 20260711104436.png",
-    "Summer routine/Lockpicking/Images/Pasted image 20260711104135.png",
-    "Summer routine/Lockpicking/Images/Pasted image 20260711103954.png",
-    "Summer routine/Lockpicking/Images/Pasted image 20260711103826.png",
-    "Summer routine/Chess/Notes/Marshall Attack.md",
-    "Summer routine/Chess/Images/Pasted image 20260711102904.png",
-    "Summer routine/Chess/Images/Pasted image 20260711102849.png",
-    "Summer routine/Chess/ROADMAP.md",
-    "Summer routine/Chess/Notes/Berlin Defense.md",
-    "Summer routine/Chess/Images/Pasted image 20260711102735.png",
-    "Summer routine/Chess/Notes/Open Variation.md",
-    "Summer routine/Chess/Images/Pasted image 20260711102516.png",
-    "Summer routine/Chess/Notes/Closed Variation.md",
-    "Summer routine/Chess/Notes/Exchange Variation.md",
-    "Summer routine/Chess/Notes/Spanish Game.md",
-    "Summer routine/Chess/Chess notation.md",
-    "Summer routine/Chess/Rating notation.md",
-    "Summer routine/Soldering iron/ROADMAP.md",
-    "Summer routine/Computer Science/Ethnical hacking",
-    "Summer routine/Soldering iron/Notes",
-    "Summer routine/Assembly/Images",
-    "Summer routine/Assembly/Notes",
-    "OSI/TCP",
-    "OSI",
-    "OSI and TCP",
-    "\"OSI + TCP",
-    "OSI + TCP",
-    "Summer routine/WiFI mastery/Notes",
->>>>>>> 4eaefa6c21da0b24b6925cb6c219a6b7b633d2e9
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Summer routine/Computer Science/Git/Basics/Essential commands.md",
+    "Summer routine/Computer Science/Git/Basics/GitIgnore.md",
+    "Summer routine/Computer Science/Git/Basics/Checkout.md",
+    "Summer routine/Computer Science/Git/Introduction.md",
+    "Summer routine/Computer Science/Ethnical hacking/Notes.md"
   ]
 }
