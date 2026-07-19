@@ -36,7 +36,7 @@
 
 # 🛠️ Main Tools & Commands
 
-**Detailed notes:** [[Notes_1]]
+**Detailed notes:** [[Cybersecurity hands-on course]]
 
 ## 📡 Enable Monitor Mode
 

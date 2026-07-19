@@ -57,7 +57,7 @@ https://youtu.be/PI7XrSIEqOo
 
 ---
 
-## 3. Solder Types & Materials
+## 3. Solder Types & Materials [[Solder Types Materials]]
 
 ### Solder wire
 

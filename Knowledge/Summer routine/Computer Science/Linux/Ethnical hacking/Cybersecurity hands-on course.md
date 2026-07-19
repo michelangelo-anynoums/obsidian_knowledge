@@ -1,5 +1,85 @@
 **Cybersecurity hand-on youtube course:** https://youtu.be/ug8W0sFiVJo
 
+### **Index:**
+
+#### Kali Linux Course Chapters
+
+1. Introduction
+    
+2. What is Kali Linux
+    
+3. Basic Commands & Terminal Customization
+    
+4. ls Command
+    
+5. cd Command
+    
+6. Nano Editor
+    
+7. cat Command
+    
+8. Create Files Using cat
+    
+9. Create Directories
+    
+10. grep Command
+    
+11. wc Command
+    
+12. Output Redirection
+    
+13. Piping
+    
+14. Copy Files
+    
+15. Remove Files & Directories
+    
+16. Types of Users
+    
+17. Root User
+    
+18. sudo Command (Administrative Tasks)
+    
+19. ip addr Command
+    
+20. Install Packages
+    
+21. Remove Packages
+    
+22. Introduction to Nmap
+    
+23. Scan Ports
+    
+24. Wi-Fi Security: System Requirements & Wireless Card
+    
+25. Introduction to Aircrack-ng
+    
+26. Monitor Mode vs Managed Mode
+    
+27. Enable Monitor Mode
+    
+28. Scan Wi-Fi Networks & Capture Traffic
+    
+29. Scan 5GHz Wi-Fi Networks (Theory)
+    
+30. Scan 5GHz Wi-Fi Networks (Practical)
+    
+31. What is a 4-Way Handshake
+    
+32. Capture a 4-Way Handshake
+    
+33. What is a De-authentication Attack
+    
+34. Capture 4-Way Handshake Using De-authentication Attack
+    
+35. Wordlists & Dictionary Attacks
+    
+36. Crack / Recover Wi-Fi Password
+    
+37. Detect De-authentication Attacks /Threats
+    
+38. Wireshark Tutorial
+
 ---
 
 ## Cybersecurity Fundamentals – Linux & Wireless Notes

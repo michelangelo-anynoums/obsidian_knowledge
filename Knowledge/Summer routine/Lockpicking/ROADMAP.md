@@ -111,6 +111,11 @@ Flat wafers align instead of pins.
 
 ## 3. Disc Detainer Locks
 
+https://www.youtube.com/watch?v=X0-KWHSJLGE
+
+![[Pasted image 20260719114044.png|521]]
+
+![[Pasted image 20260719114303.png|342]]
 ### Examples
 
 - High-security padlocks

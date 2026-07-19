@@ -234,7 +234,7 @@ Understand the core hardware that makes a computer function.
 
 ## Theory
 
-### CPU
+### CPU  [[CPU]]
 
 Learn:
 
@@ -258,7 +258,7 @@ Examples:
 
 ---
 
-### Motherboard
+### Motherboard [[Motherboard]]
 
 Learn:
 
@@ -277,7 +277,7 @@ Learn:
 
 ---
 
-### RAM
+### RAM [[RAM]]
 
 Learn:
 
@@ -308,7 +308,7 @@ Learn:
 
 ---
 
-### Storage
+### Storage [[Storage]]
 
 #### HDD
 
@@ -334,8 +334,9 @@ Learn:
     
 
 ---
+ 
+### GPU [[GPU]]
 
-### GPU
 
 #### Integrated Graphics
 
@@ -351,65 +352,7 @@ Learn:
 
 ---
 
-## References
 
-### Video
-
-- PC Builder: PC Components Explained
-    
-- Linus Tech Tips: How CPUs Work
-    
-- Linus Tech Tips: RAM Explained
-    
-- PC Builder: SSD Types Explained
-    
-
-### Reading
-
-- Tom's Hardware: CPU Basics
-    
-- Tom's Hardware: RAM Guide
-    
-- Tom's Hardware: SSD Guide
-    
-
----
-
-## Notes
-
-Create notes for:
-
-- CPU
-    
-- Motherboard
-    
-- RAM
-    
-- Storage
-    
-- GPU
-    
-
----
-
-## Practice
-
-### Laptop Inspection
-
-Open the laptop and identify:
-
-- Cooling assembly
-    
-- RAM
-    
-- Storage device
-    
-- Battery
-    
-- Wireless card
-    
-
-Take photos and label every component.
 
 ---
 
