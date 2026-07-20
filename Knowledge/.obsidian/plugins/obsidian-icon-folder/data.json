@@ -38,12 +38,12 @@
   "Summer routine/Spanish": "LiLanguages",
   "Summer routine/Spanish/Grammar": "LiList",
   "Summer routine/Soldering iron": "LiActivity",
-  "Summer routine/Physics": "LiAtom",
   "Summer routine/Lockpicking": "LiLock",
   "Summer routine/Kali Tools": "LiToolCase",
   "Summer routine/Computer Science": "LiComputer",
   "Summer routine/Chess": "LiChessKing",
   "Other/Astronomy": "FabSpaceAwesome",
   "Other/Shortcuts": "LiKeyboard",
-  "Summer routine/Assembly": "LiCpu"
+  "Summer routine/Assembly": "LiCpu",
+  "Summer routine/Physics": "LiAtom"
 }

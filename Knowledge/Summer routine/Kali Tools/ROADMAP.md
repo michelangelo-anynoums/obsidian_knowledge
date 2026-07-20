@@ -165,6 +165,19 @@ Simplifies wireless penetration testing.
 
 ---
 
+### Arp-scan [[arp-scan]]
+
+Purpose: Reconnaissance tool
+Key concepts:
+
+- Automated scanning
+- MAC address identifying
+
+Notes:  
+Simplifies wireless penetration testing. Gathers information about connected devices to a local network
+
+---
+
 ## 6. Exploitation
 
 ### SQLmap [[SQLmap]]

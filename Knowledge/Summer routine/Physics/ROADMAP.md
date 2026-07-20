@@ -138,13 +138,13 @@ I learn physics and computer science and I need to write simple, short and well 
 - Oppose changes in current
 - Used in power regulation
 
-## 4.5 Diodes
+## 4.5 Diodes [[Diodes]]
 
 - One-way current flow
 - Rectification
 - Protection circuits
 
-## 4.6 Transistors (MOST IMPORTANT)
+## 4.6 Transistors (MOST IMPORTANT) [[Transistors]]
 
 - Electronic switch
 - Basis of logic gates

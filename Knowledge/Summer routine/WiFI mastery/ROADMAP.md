@@ -168,7 +168,7 @@ Review everything from Days 1–6.
 
 # WEEK 2
 
-## Wireless Fundamentals
+## Wireless Fundamentals [[Wireless Fundamentals]]
 
 ### Day 8
 
