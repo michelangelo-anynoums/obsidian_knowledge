@@ -24,6 +24,24 @@ Modern computers contain **billions of transistors** because they are the basic 
 A light switch controls electricity in a house.  
 A transistor does the same thing, but much faster and at a microscopic scale.
 
+![[Pasted image 20260721131143.png|302]]
+
+![[Pasted image 20260721131317.png|412]]
+
+![[Pasted image 20260721131453.png|299]]
+
+![[Pasted image 20260721132207.png|697]]
+
+- **N-type**: Doped to have extra **electrons** (negative carriers). Think "N" for **Negative**.
+    
+- **P-type**: Doped to have extra **holes** (positive carriers). Think "P" for **Positive**.
+    
+
+When combined, they allow electricity to flow in controlled ways, forming the basis of all modern electronics.
+
+
+
+
 ---
 
 ## **Electronic switch**

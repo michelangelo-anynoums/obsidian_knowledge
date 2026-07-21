@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "12d47c54082df7ad",
+        "id": "66b837cc8772dfb1",
         "type": "tabs",
         "children": [
           {
-            "id": "cc0bb5c5f0af0035",
+            "id": "60d0674cdac6ac34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summer routine/Physics/Notes/Transistors.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Transistors"
+              "title": "New tab"
             }
           }
         ]
@@ -193,25 +189,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "02b9f68937027fa0",
+  "active": "60d0674cdac6ac34",
   "lastOpenFiles": [
-    "Summer routine/Physics/Images/Pasted image 20260720143612.png",
-    "Summer routine/Physics/Images/Pasted image 20260720143601.png",
     "Summer routine/Physics/ROADMAP.md",
     "Summer routine/Physics/Notes/Transistors.md",
-    "Summer routine/Physics/Notes/Diodes.md",
-    "Summer routine/Physics/Images/Pasted image 20260720143433.png",
-    "Summer routine/Physics/Images",
-    "Summer routine/Physics/Images/Pasted image 20260720142537.png",
-    "Summer routine/WiFI mastery/ROADMAP.md",
-    "Summer routine/WiFI mastery/Notes/Wireless Fundamentals.md",
+    "Summer routine/Physics/Images/Pasted image 20260721132207.png",
+    "Summer routine/WiFI mastery/Images/300px-Electromagnetic_induction_-_solenoid_to_loop_-_animation.gif",
+    "Summer routine/Physics/Images/Pasted image 20260721131143.png",
     "Summer routine/WiFI mastery/Images/Pasted image 20260720141739.png",
     "Summer routine/WiFI mastery/Images/Pasted image 20260720140647.png",
     "Summer routine/WiFI mastery/Images/Pasted image 20260720140341.png",
     "Summer routine/WiFI mastery/Images/Pasted image 20260720140249.png",
     "Summer routine/WiFI mastery/Images/Pasted image 20260720140146.png",
-    "Summer routine/WiFI mastery/Images/300px-Electromagnetic_induction_-_solenoid_to_loop_-_animation 1.gif",
     "Summer routine/WiFI mastery/Images/Pasted image 20260720135916.png",
+    "Summer routine/WiFI mastery/Images/b3b92ddbeb7535e23f141b1687fca80b.gif",
+    "Summer routine/WiFI mastery/ROADMAP.md",
+    "Summer routine/WiFI mastery/Notes/Wireless Fundamentals.md",
+    "Summer routine/Physics/Notes/Diodes.md",
+    "Summer routine/Physics/Images",
     "Summer routine/WiFI mastery/Images",
     "Summer routine/Computer Science/Linux/Kali Linux/Kali course.md",
     "Summer routine/Kali Tools/Notes/arp-scan.md",
