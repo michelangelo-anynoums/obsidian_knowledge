@@ -16,6 +16,19 @@ Lesson 2
 
 =========================
 
+whoami
+clear or CTRL + L
+
+Everything in Linux is a file. Every commands are file.
+
+cat [file]
+cp [file]  [copy file]
+rm [file]
+adduser [user name]
+which [command]
+
+
+
 ==========================
 
 Lesson 3

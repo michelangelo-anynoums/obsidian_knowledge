@@ -154,25 +154,25 @@ I learn physics and computer science and I need to write simple, short and well 
 
 # 5. Electromagnetism (NETWORK FOUNDATION)
 
-## 5.1 Electric Fields
+## 5.1 Electric Fields [[Electric Fields]]
 
 - Fields created by charges
 - Force without contact
 - Field direction and strength
 
-## 5.2 Magnetic Fields
+## 5.2 Magnetic Fields [[Magnetic Fields]]
 
 - Produced by moving charges (current)
 - Interaction with electric fields
 - Basis of motors and storage
 
-## 5.3 Electromagnetic Induction
+## 5.3 Electromagnetic Induction [[Electromagnetic Induction]]
 
 - Changing magnetic field creates current
 - Transformers and power systems
 - Wireless energy transfer
 
-## 5.4 Electromagnetic Waves
+## 5.4 Electromagnetic Waves [[Electromagnetic Waves]]
 
 - Combined electric and magnetic oscillations
 - Travel through space

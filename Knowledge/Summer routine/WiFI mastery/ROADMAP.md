@@ -189,7 +189,7 @@ Learn:
 
 ### Day 9
 
-### Wi-Fi Bands + Channels
+### Wi-Fi Bands + Channels [[Wi-Fi Bands Channels]]
 
 Learn:
 
