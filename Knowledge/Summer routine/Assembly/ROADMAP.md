@@ -366,7 +366,7 @@ Understand heat management and perform preventive maintenance.
 
 ## Theory
 
-### Cooling Systems
+### Cooling Systems [[Cooling Systems]]
 
 #### Passive Cooling
 
@@ -403,15 +403,17 @@ Learn:
 
 - Common in desktops
     
-
+![[Pasted image 20260724140653.png|339]]
 #### Blower Fans
 
 - Common in laptops
     
 
+![[Pasted image 20260724140619.png|427]]
+
 ---
 
-### Thermal Paste
+### Thermal Paste [[Thermal Paste theory]]
 
 Learn:
 
@@ -426,7 +428,7 @@ Learn:
 
 ---
 
-### Dust Accumulation
+### Dust Accumulation [[Dust Accumulation]]
 
 Effects:
 
@@ -435,73 +437,6 @@ Effects:
 - Increased noise
     
 - Reduced performance
-    
-
----
-
-## References
-
-### Video
-
-- Gamers Nexus: Thermal Paste Basics
-    
-- Gamers Nexus: How Computer Cooling Works
-    
-- iFixit: Laptop Cleaning Guide
-    
-
-### Reading
-
-- iFixit: Laptop Maintenance Guides
-    
-- How-To Geek: Thermal Paste Explained
-    
-
----
-
-## Notes
-
-Create notes for:
-
-- Cooling Systems
-    
-- Heat Sinks
-    
-- Fans
-    
-- Thermal Paste
-    
-
----
-
-## Practice
-
-### Cleaning Session
-
-1. Shut down laptop.
-    
-2. Disconnect power.
-    
-3. Open bottom cover.
-    
-4. Identify fan and heat sink.
-    
-5. Hold fan blades in place.
-    
-6. Remove dust using compressed air.
-    
-7. Reassemble laptop.
-    
-
-### Inspection
-
-Document:
-
-- Fan type
-    
-- Heat sink design
-    
-- Dust accumulation points
     
 
 ---

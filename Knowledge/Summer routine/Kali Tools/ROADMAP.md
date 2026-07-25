@@ -178,6 +178,19 @@ Simplifies wireless penetration testing. Gathers information about connected dev
 
 ---
 
+### mdk4 [[mdk4 tool]]
+
+Purpose: Wi-Fi packets injection / testing
+Key concepts:
+
+- Automated scanning
+- Packets injection (deauth)
+
+Notes:  
+Simplifies wireless penetration testing.
+
+---
+
 ## 6. Exploitation
 
 ### SQLmap [[SQLmap]]

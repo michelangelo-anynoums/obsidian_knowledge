@@ -33,8 +33,31 @@ which [command]
 
 Lesson 3
 
-
 ==========================
+
+shell = terminal emulator
+
+ps
+su root
+id
+hostname
+uname
+uname -r
+uname -a
+ifconfig
+ip
+netstat
+ss
+who
+whoami
+lsblk
+lsusb
+lsof
+man [command]
+
+[command] -h or --h or --help or -help
+apropos [description]
+
 
 ==========================
 

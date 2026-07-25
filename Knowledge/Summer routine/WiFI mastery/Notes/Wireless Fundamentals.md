@@ -16,9 +16,9 @@
 
 **Antenna Length:** For maximum efficiency (resonance), the antenna length ( L ) is typically a fraction of the wavelength:
 
-- **Half-wave dipole:** L ≈ 2λ​
+- **Half-wave dipole:** $$L ≈  λ/2​$$
     
-- **Quarter-wave monopole:** L ≈ 4λ​ 
+- **Quarter-wave monopole:** $$L ≈ λ/4​$$
     
 
 Higher frequencies result in shorter wavelengths and thus shorter antennas.

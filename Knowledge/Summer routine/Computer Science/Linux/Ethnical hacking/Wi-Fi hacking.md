@@ -15,7 +15,9 @@ These tools are commonly used to observe Wi-Fi networks, capture wireless traffi
 ![[Pasted image 20260720130710.png|372]]
 
 **Note reference:** [[Cybersecurity hands-on course]]
+**Theory psychics:** [[Wireless Fundamentals]]
 **Aicrack-ng Suite:** [[Aircrack-ng Suite]]
+**mdk4 tool**: [[mdk4 tool]]
 
 - **Wireshark** – Network packet analyzer.
     

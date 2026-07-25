@@ -182,33 +182,33 @@ I learn physics and computer science and I need to write simple, short and well 
 
 # 6. Waves & Signal Theory (VERY IMPORTANT)
 
-## 6.1 Wave Basics
+## 6.1 Wave Basics [[Wave Basics]]
 
 - Oscillations in time and space
 - Amplitude, frequency, wavelength
 
-## 6.2 Frequency
+## 6.2 Frequency [[Frequency]]
 
 - Cycles per second (Hz)
 - CPU clocks, Wi-Fi channels, radio bands
 
-## 6.3 Wavelength
+## 6.3 Wavelength [[Wavelenght]]
 
 - Distance between wave peaks
 - Relationship to frequency
 
-## 6.4 Signal Speed
+## 6.4 Signal Speed [[Signal Speed]]
 
 - Speed of wave propagation
 - Light speed in vacuum and materials
 
-## 6.5 Noise
+## 6.5 Noise [[Noise]]
 
 - Random interference
 - Signal degradation
 - Importance in hacking wireless systems
 
-## 6.6 Modulation
+## 6.6 Modulation [[Modulation]]
 
 - Encoding information into waves
 - AM, FM, digital modulation concepts

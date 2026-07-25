@@ -208,7 +208,7 @@ Learn:
 
 ### Day 10
 
-### Signal Strength + Noise
+### Signal Strength + Noise [[Signal Strength Noise]]
 
 Learn:
 
@@ -225,7 +225,7 @@ Learn:
 
 ### Day 11
 
-### Antennas + Propagation
+### Antennas + Propagation [[Antennas Propagation]]
 
 Learn:
 
