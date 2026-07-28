@@ -244,7 +244,7 @@ Learn:
 
 ### Day 12
 
-### Wi-Fi Standards
+### Wi-Fi Standards [[Wi-Fi Standards]]
 
 Learn:
 
@@ -259,7 +259,8 @@ Learn:
 - 802.11ac
     
 - 802.11ax
-    
+
+> Bandwidth (channel width)
 
 Create a comparison table.
 
@@ -267,7 +268,7 @@ Create a comparison table.
 
 ### Day 13
 
-### Advanced Wireless Technologies
+### Advanced Wireless Technologies [[Advanced Wireless Technologies]]
 
 Learn:
 

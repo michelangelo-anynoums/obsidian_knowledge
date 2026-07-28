@@ -65,6 +65,30 @@ Lesson 4
 
 =========================
 
+adduser [user name]
+cat /etc/passwd
+cat /etc/shadow
+/home/[user name]
+useradd [user name]
+passwd [user name] 
+usermod -h
+usermod [user name] --shell /bin/[binary (bash)]
+usermod -l [new name]  [old name]
+useradd [user name] -m
+su - [user name] 
+sudo su -
+logout
+exit
+sudo visudo
+userdel [user name]
+groupadd [group name]
+cat /etc/group
+usermod -aG [group name]  [user name]
+groupdel [group name]
+
+
+
+
 ==========================
 
 Lesson 5

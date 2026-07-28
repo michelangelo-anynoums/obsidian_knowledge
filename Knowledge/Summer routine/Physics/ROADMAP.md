@@ -217,29 +217,29 @@ I learn physics and computer science and I need to write simple, short and well 
 
 # 7. Digital Electronics (COMPUTING CORE)
 
-## 7.1 Binary Signals
+## 7.1 Binary Signals [[Binary Signals]]
 
 - 0 = low voltage
 - 1 = high voltage
 - Physical representation of data
 
-## 7.2 Logic Gates
+## 7.2 Logic Gates [[Logic Gates]]
 
 - AND, OR, NOT, XOR
 - Boolean logic in hardware
 - Building blocks of processors
 
-## 7.3 Combinational Circuits
+## 7.3 Combinational Circuits [[Combinational Circuits]]
 
 - Output depends only on current input
 - Adders and multiplexers
 
-## 7.4 Sequential Circuits
+## 7.4 Sequential Circuits [[Sequential Circuits]]
 
 - Memory elements
 - State depends on history
 
-## 7.5 Clock Signals
+## 7.5 Clock Signals [[Clock Signals]]
 
 - Timing synchronization
 - CPU cycles
