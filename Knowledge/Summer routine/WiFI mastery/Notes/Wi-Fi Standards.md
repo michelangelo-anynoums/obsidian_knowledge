@@ -2,6 +2,8 @@
 
 # Wi-Fi Standards
 
+https://www.youtube.com/watch?v=dpQNrdriV8M
+
 **Wi-Fi standards** are defined by the **IEEE 802.11** protocol family, which specifies the medium access control and physical layer protocols for wireless local area networks.  
 
 Since 2018, the **Wi-Fi Alliance** has used a simplified generational numbering scheme (Wi-Fi 1 through Wi-Fi 8) to market these underlying IEEE standards to consumers.

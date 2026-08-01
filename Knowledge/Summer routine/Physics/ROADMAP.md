@@ -248,27 +248,27 @@ I learn physics and computer science and I need to write simple, short and well 
 
 # 8. Semiconductor Physics (WHY COMPUTERS EXIST)
 
-## 8.1 Conductors
+## 8.1 Conductors [[Conductors]]
 
 - Free electrons
 - Low resistance materials (copper, aluminum)
 
-## 8.2 Insulators
+## 8.2 Insulators [[Insulators]]
 
 - No free charge movement
 - Prevent current flow
 
-## 8.3 Semiconductors
+## 8.3 Semiconductors [[Semiconductors]]
 
 - Controlled conductivity
 - Silicon-based systems
 
-## 8.4 Doping
+## 8.4 Doping [[Doping]]
 
 - Adding impurities to silicon
 - P-type and N-type materials
 
-## 8.5 PN Junction
+## 8.5 PN Junction [[PN Junction]]
 
 - Basis of diodes and transistors
 - Controlled electron flow
@@ -277,22 +277,22 @@ I learn physics and computer science and I need to write simple, short and well 
 
 # 9. Light & Fiber Optics (NETWORK BACKBONE)
 
-## 9.1 Light as Electromagnetic Wave
+## 9.1 Light as Electromagnetic Wave [[Light as Electromagnetic Wave]]
 
 - High-frequency EM wave
 - Travels in straight lines
 
-## 9.2 Reflection
+## 9.2 Reflection [[Reflection]]
 
 - Bouncing of light
 - Used in mirrors and fiber optics
 
-## 9.3 Refraction
+## 9.3 Refraction [[Refraction]]
 
 - Bending of light in materials
 - Optical signal routing
 
-## 9.4 Fiber Optics
+## 9.4 Fiber Optics [[Fiber Optics]]
 
 - Light-based data transmission
 - Very high bandwidth communication

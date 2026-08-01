@@ -260,7 +260,7 @@ Learn:
     
 - 802.11ax
 
-> Bandwidth (channel width)
+> Bandwidth (channel width) & new generations
 
 Create a comparison table.
 
@@ -299,7 +299,7 @@ Review Days 8–13.
 
 ### Day 15
 
-### Wi-Fi Architecture
+### Wi-Fi Architecture [[Wi-Fi Architecture]]
 
 Learn:
 
@@ -320,7 +320,7 @@ Learn:
 
 ### Day 16
 
-### Management Frames
+### Management Frames [[Management Frames]]
 
 Learn:
 
@@ -338,7 +338,7 @@ How devices discover networks.
 
 ### Day 17
 
-### Authentication & Association
+### Authentication & Association [[Authentication Association]]
 
 Learn:
 
@@ -357,7 +357,7 @@ Draw the connection process.
 
 ### Day 18
 
-### Wireless Security History
+### Wireless Security History [[Wireless Security History]]
 
 Learn:
 
@@ -377,7 +377,7 @@ Why WEP failed.
 
 ### Day 19
 
-### WPA2 Deep Dive
+### WPA2 Deep Dive [[WPA2 Deep Dive]]
 
 Learn:
 
@@ -398,7 +398,7 @@ This is one of the most important days.
 
 ### Day 20
 
-### Enterprise Wi-Fi Security
+### Enterprise Wi-Fi Security [[Enterprice Wi-Fi Security]]
 
 Learn:
 
@@ -417,7 +417,7 @@ Learn:
 
 ### Day 21
 
-### WPA3 + PMF
+### WPA3 + PMF [[WPA3 PMF]]
 
 Learn:
 

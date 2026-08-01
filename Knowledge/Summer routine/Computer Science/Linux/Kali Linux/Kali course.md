@@ -95,11 +95,51 @@ Lesson 5
 
 =========================
 
+dpkg -i [package name]
+apt [--fix-broken  (optional)] install [package name]
+apt update
+apt edit-sources
+apt list
+apt list --installed
+apt show [package]
+apt search [package]
+apt remove [package name]
+apt purge [package name]
+apt upgrade
+apt full-upgrade
+aptitude
+
+apt install snapd
+snap install --classic [application name]
+
+git clone [URL]
+
+pip3 install -r requirements.txt
+
+
 ==========================
 
 Lesson 6
 
 ==========================
+
+ps
+ps -aux
+pstree
+systemctl
+systemctl stop [process]
+systemctl status [process]
+systemctl start [process]
+systemctl restart [process]
+systemctl reload-or-restart [process]
+systemctl disable [process]
+systemctl enable [process]
+systemctl is-active [process]
+systemctl is-enabled [process]
+systemctl list-units
+systemctl list-units --all
+systemctl list-units-file
+
 
 =========================
 
