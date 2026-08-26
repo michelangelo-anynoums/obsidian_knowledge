@@ -301,22 +301,22 @@ I learn physics and computer science and I need to write simple, short and well 
 
 # 10. Information & Entropy (CRYPTO FOUNDATION)
 
-## 10.1 Information
+## 10.1 Information [[Information]]
 
 - Measured reduction in uncertainty
 - Bits as basic unit
 
-## 10.2 Entropy
+## 10.2 Entropy [[Entropy]] 
 
 - Measure of randomness
 - Higher entropy = more unpredictability
 
-## 10.3 Data Compression
+## 10.3 Data Compression [[Data Compression]]
 
 - Removing redundancy
 - Efficient storage and transmission
 
-## 10.4 Randomness
+## 10.4 Randomness [[Randomness]]
 
 - Critical for cryptography
 - True vs pseudo-random systems

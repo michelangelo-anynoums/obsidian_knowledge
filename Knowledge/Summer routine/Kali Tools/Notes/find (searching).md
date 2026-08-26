@@ -72,6 +72,27 @@ Use `-iname` to ignore case:
 find ~ -iname "*.jpg"
 ```
 
+
+# Mount Android (GVFS/MTP)
+
+1. Connect the phone via USB.
+    
+2. Unlock it and select **File Transfer (MTP)**.
+    
+3. Open the phone once in the file manager (this triggers the GVFS mount).
+    
+4. Access it from the terminal:
+    
+
+```bash
+ls /run/user/$UID/gvfs
+cd "/run/user/$UID/gvfs/mtp:host=.../Internal shared storage"
+```
+
+Use `find /run/user/$UID/gvfs -maxdepth 2` to locate the exact mount path if needed.
+
+You can also make it even shorter if you're aiming for a quick command reference.
+
 ---
 
 # 4. Search Only Files
@@ -285,5 +306,121 @@ find /media -iname "*filename*"
 ```bash
 sudo find / -iname "*filename*"
 ```
+
+---
+
+## `find` filename patterns — quick notes
+
+The basic syntax is:
+
+```bash
+find <where> -type f -iname "<pattern>"
+```
+
+For example:
+
+```bash
+find ~ -type f -iname "*.png"
+```
+
+This searches your home directory (`~`) for files ending in `.png`, ignoring capitalization.
+
+### Wildcards
+
+- `*` → any number of characters
+- `?` → exactly one character
+- `[abc]` → one character that is `a`, `b`, or `c`
+
+### Examples
+
+**Find all PNG files:**
+
+```bash
+find ~ -type f -iname "*.png"
+```
+
+**Find filenames containing `report`:**
+
+```bash
+find ~ -type f -iname "*report*.pdf"
+```
+
+Matches things like:
+
+```text
+report.pdf
+my-report.pdf
+annual_report_2026.pdf
+```
+
+**Find files starting with photo:**
+
+```bash
+find ~ -type f -iname "photo*"
+```
+
+**Find files ending with .jpg or .jpeg:**
+
+```bash
+find ~ -type f \( -iname "*.jpg" -o -iname "*.jpeg" \)
+```
+
+**Find an exact filename:**
+
+```bash
+find ~ -type f -iname "myfile.png"
+```
+
+**Find files with one unknown character:**
+
+```bash
+find ~ -type f -iname "photo?.png"
+```
+
+This could match:
+
+```text
+photo1.png
+photo2.png
+photoA.png
+```
+
+but not:
+
+```text
+photo12.png
+```
+
+### `-name` vs `-iname`
+
+`-name` is **case-sensitive**:
+
+```bash
+find ~ -type f -name "*.PNG"
+```
+
+`-iname` is **case-insensitive**:
+
+```bash
+find ~ -type f -iname "*.png"
+```
+
+So `-iname` is often more convenient when you don't care about capitalization.
+
+### ⭐ Most useful pattern to remember
+
+If you want to search for a word anywhere in a filename:
+
+```bash
+find ~ -type f -iname "*word*"
+```
+
+For example:
+
+```bash
+find ~ -type f -iname "*invoice*"
+```
+
+And remember to **quote the pattern** (`"*invoice*"`), so your shell doesn't expand the `*` before `find` sees it.
 
 ---

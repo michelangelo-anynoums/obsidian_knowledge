@@ -19,7 +19,7 @@ Lesson 2
 whoami
 clear or CTRL + L
 
-Everything in Linux is a file. Every commands are file.
+Everything in Linux is a file. Every commands are files.
 
 cat [file]
 cp [file]  [copy file]
@@ -147,11 +147,43 @@ Lesson 7
 
 =========================
 
+ps
+ps -u [user name]
+pgrep [process]
+kill [ID of the process]
+ps -aux
+top
+htop
+ping
+sleep
+jobs
+CTRL + Z to put on background
+bg [ID of the process]
+fg [ID of the process]
+kill -l
+[command] & to put on background
+kill -19 [ID of the process] 
+pkill -9 [processes]
+
+
 ==========================
 
 Lesson 8
 
 =========================
+
+python -m http.server [port]
+php -S 127.0.0.1:[port]
+
+127.0.0.1 = localhost
+
+systemctl start apache2
+curl [url]
+curl -o [file to download]  [url]
+curl -I [url]
+curl -v [url]
+
+wget [url]
 
 
 ==========================

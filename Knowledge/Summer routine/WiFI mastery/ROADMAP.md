@@ -436,7 +436,7 @@ Learn:
 
 ### Day 22
 
-### Wireless Reconnaissance
+### Wireless Reconnaissance [[Wireless Reconnaissance]]
 
 Learn:
 
@@ -460,7 +460,7 @@ Tools:
 
 ### Day 23
 
-### Handshake Analysis
+### Handshake Analysis [[Handshake Analysis]]
 
 Learn:
 
