@@ -1,0 +1,589 @@
+# Computer Hardware Fundamentals Roadmap (4 Weeks)
+
+## Goal
+
+Learn the essential computer hardware components, peripheral devices, maintenance, and basic troubleshooting through theory and hands-on practice.
+
+**Time Commitment:** 2–3 hours per week
+
+
+> **Prompt**: Hi, I just wondered, if you could please help me. 
+>
+I learn physics and computer science and I need to write simple, short and well explained notes about this topic. Please it should be in "WRITING" mode. 
+> 
+> Use simple words and easy sentences. Maintain the shortness and important ideas of the texts. Highlight important words or phrases using Obsidian rules.
+> 
+> **Topic: (just give a breve answer to each point/topic)**
+> 
+> ---
+> 
+> Thanks a lot. Thanks.
+
+
+---
+
+# Week 1 — Peripherals & Displays
+
+## Objective
+
+Understand the most common input and output devices and their major variants.
+
+---
+
+## Theory
+
+### Keyboards [[Keyboards]]
+
+https://www.youtube.com/watch?v=6HqO1ltAat4&pp=ygUSa2V5Ym9hcmQgZXhwbGFpbmVk
+
+https://youtu.be/Qx-8JdRgAK4
+#### Membrane 
+
+- Rubber dome switches
+    
+- Quiet
+    
+- Low cost
+    
+- Common in laptops and office keyboards
+    
+
+#### Mechanical
+
+- Individual switches
+    
+- Longer lifespan
+    
+- Better repairability
+    
+
+##### Linear Switches
+
+- Smooth keystroke
+    
+- No tactile feedback
+    
+- Examples: Cherry MX Red, Gateron Red
+    
+
+##### Tactile Switches
+
+- Noticeable bump
+    
+- Balanced for typing and gaming
+    
+- Example: Cherry MX Brown
+    
+
+##### Clicky Switches
+
+- Audible click
+    
+- Strong feedback
+    
+- Example: Cherry MX Blue
+    
+
+#### Optical
+
+- Uses light-based actuation
+    
+- Fast response time
+    
+
+#### Low Profile
+
+- Shorter travel distance
+    
+- Common in thin keyboards
+    
+
+#### Ergonomic
+
+- Designed to reduce wrist strain
+    
+- Split or curved layouts
+    
+
+---
+
+### Mouse Types [[Mouse Types]]
+
+https://www.youtube.com/watch?v=eoUgDF5QtP0&pp=ygUadHlwZXMgb2YgbW91c2UgaW4gY29tcHV0ZXI%3D
+
+#### Mechanical Mouse
+
+- Uses a physical ball
+    
+- Largely obsolete
+    
+
+#### Optical Mouse
+
+- LED sensor
+    
+- Most common type
+    
+
+#### Laser Mouse
+
+- Laser sensor
+    
+- Higher surface compatibility
+    
+
+#### Wired Mouse
+
+- USB connection
+    
+- No battery required
+    
+
+#### Wireless Mouse
+
+- Bluetooth or USB receiver
+    
+- Portable
+    
+
+#### Gaming Mouse
+
+- High-performance sensor
+    
+- Adjustable DPI
+    
+- Additional buttons
+    
+
+#### Vertical Mouse
+
+- Ergonomic design
+    
+- Reduced wrist rotation
+    
+
+#### Trackball Mouse
+
+- Stationary device
+    
+- Ball controlled by fingers
+    
+
+---
+
+### Display Types [[Display Types]] 
+
+#### LCD
+
+- Traditional flat-panel technology
+    
+
+#### LED
+
+- LCD panel with LED backlighting
+    
+
+#### IPS
+
+- Excellent color accuracy
+    
+- Wide viewing angles
+    
+
+#### TN
+
+- Fast response times
+    
+- Lower image quality
+    
+
+#### VA
+
+- High contrast ratio
+    
+- Good balance between IPS and TN
+    
+
+#### OLED
+
+- Self-emitting pixels
+    
+- Deep blacks
+    
+- Excellent contrast
+    
+
+#### Mini-LED
+
+- Improved backlighting zones
+    
+- Better HDR performance
+    
+
+https://www.youtube.com/watch?v=EMg87BB4BoU&pp=ygUcdHlwZXMgb2Ygc2NyZWVucyBleHBsYW5hdGlvbg%3D%3D
+
+---
+
+# Week 2 — Internal Components
+
+## Objective
+
+Understand the core hardware that makes a computer function.
+
+---
+
+## Theory
+
+### CPU  [[CPU]]
+
+Learn:
+
+- Cores
+    
+- Threads
+    
+- Clock Speed
+    
+- Cache
+    
+- Integrated Graphics
+    
+
+Examples:
+
+- Intel Core Series
+    
+- AMD Ryzen Series
+    
+
+---
+
+### Motherboard [[Motherboard]]
+
+Learn:
+
+- Purpose
+    
+- Chipset
+    
+- CPU Socket
+    
+- RAM Slots
+    
+- Storage Connectors
+    
+- Expansion Slots
+    
+
+---
+
+### RAM [[RAM]]
+
+Learn:
+
+#### DDR Generations
+
+- DDR3
+    
+- DDR4
+    
+- DDR5
+    
+
+#### Form Factors
+
+- DIMM (Desktop)
+    
+- SO-DIMM (Laptop)
+    
+
+#### Characteristics
+
+- Capacity
+    
+- Frequency
+    
+- Latency
+    
+
+---
+
+### Storage [[Storage]]
+
+#### HDD
+
+- Magnetic storage
+    
+- Large capacity
+    
+- Slower performance
+    
+
+#### SATA SSD
+
+- Faster than HDD
+    
+- Uses SATA interface
+    
+
+#### NVMe SSD
+
+- Uses PCIe interface
+    
+- Significantly faster
+    
+
+---
+ 
+### GPU [[GPU]]
+
+
+#### Integrated Graphics
+
+- Built into CPU
+    
+
+#### Dedicated Graphics Card
+
+- Separate processor
+    
+- Higher graphical performance
+    
+
+---
+
+
+
+---
+
+# Week 3 — Cooling & Maintenance
+
+## Objective
+
+Understand heat management and perform preventive maintenance.
+
+---
+
+## Theory
+
+### Cooling Systems [[Cooling Systems]]
+
+#### Passive Cooling
+
+- No fan
+    
+- Uses heat sinks only
+    
+
+#### Active Cooling
+
+- Fan-assisted cooling
+    
+
+---
+
+### Heat Sinks
+
+Learn:
+
+- Aluminum heat sinks
+    
+- Copper heat sinks
+    
+- Heat pipes
+    
+
+---
+
+### Fans
+
+Learn:
+
+#### Axial Fans
+
+- Common in desktops
+    
+![[Pasted image 20260724140653.png|339]]
+#### Blower Fans
+
+- Common in laptops
+    
+
+![[Pasted image 20260724140619.png|427]]
+
+---
+
+### Thermal Paste [[Thermal Paste theory]]
+
+Learn:
+
+- Purpose
+    
+- Heat transfer
+    
+- Lifespan
+    
+- Replacement intervals
+    
+
+---
+
+### Dust Accumulation [[Dust Accumulation]]
+
+Effects:
+
+- Higher temperatures
+    
+- Increased noise
+    
+- Reduced performance
+    
+
+---
+
+# Week 4 — Thermal Paste & Troubleshooting
+
+## Objective
+
+Learn basic diagnostics and thermal maintenance.
+
+---
+
+## Theory
+
+### Common Problems [[Common Problems]]
+
+#### Slow Performance
+
+Possible causes:
+
+- HDD
+    
+- Insufficient RAM
+    
+- Overheating
+    
+
+#### Overheating
+
+Possible causes:
+
+- Dust
+    
+- Old thermal paste
+    
+- Fan failure
+    
+
+#### Random Shutdowns
+
+Possible causes:
+
+- Thermal protection
+    
+- Battery issues
+    
+- Power delivery issues
+    
+
+---
+
+### Upgrade Paths [[Upgrade Paths]]
+
+#### RAM Upgrade
+
+Benefits:
+
+- Better multitasking
+    
+
+#### SSD Upgrade
+
+Benefits:
+
+- Faster responsiveness
+    
+
+---
+
+### Thermal Paste Replacement
+
+Process:
+
+1. Remove cooler.
+    
+2. Clean old paste.
+    
+3. Apply new paste.
+    
+4. Reinstall cooler.
+    
+
+Common mistakes:
+
+- Too much paste
+    
+- Uneven pressure
+    
+- Forgotten fan connection
+    
+
+
+---
+
+# Final Project
+
+Create a Hardware Fundamentals Summary containing:
+
+## Peripherals
+
+- Keyboard types
+    
+- Keyboard switches
+    
+- Mouse types
+    
+- Display technologies
+    
+
+## Internal Components
+
+- CPU
+    
+- Motherboard
+    
+- RAM
+    
+- Storage
+    
+- GPU
+    
+
+## Cooling
+
+- Fans
+    
+- Heat sinks
+    
+- Thermal paste
+    
+
+## Maintenance
+
+- Fan cleaning
+    
+- Thermal paste replacement
+    
+
+## Troubleshooting
+
+- Slow performance
+    
+- Overheating
+    
+- Hardware upgrades
+    
+
+Goal:
+
+Be able to explain every major computer component, peripheral, and maintenance procedure without using notes.
