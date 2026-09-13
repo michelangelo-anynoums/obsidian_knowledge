@@ -511,7 +511,7 @@ Learn:
 
 ### Day 26
 
-### Real-World Wireless Threats
+### Real-World Wireless Threats [[Real-World Wireless Threats]]
 
 Learn:
 
@@ -528,7 +528,7 @@ Learn:
 
 ### Day 27
 
-### Wireless Monitoring
+### Wireless Monitoring [[Wireless Monitoring]]
 
 Learn:
 
@@ -545,7 +545,7 @@ Learn:
 
 ### Day 28
 
-### Enterprise Wi-Fi
+### Enterprise Wi-Fi [[Enterprise Wi-Fi]]
 
 Learn:
 
@@ -566,7 +566,7 @@ Learn:
 
 ### Day 29
 
-### RF Engineering for Security Professionals
+### RF Engineering for Security Professionals [[RF Engineering for Security Professionals]]
 
 Learn:
 

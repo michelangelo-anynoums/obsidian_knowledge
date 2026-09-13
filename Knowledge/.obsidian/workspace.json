@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ae95f7e10a23bcd",
+        "id": "fee2873c73938aa2",
         "type": "tabs",
         "children": [
           {
-            "id": "72efd3ca33644c11",
+            "id": "fc4be77546bc1afb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,6 +29,7 @@
       {
         "id": "8d6323bc50cdcc4d",
         "type": "tabs",
+        "dimension": 71.81818181818181,
         "children": [
           {
             "id": "02b9f68937027fa0",
@@ -70,6 +71,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "61510ee69869674c",
+        "type": "tabs",
+        "dimension": 28.18181818181818,
+        "children": [
+          {
+            "id": "f4b7458aedfe5c8e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -191,18 +209,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "02b9f68937027fa0",
+  "active": "fc4be77546bc1afb",
   "lastOpenFiles": [
+    "General notes/Computer Science/Linux/Kali Linux/Kali Linux.md",
+    "General notes/Computer Science/Programming/Python/Libraries/venv.md",
+    "General notes/Computer Science/Image/Pasted image 20260913070829.png",
+    "General notes/WiFI mastery/Notes/Wireless Fundamentals.md",
+    "General notes/WiFI mastery/Images/Pasted image 20260913061353.png",
+    "General notes/WiFI mastery/Images/Pasted image 20260913061116.png",
+    "General notes/Computer Science/Other/PC utils/VeraCrypt.md",
+    "General notes/Computer Science/Other/PC utils/diskpart.md",
+    "General notes/Computer Science/Other/PC utils/Schtasks.md",
+    "General notes/Soldering iron/ROADMAP.md",
+    "General notes/WiFI mastery/Notes/RF Engineering for Security Professionals.md",
     "General notes/WiFI mastery/ROADMAP.md",
+    "General notes/WiFI mastery/Notes/Enterprise Wi-Fi.md",
+    "General notes/WiFI mastery/Notes/Wireless Monitoring.md",
+    "General notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking.md",
+    "General notes/WiFI mastery/Notes/WPA3 PMF.md",
+    "General notes/WiFI mastery/Notes/Real-World Wireless Threats.md",
+    "General notes/Physics/Notes/Wave Basics.md",
+    "General notes/Physics/Notes/Antennas.md",
+    "General notes/Physics/ROADMAP.md",
     "General notes/WiFI mastery/Notes/Deauthentication Wireless DoS.md",
     "General notes/WiFI mastery/Notes/Rogue APs Evil Twins.md",
-    "General notes/Physics/ROADMAP.md",
     "General notes/Physics/Notes/Signal Propagation.md",
-    "General notes/WiFI mastery/Notes/Wireless Fundamentals.md",
-    "General notes/Physics/Notes/Wave Basics.md",
-    "Interference.md",
+    "General notes/Physics/Notes/Interference.md",
     "General notes/Physics/Notes/Bandwidth.md",
-    "General notes/Physics/Notes/Antennas.md",
     "General notes/Physics/Notes/Radio Waves.md",
     "General notes/Kali Tools/Notes/Hashcat.md",
     "General notes/Kali Tools/ROADMAP.md",
@@ -211,25 +244,10 @@
     "General notes/Lockpicking/Images/Pasted image 20260828145949.png",
     "General notes/Lockpicking/ROADMAP.md",
     "General notes/Lockpicking/Images/Pasted image 20260828150225.png",
-    "General notes/Soldering iron/ROADMAP.md",
-    "General notes/Soldering iron/Notes/Basic Soldering Technique.md",
     "General notes/Soldering iron/Images/Pasted image 20260828144850.png",
-    "General notes/Soldering iron/Notes/Fundamentals of Soldering.md",
     "General notes/Soldering iron/Images/Pasted image 20260828145416.png",
     "General notes/Soldering iron/Images/Pasted image 20260828145220.png",
-    "General notes/Assembly/Softwares.md",
-    "General notes/Assembly/Thermal paste.md",
-    "General notes/Assembly/CPU explanation (models).md",
     "General notes/Assembly/Images/Pasted image 20260828144255.png",
-    "General notes/Assembly/ROADMAP.md",
-    "General notes/Assembly/Notes/Upgrade Paths.md",
-    "General notes/Assembly/Notes/Common Problems.md",
-    "General notes/Assembly/Images/Pasted image 20260828144140.png",
-    "General notes/Assembly/Images/Pasted image 20260828143643.png",
-    "General notes/Assembly/Notes/Thermal Paste theory.md",
-    "General notes/Assembly/Images/Pasted image 20260828143903.png",
-    "General notes/Assembly/Notes/Keyboards.md",
-    "General notes/Kali Tools/Notes/Crunch.md",
     "General notes/Physics/Images",
     "General notes/WiFI mastery/Images",
     "General notes/Computer Science/Linux/Ethnical hacking/Images",

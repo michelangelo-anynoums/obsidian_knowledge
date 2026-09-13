@@ -83,12 +83,89 @@ The **RF (Radio Frequency) spectrum** is the range of frequencies used for wirel
 
 An **antenna** is a simple metal device that sends and receives radio waves.  Think of it as a bridge that changes electricity from a wire into invisible waves that travel through the air (like Wi-Fi or radio signals), and changes those waves back into electricity so your device can use them. Without antennas, phones, radios, and TVs could not work wirelessly.
 
+**For reference:** https://youtu.be/ZaXm6wau-jc
 
 ![[Pasted image 20260721125548.png]]
 
 ![[Pasted image 20260721125927.png|570]]
 
 ![[Pasted image 20260721125954.png|513]]
+
+# Types of Antennas
+
+An **antenna** is a device used to **send or receive radio signals**. Different antennas have different shapes and are designed for different purposes.
+
+### 1. Dipole Antenna
+
+![[Pasted image 20260721125954.png|325]]
+
+A **dipole antenna** is one of the simplest and most common antennas. It usually has **two metal rods or wires** arranged in a straight line, with the signal connected between them.
+
+- **Shape:** Two equal-length arms.
+- **Use:** Radio communication, TV, and many other wireless systems.
+- **Example:** The simple “rabbit-ear” antenna used with some TVs is similar to a dipole.
+
+**Easy idea:** Think of it as two metal arms working together to send or receive a signal.
+
+### 2. Monopole Antenna
+
+![[Pasted image 20260721125927.png|437]]
+
+A **monopole antenna** is similar to half of a dipole. It normally has **one metal rod** placed above a conducting surface called a **ground plane**.
+
+- **Shape:** One vertical rod.
+- **Use:** Cars, radios, mobile communication, and Wi-Fi equipment.
+- **Example:** The short antenna on a car radio is a common example.
+
+**Easy idea:** A monopole is like a dipole that has been cut in half, with the ground plane acting as the other half.
+
+### 3. Loop Antenna
+
+![[Pasted image 20260913061116.png|370]]
+
+A **loop antenna** is made from a wire or metal conductor formed into a **closed loop**, such as a circle or rectangle.
+
+- **Shape:** Circular, square, or rectangular loop.
+- **Use:** AM radio receivers, RFID systems, and direction-finding equipment.
+- **Example:** Some small portable AM radios use a loop antenna inside the radio.
+
+**Easy idea:** Instead of straight wires, the conductor is bent around to make a loop.
+
+### 4. Yagi-Uda Antenna
+
+![[Pasted image 20260721130807.png|361]]
+
+A **Yagi-Uda antenna**, often simply called a **Yagi antenna**, has several metal elements arranged along a boom. It is designed to send or receive signals mainly in **one direction**.
+
+- **Shape:** Several metal rods mounted along a long support.
+- **Use:** Television reception, amateur radio, and some communication systems.
+- **Example:** The antenna commonly seen on rooftops for receiving TV signals is often a Yagi-type antenna.
+
+**Easy idea:** It works like a “spotlight” for radio signals, concentrating its strongest reception or transmission in one direction.
+
+### 5. Parabolic / Dish Antenna
+
+![[Pasted image 20260913061353.png|370]]
+
+A **dish antenna** uses a curved, bowl-shaped reflector to **focus radio waves** toward a small antenna called the **feed**.
+
+- **Shape:** Looks like a large bowl or satellite dish.
+- **Main feature:** Highly **directional** — it sends or receives signals mainly in one direction.
+- **Use:** Satellite TV, satellite communication, radar, radio astronomy, and long-distance wireless links.
+- **Example:** The dish on a house used to receive **satellite TV**.
+
+**Easy idea:** Imagine using a **magnifying glass**, but instead of focusing light, the dish focuses radio waves.
+### Quick Comparison
+
+| Type               | Basic shape               | Main feature                  | Example            |
+| ------------------ | ------------------------- | ----------------------------- | ------------------ |
+| **Dipole**         | Two straight arms         | Simple and widely used        | TV/radio antenna   |
+| **Monopole**       | One straight rod + ground | Compact and simple            | Car radio antenna  |
+| **Loop**           | Closed loop               | Compact; useful for receiving | AM radio           |
+| **Yagi-Uda**       | Several rods on a boom    | Strongly directional          | Rooftop TV antenna |
+| **Parabolic/Dish** | Curved reflector          | Very directional              | TV antenna         |
+
+**In short:** Dipole and monopole antennas are among the simplest types, a loop antenna uses a closed conductor, and a Yagi-Uda antenna uses several elements to focus radio signals in a particular direction.
 
 ---
 
