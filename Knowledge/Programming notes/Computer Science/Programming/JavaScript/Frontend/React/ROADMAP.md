@@ -5,7 +5,7 @@
 
 ---
 
-## 🟢 BLOCK 0 — JavaScript Foundation
+## 🟢 BLOCK 0 — JavaScript Foundation [[JavaScript Foundation]]
 
 Before React, be comfortable with:
 
