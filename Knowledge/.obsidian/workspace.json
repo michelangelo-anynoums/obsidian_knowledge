@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3fa426d80d674b6a",
+        "id": "563df935f8c43902",
         "type": "tabs",
         "children": [
           {
-            "id": "091a23a6e24cb3a1",
+            "id": "14db3d7389ebd290",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Computer Science/Programming/Java/Math object.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Math object"
             }
           }
         ]
@@ -209,19 +213,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "091a23a6e24cb3a1",
+  "active": "14db3d7389ebd290",
   "lastOpenFiles": [
+    "Programming notes/Assembly/Images/Pasted image 20261004111943.png",
+    "Programming notes/Assembly/Notes/Von Neumann architecture.md",
+    "Programming notes/Assembly/Images/Pasted image 20261004111930.png",
+    "Programming notes/Computer Science/Programming/Java/Methods/String methods.md",
+    "Programming notes/Computer Science/Programming/Java/Methods/Integer methods.md",
+    "Programming notes/Computer Science/Programming/Java/Printf.md",
+    "Programming notes/Computer Science/Programming/Java/Methods/Type casting.md",
+    "Programming notes/Computer Science/Programming/Java/Methods",
+    "Programming notes/Computer Science/Programming/Java/Math object.md",
+    "Programming notes/Computer Science/Programming/Java/User input Scanner.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/ROADMAP.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/React Basics.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Setup.md",
+    "Programming notes/Computer Science/Programming/CSS/Flex.md",
+    "Programming notes/Computer Science/Programming/CSS/Grid.md",
+    "Programming notes/Computer Science/Programming/CSS",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/JavaScript Foundation.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/ROADMAP.md",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/DOMpurify.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/ForEach.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Find.md",
     "Programming notes/Computer Science/Programming/Java/Type casting.md",
     "Programming notes/Computer Science/Programming/Java/String methods.md",
-    "Programming notes/Computer Science/Programming/Java/Math object.md",
     "Programming notes/Computer Science/Programming/Java/Integer methods.md",
     "Programming notes/Computer Science/Linux/Kali Linux/Kali Linux.md",
     "Programming notes/Computer Science/Programming/Java/Scanner.md",
@@ -230,32 +248,18 @@
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Array methods.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Integer methods.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/String methods.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Filter, map, reduce.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Introduction.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/Promises.md",
     "Programming notes/Computer Science/Programming/Java",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Introduction.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/React",
-    "Programming notes/Computer Science/Programming/Images",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Math.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/LocalStorage browser.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Canvas.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Audio.md",
-    "Programming notes/Computer Science/Programming/Python/Flask/Content/SQLite database.md",
-    "Programming notes/Computer Science/Programming/Python/Python Introduction.md",
     "Programming notes/Computer Science/Other/Vim_Editor/vimlogo.svg",
     "Programming notes/Computer Science/Images/Pasted image 20260913070829.png",
-    "Programming notes/WiFI mastery/Images/Pasted image 20260913061353.png",
-    "Programming notes/WiFI mastery/Images/Pasted image 20260913061116.png",
+    "Programming notes/WiFi mastery/Images/Pasted image 20260913061353.png",
+    "Programming notes/WiFi mastery/Images/Pasted image 20260913061116.png",
     "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/images/Pasted image 20260829125459.png",
     "General notes/Lockpicking/Images/Pasted image 20260828145949.png",
     "General notes/Lockpicking/Images/Pasted image 20260828150225.png",
     "General notes/Soldering iron/Images/Pasted image 20260828144850.png",
-    "General notes/Soldering iron/Images/Pasted image 20260828145416.png",
-    "General notes/Soldering iron/Images/Pasted image 20260828145220.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

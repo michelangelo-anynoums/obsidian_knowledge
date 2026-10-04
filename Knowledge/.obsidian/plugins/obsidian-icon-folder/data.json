@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCalendarSync",
-      "LiList",
-      "LiSearch",
-      "LiNotebookPen",
-      "LiToolbox"
+      "LiCpu",
+      "LiSettings",
+      "LiLineStyle",
+      "LiLineHorizontal",
+      "LiGrid2x2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,13 +37,11 @@
   "Programming notes/Assembly": "LiCpu",
   "Programming notes/Computer Science": "LiComputer",
   "Programming notes/Physics": "LiAtom",
-  "Programming notes/WiFI mastery": "LiWifi",
   "Programming notes/Assembly/ROADMAP.md": "LiCpu",
   "Programming notes/Computer Science/Linux": "FabLinux",
   "Programming notes/Computer Science/Other": "LiToolbox",
   "Programming notes/Computer Science/Programming": "LiComputer",
   "Programming notes/Physics/Notes/Wave Basics.md": "LiAudioWaveform",
-  "Programming notes/WiFI mastery/Notes/Wireless Fundamentals.md": "LiWifi",
   "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking.md": "LiWifi",
   "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools": "LiToolCase",
   "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/ROADMAP.md": "LiToolCase",
@@ -96,5 +94,13 @@
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Audio.md": "LiFileAudio",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Canvas.md": "LiPaintbrush",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/LocalStorage browser.md": "LiStore",
-  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities": "LiToolbox"
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities": "LiToolbox",
+  "Programming notes/WiFi mastery": "LiWifi",
+  "Programming notes/WiFi mastery/ROADMAP.md": "LiMap",
+  "Programming notes/WiFi mastery/Notes/Wireless Fundamentals.md": "LiWifi",
+  "Programming notes/Computer Science/Programming/CSS": "FabCss3",
+  "Programming notes/Computer Science/Programming/CSS/Grid.md": "LiGrid2x2",
+  "Programming notes/Computer Science/Programming/CSS/Flex.md": "LiLineStyle",
+  "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Setup.md": "LiSettings",
+  "Programming notes/Assembly/Notes/Von Neumann architecture.md": "LiCpu"
 }

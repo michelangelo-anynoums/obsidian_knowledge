@@ -36,7 +36,7 @@ Before React, be comfortable with:
 
 ---
 
-## 🟢 BLOCK 1 — React Basics
+## 🟢 BLOCK 1 — React Basics [[React Basics]]
 
 Learn:
 
