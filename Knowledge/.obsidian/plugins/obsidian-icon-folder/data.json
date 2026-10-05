@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCpu",
-      "LiSettings",
-      "LiLineStyle",
-      "LiLineHorizontal",
-      "LiGrid2x2"
+      "LiLink",
+      "LiGlasses",
+      "LiWifiCog",
+      "LiWifi",
+      "LiFileJson"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,7 +42,6 @@
   "Programming notes/Computer Science/Other": "LiToolbox",
   "Programming notes/Computer Science/Programming": "LiComputer",
   "Programming notes/Physics/Notes/Wave Basics.md": "LiAudioWaveform",
-  "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking.md": "LiWifi",
   "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools": "LiToolCase",
   "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/ROADMAP.md": "LiToolCase",
   "General notes/Astronomy": "FabSpaceAwesome",
@@ -102,5 +101,10 @@
   "Programming notes/Computer Science/Programming/CSS/Grid.md": "LiGrid2x2",
   "Programming notes/Computer Science/Programming/CSS/Flex.md": "LiLineStyle",
   "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Setup.md": "LiSettings",
-  "Programming notes/Assembly/Notes/Von Neumann architecture.md": "LiCpu"
+  "Programming notes/Assembly/Notes/Von Neumann architecture.md": "LiCpu",
+  "Programming notes/Computer Science/Programming/JavaScript/Frontend/TypeScript": "LiFileJson",
+  "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking/Setup and references.md": "LiWifiCog",
+  "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking": "LiWifi",
+  "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking/Detect deauthentication attacks.md": "LiGlasses",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/Fetch.md": "LiLink"
 }

@@ -18,6 +18,7 @@ These tools are commonly used to observe Wi-Fi networks, capture wireless traffi
 **Theory psychics:** [[Wireless Fundamentals]]
 **Aicrack-ng Suite:** [[Aircrack-ng Suite]]
 **mdk4 tool**: [[mdk4 tool]]
+**Detecting deauthentication packets in Wireshark: **
 
 - **Wireshark** – Network packet analyzer.
     

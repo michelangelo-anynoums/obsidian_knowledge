@@ -67,7 +67,7 @@ function Welcome({ name }) {
 
 ---
 
-## 🟢 BLOCK 2 — State & Events
+## 🟢 BLOCK 2 — State & Events [[State & Events]]
 
 Learn:
 

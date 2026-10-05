@@ -1,6 +1,8 @@
 
 # John von Neumann Architecture — Components Explained
 
+![[imgupscaler-enhanced.png|523]]
+
 The **von Neumann architecture** is a computer design in which **instructions and data are stored in the same main memory**. The CPU retrieves instructions from memory, processes them, and produces results.
 
 ![[Pasted image 20261004111943.png]]

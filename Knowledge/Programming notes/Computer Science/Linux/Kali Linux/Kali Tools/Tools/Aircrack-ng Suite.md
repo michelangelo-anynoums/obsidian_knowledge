@@ -84,6 +84,9 @@
 
 ➡️ Test passwords from the **rockyou.txt** wordlist against the captured WPA/WPA2 handshake.
 
+**Better with hashcat tool: ** [[Hashcat]]
+> **hashcat** can crack a password much faster than **aircrack-ng** but it requires powerful hardware setup.
+
 ---
 
 ## 📂 Wordlists
