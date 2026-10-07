@@ -129,7 +129,7 @@ Learn:
 
 ---
 
-## 🟡 BLOCK 4 — `useEffect`
+## 🟡 BLOCK 4 — `useEffect` [[useEffect]]
 
 Learn:
 
