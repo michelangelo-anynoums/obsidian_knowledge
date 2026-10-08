@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b55491ee12be4bf5",
+        "id": "304fe998970713f1",
         "type": "tabs",
         "children": [
           {
-            "id": "2cc2e762ea64c2ed",
+            "id": "2114cec99d0f6eb1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Assembly/Notes/CPU architectures.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CPU architectures"
             }
           }
         ]
@@ -110,17 +114,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Space and galaxies.md",
+                "file": "Programming notes/Assembly/Notes/CPU architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Space and galaxies"
+              "title": "Backlinks"
             }
           },
           {
@@ -172,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Space and galaxies.md",
+                "file": "Programming notes/Assembly/Notes/CPU architectures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Space and galaxies"
+              "title": "Outline"
             }
           },
           {
@@ -191,12 +195,12 @@
               "title": "calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 297.8935546875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,14 +213,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "2cc2e762ea64c2ed",
+  "active": "2114cec99d0f6eb1",
   "lastOpenFiles": [
+    "Programming notes/Assembly/Images/Pasted image 20261008061957.png",
+    "Programming notes/Assembly/Notes/CPU architectures.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Component Architecture.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/ROADMAP.md",
+    "Programming notes/Assembly/ROADMAP.md",
+    "Programming notes/Assembly/Notes/Von Neumann architecture.md",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Tor service setup.md",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Windows hash cracking.md",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Vulnerability methods.md",
     "Programming notes/Computer Science/Programming/Java/Switch.md",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/useEffect.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/ROADMAP.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Table methods.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/JavaScript Object.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Introduction.md",
@@ -232,11 +241,6 @@
     "Programming notes/Computer Science/Programming/Python/Python Introduction.md",
     "Programming notes/Computer Science/Programming/Python/Flask/Introduction.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/Fetch.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/State & Events.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/React Basics.md",
-    "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking/Cybersecurity hands-on course.md",
-    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Aircrack-ng Suite.md",
-    "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking/Setup and references.md",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/TypeScript",
     "Programming notes/Assembly/Images/imgupscaler-enhanced.png",

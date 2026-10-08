@@ -4,6 +4,7 @@
 ![[imgupscaler-enhanced.png|523]]
 
 The **von Neumann architecture** is a computer design in which **instructions and data are stored in the same main memory**. The CPU retrieves instructions from memory, processes them, and produces results.
+**Reference:** [CPU simulator](https://vnmsim.c2r0b.ovh/en-us)
 
 ![[Pasted image 20261004111943.png]]
 

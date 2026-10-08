@@ -156,7 +156,7 @@ Understand **why** an effect runs, not just the syntax.
 
 ---
 
-## 🟡 BLOCK 5 — Component Architecture
+## 🟡 BLOCK 5 — Component Architecture [[Component Architecture]]
 
 Learn:
 
