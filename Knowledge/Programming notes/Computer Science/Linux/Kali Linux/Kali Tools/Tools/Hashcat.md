@@ -212,6 +212,138 @@ Hashcat
 
 ---
 
+## Hashcat — Custom Rules Syntax
+
+> [!abstract] Goal Create custom password-mutation rules in Hashcat to generate password variations for authorized security testing.
+
+## 1. Rule Syntax
+
+|Rule|Meaning|Example|
+|---|---|---|
+|`l`|Convert to lowercase|`PASSWORD` → `password`|
+|`u`|Convert to uppercase|`password` → `PASSWORD`|
+|`c`|Capitalize first letter|`password` → `Password`|
+|`$1`|Append `1`|`pass` → `pass1`|
+|`^!`|Prepend `!`|`pass` → `!pass`|
+|`r`|Reverse the word|`hello` → `olleh`|
+|`sa@`|Replace `a` with `@`|`pass` → `p@ss`|
+> [!Warning] One rule per line = separate transformation.
+> Multiple commands on one line = combined transformation.
+> Every word can produce multiple candidate passwords.
+
+## 2. Create Your Own Rule File
+
+Create a file named `custom.rule`:
+
+```
+c
+c$1
+c$!
+l$123
+sa@
+```
+
+Each line represents a separate rule.
+
+## 3. Run Hashcat
+
+```
+hashcat -m 0 -a 0 hashes.txt wordlist.txt -r custom.rule
+```
+
+- `-m 0` — MD5 hash mode.
+- `-a 0` — Dictionary attack mode.
+- `-r` — Load custom rules.
+- `hashes.txt` — File containing hashes.
+- `wordlist.txt` — Base wordlist.
+
+## 4. Remember 
+
+- Rules modify words from your wordlist.
+- Each rule line is applied separately to each candidate word.
+- Rule order matters because commands are processed from left to right.
+- Use `hashcat --stdout wordlist.txt -r custom.rule` to preview generated candidates.
+
+## --stdout flag command
+
+In Hashcat, `--stdout` lets you preview the password candidates generated from a wordlist and your rules without attempting to crack any hashes. 
+
+## 1. Basic syntax
+
+bash
+
+```
+hashcat --stdout wordlist.txt -r custom.rule
+```
+
+- `--stdout` — prints generated candidates to the terminal.
+    
+- `wordlist.txt` — your original words.
+    
+- `-r custom.rule` — applies the rules in your rule file.
+    
+
+## 2. Practical example
+
+Your `wordlist.txt`:
+
+text
+
+```
+cat
+dog
+dragon
+```
+
+Your `custom.rule`:
+
+text
+
+```
+c
+$1
+$!
+```
+
+Run:
+
+bash
+
+```
+hashcat --stdout wordlist.txt -r custom.rule
+```
+
+Expected output:
+
+text
+
+```
+Cat
+Dog
+Dragon
+cat1
+dog1
+dragon1
+cat!
+dog!
+dragon!
+```
+
+Each rule is applied to each word, generating different password candidates.
+
+## 3. Save the output to a file
+
+bash
+
+```
+hashcat --stdout wordlist.txt -r custom.rule > candidates.txt
+```
+
+Now `candidates.txt` contains the generated candidates, one per line.
+
+
+---
+
 # Hashcat – Custom Charsets
 
 ## What Are Custom Charsets?

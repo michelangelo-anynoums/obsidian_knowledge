@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiWifi",
+      "LiCat",
       "LiBuilding",
       "LiServer",
-      "LiBrokenLink",
-      "FabWindows",
-      "LiTableConfig"
+      "LiBrokenLink"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -112,5 +112,7 @@
   "Programming notes/Computer Science/Linux/Ethnical hacking/Windows hash cracking.md": "FabWindows",
   "Programming notes/Computer Science/Linux/Ethnical hacking/Vulnerability methods.md": "LiBrokenLink",
   "Programming notes/Computer Science/Linux/Ethnical hacking/Tor service setup.md": "LiServer",
-  "Programming notes/Assembly/Notes/CPU architectures.md": "LiBuilding"
+  "Programming notes/Assembly/Notes/CPU architectures.md": "LiBuilding",
+  "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Hashcat.md": "LiCat",
+  "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Aircrack-ng Suite.md": "LiWifi"
 }

@@ -186,7 +186,7 @@ App
 
 ---
 
-## 🟡 BLOCK 6 — Routing
+## 🟡 BLOCK 6 — Routing [[Routing]]
 
 Learn:
 
