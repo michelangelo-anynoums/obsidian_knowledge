@@ -4,21 +4,37 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "29423ffd197d7e14",
         "type": "tabs",
         "children": [
           {
             "id": "a93623116d9b045a",
+=======
+        "id": "fc98a6b89106f183",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36fc39976a741290",
+>>>>>>> 9ff422e97aeef924763754be1d029ea60ec57ec9
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Summer routine/WiFI mastery/ROADMAP.md",
+=======
+                "file": "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/RegExp.md",
+>>>>>>> 9ff422e97aeef924763754be1d029ea60ec57ec9
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "ROADMAP"
+=======
+              "title": "RegExp"
+>>>>>>> 9ff422e97aeef924763754be1d029ea60ec57ec9
             }
           }
         ]
@@ -33,6 +49,7 @@
       {
         "id": "0b9d293b498f2842",
         "type": "tabs",
+        "dimension": 71.81818181818181,
         "children": [
           {
             "id": "5cfd39afcf13a186",
@@ -41,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -75,10 +94,31 @@
             }
           }
         ]
+      },
+      {
+        "id": "61510ee69869674c",
+        "type": "tabs",
+        "dimension": 28.18181818181818,
+        "children": [
+          {
+            "id": "f4b7458aedfe5c8e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300
+=======
+    "width": 297.5004348754883
+>>>>>>> 9ff422e97aeef924763754be1d029ea60ec57ec9
   },
   "right": {
     "id": "25b092b303f441fa",
@@ -94,17 +134,25 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Summer routine/WiFI mastery/ROADMAP.md",
+=======
+                "file": "Programming notes/Assembly/Notes/CPU architectures.md",
+>>>>>>> 9ff422e97aeef924763754be1d029ea60ec57ec9
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks for ROADMAP"
+=======
+              "title": "Backlinks"
+>>>>>>> 9ff422e97aeef924763754be1d029ea60ec57ec9
             }
           },
           {
@@ -156,13 +204,21 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Summer routine/WiFI mastery/ROADMAP.md",
+=======
+                "file": "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/RegExp.md",
+>>>>>>> 9ff422e97aeef924763754be1d029ea60ec57ec9
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Outline of ROADMAP"
+=======
+              "title": "Outline"
+>>>>>>> 9ff422e97aeef924763754be1d029ea60ec57ec9
             }
           },
           {
@@ -175,12 +231,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 297.8935546875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,6 +249,60 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "a93623116d9b045a",
   "lastOpenFiles": []
+=======
+  "active": "36fc39976a741290",
+  "lastOpenFiles": [
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/BOM.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/RegExp.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/JavaScript Object.md",
+    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Crunch.md",
+    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/ROADMAP.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/Fetch.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/Promises.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/ROADMAP.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/API & Async Data.md",
+    "Programming notes/Computer Science/Programming/Python/Libraries/psutil library.md",
+    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Hashcat.md",
+    "Programming notes/Computer Science/Linux/Kali Linux/Kali Linux.md",
+    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/SSH (Secure Shell)/Introduction.md",
+    "Programming notes/Computer Science/Linux/Ethnical hacking/Tor service setup.md",
+    "Programming notes/Computer Science/Linux/Ethnical hacking/Vulnerability methods.md",
+    "Programming notes/Computer Science/Linux/Ethnical hacking/Windows hash cracking.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Routing.md",
+    "Programming notes/Assembly/Notes/CPU architectures.md",
+    "Programming notes/Assembly/Images/Pasted image 20261008061957.png",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Component Architecture.md",
+    "Programming notes/Assembly/ROADMAP.md",
+    "Programming notes/Assembly/Notes/Von Neumann architecture.md",
+    "Programming notes/Computer Science/Programming/Java/Switch.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/useEffect.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Table methods.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Introduction.md",
+    "Programming notes/Computer Science/Programming/CSS/Flex.md",
+    "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/TypeScript",
+    "Programming notes/Assembly/Images/imgupscaler-enhanced.png",
+    "Programming notes/Assembly/Images/Pasted image 20261004111943.png",
+    "Programming notes/Assembly/Images/Pasted image 20261004111930.png",
+    "Programming notes/Computer Science/Programming/Java/Methods",
+    "Programming notes/Computer Science/Programming/CSS",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes",
+    "Programming notes/Computer Science/Programming/Java",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend",
+    "Programming notes/Computer Science/Other/Vim_Editor/vimlogo.svg",
+    "Programming notes/Computer Science/Images/Pasted image 20260913070829.png",
+    "Programming notes/WiFi mastery/Images/Pasted image 20260913061353.png",
+    "Programming notes/WiFi mastery/Images/Pasted image 20260913061116.png",
+    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/images/Pasted image 20260829125459.png",
+    "General notes/Lockpicking/Images/Pasted image 20260828145949.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+>>>>>>> 9ff422e97aeef924763754be1d029ea60ec57ec9
 }

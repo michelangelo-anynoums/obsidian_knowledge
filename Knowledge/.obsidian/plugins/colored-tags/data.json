@@ -16,7 +16,8 @@
     "oop": 4,
     "dunder-methods": 5,
     "memory-management": 6,
-    "notes": 7
+    "notes": 7,
+    "arp-scan": 8
   },
   "_version": 3
 }
