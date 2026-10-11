@@ -1,28 +1,24 @@
 {
   "main": {
-    "id": "985b0dc5b89a091a",
+    "id": "064264ab6c72bc61",
     "type": "split",
     "children": [
       {
-        "id": "755dca58488fe751",
+        "id": "29423ffd197d7e14",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "16c4d224c8074433",
-=======
-            "id": "8c888ade7953bc76",
->>>>>>> d1fec6fdeae0ea62ee377ab1f8812555a1e3494a
+            "id": "a93623116d9b045a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer routine/WiFI mastery/Notes/VLANs NAT Segmentation.md",
+                "file": "Summer routine/WiFI mastery/ROADMAP.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VLANs NAT Segmentation"
+              "title": "ROADMAP"
             }
           }
         ]
@@ -31,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "477105d16d348cb0",
+    "id": "ee1182c829397d4a",
     "type": "split",
     "children": [
       {
-        "id": "b3ab07944ad42576",
+        "id": "0b9d293b498f2842",
         "type": "tabs",
         "children": [
           {
-            "id": "9dda1ce92ff60334",
+            "id": "5cfd39afcf13a186",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +48,7 @@
             }
           },
           {
-            "id": "2f283b0d43eef024",
+            "id": "8cbf40e46207775f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,7 +65,7 @@
             }
           },
           {
-            "id": "436eda8970a079de",
+            "id": "0b9b3e40dedcd0db",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "817f74e316b03cfa",
+    "id": "25b092b303f441fa",
     "type": "split",
     "children": [
       {
-        "id": "e94e952d676f217d",
+        "id": "9fef1b625d7f8356",
         "type": "tabs",
         "children": [
           {
-            "id": "c22a63cb25c7a7be",
+            "id": "d12ab7860b3f2736",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer routine/Computer Science/Ethnical hacking/Notes.md",
+                "file": "Summer routine/WiFI mastery/ROADMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes"
+              "title": "Backlinks for ROADMAP"
             }
           },
           {
-            "id": "0293093638c70870",
+            "id": "6b96fd7e0c3479aa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summer routine/Computer Science/Ethnical hacking/Notes.md",
+                "file": "Summer routine/WiFI mastery/ROADMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notes"
+              "title": "Outgoing links from ROADMAP"
             }
           },
           {
-            "id": "f8b9e5be24dc6352",
+            "id": "ea51b500cf35ee1d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,7 +137,7 @@
             }
           },
           {
-            "id": "2f618436b44e3872",
+            "id": "da6db75787087d03",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -155,22 +151,22 @@
             }
           },
           {
-            "id": "6dd0a64fde870289",
+            "id": "d4e2eef7d77e49ca",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer routine/Computer Science/Ethnical hacking/Notes.md",
+                "file": "Summer routine/WiFI mastery/ROADMAP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline of ROADMAP"
             }
           },
           {
-            "id": "cd2751968d3640bf",
+            "id": "4ad7ae71356355ce",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -197,65 +193,6 @@
       "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-  "active": "16c4d224c8074433",
-  "lastOpenFiles": [
-    "Summer routine/Computer Science/Git/Basics/Essential commands.md",
-    "Summer routine/Computer Science/Git/Basics/GitIgnore.md",
-    "Summer routine/Computer Science/Git/Basics/Checkout.md",
-    "Summer routine/Computer Science/Git/Introduction.md",
-    "Summer routine/Computer Science/Ethnical hacking/Notes.md"
-=======
-  "active": "8c888ade7953bc76",
-  "lastOpenFiles": [
-    "Summer routine/WiFI mastery/ROADMAP.md",
-    "Summer routine/WiFI mastery/Notes/VLANs NAT Segmentation.md",
-    "Summer routine/WiFI mastery/Notes/ARP DHCP DNS.md",
-    "Summer routine/Physics/Notes/Inductors.md",
-    "Summer routine/Physics/ROADMAP.md",
-    "Summer routine/Physics/Notes/Capacitors.md",
-    "Summer routine/Physics/Notes/Parallel Circuits.md",
-    "Summer routine/Physics/Notes/Series Circuits.md",
-    "Summer routine/Kali Tools/Notes/Aircrack-ng Suite.md",
-    "Summer routine/Kali Tools/ROADMAP.md",
-    "Summer routine/Kali Tools/Notes/SQLmap.md",
-    "Summer routine/Computer Science/Other/Ethnical hacking/Notes_1.md",
-    "Summer routine/Computer Science/Introduction.md",
-    "Summer routine/Computer Science/Image",
-    "Summer routine/Computer Science/Other",
-    "Summer routine/Computer Science/Other.md",
-    "Summer routine/Computer Science/Programming",
-    "Summer routine/Kali Tools/Notes",
-    "Summer routine/Kali Tools/Untitled.md",
-    "Summer routine/Assembly/Notes/Keyboards.md",
-    "Summer routine/Assembly/ROADMAP.md",
-    "Summer routine/WiFI mastery/Notes/IP Addressing Routing.md",
-    "Summer routine/WiFI mastery/Notes/MAC Addresses Ethernet Switching.md",
-    "Summer routine/Physics/Notes/Ohm's Law.md",
-    "Summer routine/Physics/Notes/Electrical Power.md",
-    "Summer routine/Spanish/palabras o frases.md",
-    "Summer routine/Spanish/Grammar/Modo Indicativo/Pretérito anterior.md",
-    "Summer routine/Spanish/Los Tiempos.md",
-    "Summer routine/Spanish/Grammar/Modo Indicativo/Pretérito pluscuamperfecto.md",
-    "Summer routine/Spanish/Grammar/Modo Indicativo/Presente.md",
-    "Summer routine/Lockpicking/Images/Pasted image 20260711104854.png",
-    "Summer routine/Lockpicking/Images/Pasted image 20260711104756.png",
-    "Summer routine/Lockpicking/Images/Pasted image 20260711104436.png",
-    "Summer routine/Lockpicking/Images/Pasted image 20260711104135.png",
-    "Summer routine/Lockpicking/Images/Pasted image 20260711103954.png",
-    "Summer routine/Lockpicking/Images/Pasted image 20260711103826.png",
-    "Summer routine/Chess/Images/Pasted image 20260711102904.png",
-    "Summer routine/Chess/Images/Pasted image 20260711102849.png",
-    "Summer routine/Chess/Images/Pasted image 20260711102735.png",
-    "Summer routine/Chess/Images/Pasted image 20260711102516.png",
-    "Summer routine/Computer Science/Other/Ethnical hacking",
-    "Summer routine/Soldering iron/Notes",
-    "Summer routine/Assembly/Images",
-    "Summer routine/Assembly/Notes",
-    "OSI/TCP",
-    "OSI",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
->>>>>>> d1fec6fdeae0ea62ee377ab1f8812555a1e3494a
-  ]
+  "active": "a93623116d9b045a",
+  "lastOpenFiles": []
 }
