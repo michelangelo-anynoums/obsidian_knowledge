@@ -11,10 +11,14 @@
             "id": "36fc39976a741290",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/RegExp.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "RegExp"
             }
           }
         ]
@@ -172,6 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/RegExp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,6 +215,9 @@
   },
   "active": "36fc39976a741290",
   "lastOpenFiles": [
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/BOM.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/RegExp.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/JavaScript Object.md",
     "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Crunch.md",
     "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/ROADMAP.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/Fetch.md",
@@ -232,11 +240,8 @@
     "Programming notes/Computer Science/Programming/Java/Switch.md",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/useEffect.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Table methods.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/JavaScript Object.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Introduction.md",
     "Programming notes/Computer Science/Programming/CSS/Flex.md",
-    "Programming notes/Computer Science/Programming/CSS/Grid.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Setup.md",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/TypeScript",
     "Programming notes/Assembly/Images/imgupscaler-enhanced.png",
