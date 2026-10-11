@@ -1,219 +1,41 @@
-# 🟢 JAVASCRIPT — FETCH API
+# 🌐 JavaScript Fetch API — Complete Beginner's Guide
 
-### 🎯 Goal
+> [!abstract] Goal Learn how to request data from an API, understand HTTP headers and `Content-Type`, handle responses and errors, and use `fetch()` correctly in React.
 
-Learn how to **request data from APIs**, send data to servers, handle responses, and deal with loading and errors.
+## 1. What Is `fetch()`?
 
----
-
-# 1. What is `fetch()`?
-
-`fetch()` is a built-in JavaScript function used to make **HTTP requests**.
+`fetch()` is a built-in JavaScript function that allows your application to communicate with a server or API.
 
 You can use it to:
 
-- Get data from an API
-    
-- Send data to a server
-    
-- Update existing data
-    
-- Delete data
-    
-- Work with JSON
-    
-- Handle loading and errors
-    
-
-Basic example:
-
-```js
-fetch("https://api.example.com/users");
-```
-
-Think of it as:
-
-**JavaScript → Request → Server/API → Response → JavaScript**
-
----
-
-# 2. The Basic `fetch()`
-
-```js
-fetch("https://api.example.com/users")
-  .then(response => response.json())
-  .then(data => {
-    console.log(data);
-  })
-  .catch(error => {
-    console.error(error);
-  });
-```
-
-There are three important parts:
-
-```js
-fetch()
-.then()
-.catch()
-```
-
-### What happens?
-
-1. `fetch()` sends the request.
-    
-2. The server sends a response.
-    
-3. `response.json()` reads the response as JSON.
-    
-4. `.then()` receives the data.
-    
-5. `.catch()` handles certain errors.
-    
-
----
-
-# 3. `fetch()` Returns a Promise
-
-`fetch()` is **asynchronous**.
-
-It doesn't immediately give you the final data.
-
-```js
-const response = fetch(url);
-```
-
-`response` is a **Promise**.
-
-Think:
-
-```text
-fetch()
-   ↓
-Promise
-   ↓
-Response
-   ↓
-JSON data
-```
-
-That's why we use either:
-
-```js
-.then()
-```
-
-or:
-
-```js
-async / await
-```
-
----
-
-# 4. Using `.then()`
-
-The traditional approach:
-
-```js
-fetch(url)
-  .then(response => response.json())
-  .then(data => {
-    console.log(data);
-  })
-  .catch(error => {
-    console.error(error);
-  });
-```
-
-Each `.then()` receives the result from the previous step.
-
-```text
-fetch()
-  ↓
-response
-  ↓
-response.json()
-  ↓
-data
-```
-
----
-
-# 5. Using `async / await`
-
-This is usually easier to read.
-
-```js
-async function getUsers() {
-  const response = await fetch(url);
-  const data = await response.json();
-
-  console.log(data);
-}
-```
-
-`await` means:
-
-> "Wait for this Promise to finish before continuing."
-
----
-
-# 6. `try / catch`
-
-When using `async / await`, use `try / catch` for error handling.
-
-```js
-async function getUsers() {
-  try {
-    const response = await fetch(url);
-    const data = await response.json();
-
-    console.log(data);
-  } catch (error) {
-    console.error(error);
-  }
-}
-```
-
-Think:
-
-```text
-try
- ↓
-Request
- ↓
-Response
- ↓
-Data
-
-If something fails
- ↓
-catch
-```
-
----
-
-# 7. Checking `response.ok`
-
-One important thing beginners often miss:
-
-**fetch() does not automatically reject the Promise for HTTP errors such as 404 or 500.**
-
-So check:
-
-```js
-if (!response.ok) {
-  throw new Error("Request failed");
-}
-```
+- **GET** — Retrieve data.
+- **POST** — Send or create data.
+- **PUT** — Replace existing data.
+- **PATCH** — Partially update data.
+- **DELETE** — Delete data.
 
 Example:
 
 ```js
+fetch("https://jsonplaceholder.typicode.com/users");
+```
+
+This sends a request to an API that provides user data.
+
+**Important:** `fetch()` is asynchronous. It returns a Promise rather than the actual data immediately.
+
+---
+
+## 2. Basic Fetch Example — Explained Line by Line
+
+This is one of the most important patterns to learn.
+
+```js
 async function getUsers() {
   try {
-    const response = await fetch(url);
+    const response = await fetch(
+      "https://jsonplaceholder.typicode.com/users"
+    );
 
     if (!response.ok) {
       throw new Error(`HTTP error: ${response.status}`);
@@ -223,594 +45,549 @@ async function getUsers() {
 
     console.log(data);
   } catch (error) {
-    console.error(error);
+    console.error("Request failed:", error);
   }
 }
+
+getUsers();
 ```
 
----
+### Understanding Every Line
 
-# 8. HTTP Status Codes
-
-You should understand the basic status codes.
-
-### `2xx` — Success
-
-```text
-200 OK
-201 Created
-204 No Content
-```
-
-### `3xx` — Redirect
-
-```text
-301
-302
-```
-
-### `4xx` — Client Error
-
-```text
-400 Bad Request
-401 Unauthorized
-403 Forbidden
-404 Not Found
-```
-
-### `5xx` — Server Error
-
-```text
-500 Internal Server Error
-502 Bad Gateway
-503 Service Unavailable
-```
-
-You can check the status:
+**Line 1 — Create an asynchronous function**
 
 ```js
-console.log(response.status);
+async function getUsers() {
 ```
 
----
+- `async` allows the function to use `await`.
+- `function` declares a function.
+- `getUsers` is the function's name.
+- `{` starts the function body.
 
-# 9. Reading JSON
-
-A very common API response is JSON.
+**Line 2 — Start error handling**
 
 ```js
-const response = await fetch(url);
-const data = await response.json();
+try {
 ```
 
-Important:
+The `try` block contains code that might throw an error, including a rejected Promise when awaited.
 
-```js
-response
-```
-
-is **not yet your data**.
-
-You need:
-
-```js
-response.json()
-```
-
-And because it returns a Promise:
-
-```js
-await response.json()
-```
-
-So:
-
-```js
-const response = await fetch(url);
-const data = await response.json();
-```
-
----
-
-# 10. Other Response Methods
-
-`response` has several methods for reading the response body.
-
-### JSON
-
-```js
-await response.json();
-```
-
-### Text
-
-```js
-await response.text();
-```
-
-### Blob
-
-Useful for files/images:
-
-```js
-await response.blob();
-```
-
-### ArrayBuffer
-
-Useful for binary data:
-
-```js
-await response.arrayBuffer();
-```
-
-Most API work uses:
-
-```js
-response.json()
-```
-
----
-
-# 11. GET Request
-
-`GET` means:
-
-> "Give me some data."
+**Line 3 — Send the request**
 
 ```js
 const response = await fetch(
-  "https://api.example.com/users"
+  "https://jsonplaceholder.typicode.com/users"
 );
-
-const users = await response.json();
 ```
 
-GET is the default method:
+- `fetch()` sends an HTTP request.
+- The URL identifies the API endpoint.
+- `await` waits for the Promise to settle.
+- `const response` stores the resulting `Response` object.
+
+The response contains information such as the HTTP status, headers, and body.
+
+**Line 4 — Check the HTTP status**
 
 ```js
-fetch(url);
+if (!response.ok) {
 ```
 
-is essentially:
+- `response.ok` is `true` when the HTTP status is between `200` and `299`.
+- `!` means NOT.
+- Therefore, this condition runs when the HTTP response is not successful.
+
+**Line 5 — Throw an error**
 
 ```js
-fetch(url, {
-  method: "GET"
-});
+throw new Error(`HTTP error: ${response.status}`);
 ```
 
----
+If the server returns an unsuccessful status, this creates an error containing the status code, such as `404` or `500`.
 
-# 12. POST Request
+Throwing the error transfers control to the `catch` block.
 
-`POST` usually means:
-
-> "Create/send some data."
+**Line 6 — Read the response body**
 
 ```js
-const response = await fetch(url, {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json"
-  },
-  body: JSON.stringify({
-    name: "John",
-    age: 25
-  })
-});
-
 const data = await response.json();
 ```
 
-Important:
+- `response.json()` reads the response body and parses it as JSON.
+- It returns a Promise.
+- `await` waits for the parsed data.
+- `data` stores the resulting JavaScript value, such as an array or object.
+
+**Line 7 — Use the data**
 
 ```js
-JSON.stringify()
+console.log(data);
 ```
 
-converts a JavaScript object into a JSON string.
+This prints the data to the console. In React, you would usually store it in state using `setUsers(data)`.
+
+**Line 8 — Catch errors**
 
 ```js
-{
-  name: "John"
+} catch (error) {
+  console.error("Request failed:", error);
 }
 ```
 
-becomes:
+This catches errors from the awaited fetch, the explicit `throw`, and JSON parsing.
 
-```json
-{"name":"John"}
+**Final line — Call the function**
+
+```js
+getUsers();
 ```
+
+Defining a function does not run it. This line executes it.
+
+> [!tip] Remember `fetch()` gets the response. `response.json()` reads and parses the body. React state stores the data you want to display.
 
 ---
 
-# 13. Headers
+## 3. What Does `fetch()` Return?
 
-Headers provide additional information about the request.
-
-Example:
+`fetch()` returns a **Promise that normally resolves to a** **`Response`** **object**.
 
 ```js
-headers: {
-  "Content-Type": "application/json"
-}
+const response = await fetch("/api/users");
 ```
 
-This tells the server:
+It does not return the actual users directly.
 
-> "I'm sending JSON."
+The process looks like this:
 
-You can send other headers too:
+```js
+fetch(url)
+    |
+    v
+Promise<Response>
+    |
+    v
+Response object
+    |
+    v
+response.json()
+    |
+    v
+Promise containing parsed data
+    |
+    v
+JavaScript array or object
+```
+
+### What Happens When Something Fails?
+
+|Situation|Result|
+|---|---|
+|HTTP `200`|Usually resolves with a `Response`|
+|HTTP `404`|Usually resolves with a `Response`|
+|HTTP `500`|Usually resolves with a `Response`|
+|Network failure|Fetch Promise rejects|
+|CORS failure|Fetch Promise usually rejects|
+|Aborted request|Fetch Promise rejects|
+|Invalid JSON|`response.json()` rejects|
+
+> [!warning] Important `fetch()` does **not** automatically reject for HTTP errors such as `404` or `500`. Check `response.ok` yourself.
+
+---
+
+## 4. The Most Important HTTP Headers
+
+Headers provide extra information about a request or response.
+
+### Request Headers
+
+|Header|Purpose|
+|---|---|
+|`Accept`|Specifies the response formats the client accepts|
+|`Content-Type`|Describes the format of the request body|
+|`Authorization`|Sends authentication credentials, often a bearer token|
+|`Cache-Control`|Gives caching instructions|
+|`Accept-Language`|Indicates preferred languages|
+|`If-None-Match`|Makes a conditional request using an ETag|
+
+### Response Headers
+
+|Header|Purpose|
+|---|---|
+|`Content-Type`|Describes the response body's format|
+|`Cache-Control`|Provides caching instructions|
+|`Content-Length`|Indicates the content size, when provided|
+|`ETag`|Identifies a particular version of a resource|
+|`Location`|Indicates a resource location or redirect destination|
+|`Retry-After`|Indicates when a request may be retried|
+|`Access-Control-Allow-Origin`|Indicates which origin is allowed by CORS|
+
+Some headers are controlled by the browser or server and cannot be set freely from frontend JavaScript.
+
+### `Accept` vs. `Content-Type`
 
 ```js
 headers: {
+  Accept: "application/json",
   "Content-Type": "application/json",
-  "Authorization": "Bearer TOKEN"
 }
 ```
 
----
+- `Accept` — The format you want to receive.
+- `Content-Type` — The format of the body you are sending.
 
-# 14. PUT Request
-
-`PUT` is commonly used to **replace/update** a resource.
-
-```js
-await fetch(url, {
-  method: "PUT",
-  headers: {
-    "Content-Type": "application/json"
-  },
-  body: JSON.stringify({
-    name: "John",
-    age: 30
-  })
-});
-```
+For example, a request may send JSON and expect JSON back.
 
 ---
 
-# 15. PATCH Request
+## 5. Content-Type — The Most Important Types
 
-`PATCH` is commonly used to **partially update** a resource.
+The `Content-Type` header tells the recipient how to interpret the body.
 
-```js
-await fetch(url, {
-  method: "PATCH",
-  headers: {
-    "Content-Type": "application/json"
-  },
-  body: JSON.stringify({
-    age: 30
-  })
-});
-```
+There is no finite list of every possible media type, because custom and application-specific types can exist. These are the most useful ones to recognize.
 
-Difference:
+### A. JSON
 
-```text
-PUT   → replace/update the resource
-PATCH → update part of the resource
-```
+**MIME type:** `application/json`
 
-The exact behavior depends on the API.
-
----
-
-# 16. DELETE Request
-
-`DELETE` is used to delete a resource.
+Used to send and receive JSON data.
 
 ```js
-const response = await fetch(url, {
-  method: "DELETE"
-});
-```
-
-Some APIs return no body after DELETE.
-
-In that case, don't blindly do:
-
-```js
-await response.json();
-```
-
-If the response is `204 No Content`, there may be nothing to parse.
-
----
-
-# 17. Request Options
-
-The second argument to `fetch()` is an options object.
-
-```js
-fetch(url, {
+fetch("/api/users", {
   method: "POST",
-  headers: {},
-  body: "",
-  credentials: "include",
-  signal: controller.signal
+  headers: {
+    "Content-Type": "application/json",
+    Accept: "application/json",
+  },
+  body: JSON.stringify({
+    name: "Alex",
+    age: 25,
+  }),
 });
 ```
 
-Common options:
+- `JSON.stringify()` converts a JavaScript value into a JSON string.
+- `Content-Type` tells the server that the request body is JSON.
 
-```text
-method
-headers
-body
-credentials
-signal
-mode
-cache
+Common JSON-related media types include:
+
+- `application/json` — Standard JSON.
+- `application/problem+json` — Structured error information using the Problem Details format.
+- `application/ld+json` — JSON-LD linked data.
+
+### B. Plain Text
+
+**MIME type:** `text/plain`
+
+Used for ordinary text.
+
+```js
+fetch("/api/message", {
+  method: "POST",
+  headers: {
+    "Content-Type": "text/plain",
+  },
+  body: "Hello, server!",
+});
 ```
 
-You don't need all of them immediately.
+### C. HTML
 
-Focus first on:
+**MIME type:** `text/html`
 
-```text
-method
-headers
-body
+Used for HTML documents.
+
+```js
+const response = await fetch("/page.html");
+const html = await response.text();
+
+console.log(html);
 ```
 
----
+`response.text()` reads text. It does not automatically render the returned HTML as a webpage.
 
-# 18. Sending Form Data
+### D. CSS
 
-You don't always send JSON.
+**MIME type:** `text/css`
 
-For HTML-style form data:
+Used for CSS stylesheet content.
+
+### E. JavaScript
+
+Common MIME types include:
+
+- `text/javascript`
+- `application/javascript` — An older, commonly encountered value.
+
+These identify JavaScript content. They are not typical request-body types for JSON APIs.
+
+### F. URL-Encoded Form Data
+
+**MIME type:** `application/x-www-form-urlencoded`
+
+Used for form fields encoded as key-value pairs.
+
+```js
+const body = new URLSearchParams({
+  username: "alex",
+  email: "alex@example.com",
+});
+
+fetch("/api/login", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/x-www-form-urlencoded",
+  },
+  body,
+});
+```
+
+The encoded body looks like:
+
+```js
+username=alex&email=alex%40example.com
+```
+
+This format is common in traditional web forms and some authentication endpoints.
+
+### G. Multipart Form Data
+
+**MIME type:** `multipart/form-data`
+
+Used for forms containing multiple fields, especially file uploads.
 
 ```js
 const formData = new FormData();
 
-formData.append("username", "john");
-formData.append("email", "john@example.com");
+formData.append("username", "alex");
+formData.append("avatar", fileInput.files[0]);
 
-await fetch(url, {
+fetch("/api/upload", {
   method: "POST",
-  body: formData
+  body: formData,
 });
 ```
 
-When using `FormData`, normally **do not manually set**:
+> [!warning] Do not set the multipart header manually When using browser `FormData`, let the browser set `Content-Type` and its required boundary automatically.
+
+### H. XML
+
+**MIME type:** `application/xml` or `text/xml`
+
+Used for XML documents, including some older APIs and integrations.
 
 ```js
-"Content-Type": "multipart/form-data"
+const response = await fetch("/api/data.xml");
+const xml = await response.text();
 ```
 
-The browser needs to set the correct boundary automatically.
+Reading XML as text does not parse it into an XML document. Use `DOMParser` if you need to process it as XML.
+
+### I. Binary Data and Files
+
+|MIME type|Typical content|
+|---|---|
+|`application/octet-stream`|Generic binary data|
+|`application/pdf`|PDF documents|
+|`application/zip`|ZIP archives|
+|`application/gzip`|Gzip-compressed files|
+|`image/jpeg`|JPEG images|
+|`image/png`|PNG images|
+|`image/gif`|GIF images|
+|`image/webp`|WebP images|
+|`image/svg+xml`|SVG images|
+|`audio/mpeg`|MP3 audio|
+|`audio/ogg`|Ogg audio|
+|`video/mp4`|MP4 video|
+
+For binary response data, use methods such as `response.blob()` or `response.arrayBuffer()` rather than `response.json()`.
+
+### J. Other Common Media Types
+
+|MIME type|Purpose|
+|---|---|
+|`application/pdf`|PDF files|
+|`application/zip`|ZIP files|
+|`application/octet-stream`|Generic binary data|
+|`application/wasm`|WebAssembly modules|
+|`application/graphql-response+json`|GraphQL response data|
+|`application/manifest+json`|Web app manifest|
+|`application/rss+xml`|RSS feeds|
+|`application/atom+xml`|Atom feeds|
+|`application/x-ndjson`|Newline-delimited JSON in some APIs|
+|`text/csv`|Comma-separated values|
+|`text/event-stream`|Server-Sent Events streams|
+
+> [!note] Important distinction `Content-Type` describes the body format. It does not determine which HTTP method to use or whether the request will succeed.
 
 ---
 
-# 19. URLSearchParams
+## 6. Reading Different Response Types
 
-Another useful format is URL-encoded data.
+Choose the body-reading method based on the response format.
 
 ```js
-const params = new URLSearchParams();
+const response = await fetch("/api/data");
+```
 
-params.append("username", "john");
-params.append("age", "25");
+|Method|What it returns|
+|---|---|
+|`response.json()`|Promise resolving to parsed JSON|
+|`response.text()`|Promise resolving to a string|
+|`response.blob()`|Promise resolving to a `Blob`|
+|`response.arrayBuffer()`|Promise resolving to an `ArrayBuffer`|
+|`response.formData()`|Promise resolving to `FormData`|
+|`response.bytes()`|Promise resolving to a byte array in supporting runtimes|
 
-await fetch(url, {
+Example with text:
+
+```js
+const response = await fetch("/api/message");
+const message = await response.text();
+
+console.log(message);
+```
+
+Example with JSON:
+
+```js
+const response = await fetch("/api/users");
+const users = await response.json();
+
+console.log(users);
+```
+
+> [!warning] Read the body once Response bodies are streams. Once consumed, the same body cannot normally be read again. Use `response.clone()` before reading if you genuinely need two copies.
+
+---
+
+## 7. HTTP Methods and Request Bodies
+
+|Method|Common purpose|Usually has a body?|
+|---|---|---|
+|`GET`|Retrieve data|No|
+|`POST`|Create data or submit an operation|Yes|
+|`PUT`|Replace a resource|Yes|
+|`PATCH`|Partially update a resource|Yes|
+|`DELETE`|Request deletion|Usually no, but some APIs support one|
+
+Example `GET`:
+
+```js
+const response = await fetch("/api/users");
+```
+
+Example `POST`:
+
+```js
+const response = await fetch("/api/users", {
   method: "POST",
-  body: params
-});
-```
-
----
-
-# 20. Query Parameters
-
-You can add information to a URL:
-
-```text
-https://api.example.com/users?page=2&limit=10
-```
-
-Using JavaScript:
-
-```js
-const params = new URLSearchParams({
-  page: 2,
-  limit: 10
-});
-
-const response = await fetch(
-  `https://api.example.com/users?${params}`
-);
-```
-
-This is safer and cleaner than manually building complicated query strings.
-
----
-
-# 21. Dynamic URLs
-
-You can use variables:
-
-```js
-const userId = 5;
-
-const response = await fetch(
-  `https://api.example.com/users/${userId}`
-);
-```
-
----
-
-# 22. Authentication
-
-Some APIs require authentication.
-
-A common pattern is a Bearer token:
-
-```js
-const response = await fetch(url, {
   headers: {
-    Authorization: `Bearer ${token}`
-  }
+    "Content-Type": "application/json",
+  },
+  body: JSON.stringify({
+    name: "Alex",
+  }),
 });
 ```
 
-The server uses the token to identify or authorize the request.
-
-### ⚠️ Important
-
-Never casually put secret API keys in frontend JavaScript.
-
-Anything shipped to a browser can potentially be inspected by users.
-
-Secrets that must remain secret should generally be handled by a backend/server-side environment.
+The API determines which methods and body formats it accepts.
 
 ---
 
-# 23. Cookies and Credentials
+## 8. Handling Errors Correctly
 
-Sometimes authentication uses cookies.
-
-You may need:
-
-```js
-fetch(url, {
-  credentials: "include"
-});
-```
-
-This tells the browser to include credentials such as cookies where permitted.
-
-Whether this works depends on the server's cookie and CORS configuration.
-
----
-
-# 24. CORS
-
-You may eventually see an error related to:
-
-**CORS — Cross-Origin Resource Sharing**
-
-For example:
-
-```text
-Frontend
-localhost:3000
-
-        ↓ request
-
-API
-api.example.com
-```
-
-These are different origins.
-
-The API must allow your frontend's origin according to its CORS policy.
-
-### Important
-
-CORS is primarily a **browser security mechanism**.
-
-You generally cannot fix a server's CORS policy simply by adding random headers to your frontend request.
-
-The server needs to be configured appropriately.
-
----
-
-# 25. Loading State
-
-When requesting data, the UI usually needs three states:
-
-```text
-Loading
-Success
-Error
-```
-
-Example:
-
-```js
-let loading = true;
-
-try {
-  const response = await fetch(url);
-  const data = await response.json();
-
-  loading = false;
-} catch (error) {
-  loading = false;
-}
-```
-
-In React, this becomes especially important because you'll normally represent these states with React state.
-
----
-
-# 26. A Complete Fetch Function
-
-A good basic pattern:
+A robust fetch pattern handles HTTP errors, network errors, and parsing errors.
 
 ```js
 async function getUsers() {
   try {
-    const response = await fetch(
-      "https://api.example.com/users"
-    );
+    const response = await fetch("/api/users");
 
     if (!response.ok) {
-      throw new Error(
-        `HTTP error: ${response.status}`
-      );
+      throw new Error(`HTTP error: ${response.status}`);
     }
 
-    const data = await response.json();
+    const users = await response.json();
 
-    return data;
+    return users;
   } catch (error) {
-    console.error("Failed to fetch users:", error);
+    console.error("Failed to get users:", error);
     throw error;
   }
 }
 ```
 
-Then:
+### Three Things Can Go Wrong
 
-```js
-const users = await getUsers();
-console.log(users);
-```
+1. **Request failure:** `fetch()` rejects.
+2. **HTTP failure:** `fetch()` resolves, but `response.ok` is `false`.
+3. **Body parsing failure:** The response exists, but `response.json()` or another body reader rejects.
+
+These are different situations, even though they can all end up in the same `catch` block.
 
 ---
 
-# 27. Fetch in React
+## 9. Important `fetch()` Options
 
-This is where `fetch()` becomes especially useful.
+```js
+fetch("/api/users", {
+  method: "GET",
+  headers: {
+    Accept: "application/json",
+  },
+  credentials: "same-origin",
+  mode: "cors",
+  cache: "default",
+  redirect: "follow",
+});
+```
 
-A common pattern is:
+|Option|Purpose|
+|---|---|
+|`method`|HTTP request method|
+|`headers`|Request headers|
+|`body`|Data sent in the request|
+|`credentials`|Controls sending credentials such as cookies|
+|`mode`|Controls request mode and cross-origin behavior|
+|`cache`|Controls cache behavior|
+|`redirect`|Controls redirect handling|
+|`signal`|Supports cancellation|
+|`referrer`|Sets the referrer, subject to browser restrictions|
+|`referrerPolicy`|Controls referrer information|
+|`integrity`|Enables supported integrity checks|
+|`keepalive`|Allows certain requests to continue during page unloading|
+|`priority`|Provides a priority hint where supported|
 
-```jsx
+You do not need to memorize every option at the beginning. Focus on `method`, `headers`, `body`, `credentials`, and `signal`.
+
+---
+
+## 10. Using Fetch in React
+
+In React, API data is usually stored in state and fetched in an effect when needed.
+
+```js
 import { useEffect, useState } from "react";
 
 function Users() {
   const [users, setUsers] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+  const [error, setError] = useState("");
 
   useEffect(() => {
     async function getUsers() {
       try {
         const response = await fetch(
-          "https://api.example.com/users"
+          "https://jsonplaceholder.typicode.com/users"
         );
 
         if (!response.ok) {
-          throw new Error("Failed to fetch users");
+          throw new Error(`HTTP error: ${response.status}`);
         }
 
         const data = await response.json();
-
         setUsers(data);
       } catch (error) {
         setError(error.message);
@@ -823,495 +600,50 @@ function Users() {
   }, []);
 
   if (loading) return <p>Loading...</p>;
-
   if (error) return <p>Error: {error}</p>;
+  if (users.length === 0) return <p>No users found.</p>;
 
   return (
     <ul>
-      {users.map(user => (
-        <li key={user.id}>
-          {user.name}
-        </li>
+      {users.map((user) => (
+        <li key={user.id}>{user.name}</li>
       ))}
     </ul>
   );
 }
+
+export default Users;
 ```
 
-### The flow
+### What This Example Teaches
 
-```text
-Component renders
-      ↓
-useEffect runs
-      ↓
-fetch()
-      ↓
-API responds
-      ↓
-response.json()
-      ↓
-setUsers()
-      ↓
-React re-renders
-      ↓
-Users appear
-```
+- `useState()` stores data and request status.
+- `useEffect()` starts the request after rendering.
+- `fetch()` communicates with the API.
+- `response.ok` checks HTTP success.
+- `response.json()` parses the data.
+- `setUsers(data)` updates React state.
+- `.map()` renders the list.
+- `loading` handles the waiting state.
+- `error` handles failure.
+- An empty array produces an empty state.
+- `finally` runs whether the request succeeds or fails.
+
+For production applications, consider cancellation or stale-response handling if the component unmounts or the requested data changes.
 
 ---
 
-# 28. Why `useEffect()`?
+## 11. Quick Reference
 
-If you want to fetch data when a React component loads, you commonly use:
-
-```js
-useEffect(() => {
-  // fetch data
-}, []);
-```
-
-The empty dependency array:
-
-```js
-[]
-```
-
-means the effect is set up to run after the initial mount.
-
----
-
-# 29. Fetch Based on a Variable
-
-For example, fetching a specific user:
-
-```jsx
-useEffect(() => {
-  async function getUser() {
-    const response = await fetch(
-      `/api/users/${userId}`
-    );
-
-    const data = await response.json();
-
-    setUser(data);
-  }
-
-  getUser();
-}, [userId]);
-```
-
-Now when `userId` changes, the effect runs again.
-
----
-
-# 30. Abort a Fetch
-
-Sometimes a component starts a request and then the request is no longer needed.
-
-You can use `AbortController`.
-
-```js
-const controller = new AbortController();
-
-fetch(url, {
-  signal: controller.signal
-});
-```
-
-Cancel it with:
-
-```js
-controller.abort();
-```
-
-In React:
-
-```jsx
-useEffect(() => {
-  const controller = new AbortController();
-
-  async function getUsers() {
-    try {
-      const response = await fetch(url, {
-        signal: controller.signal
-      });
-
-      const data = await response.json();
-
-      setUsers(data);
-    } catch (error) {
-      if (error.name !== "AbortError") {
-        setError(error.message);
-      }
-    }
-  }
-
-  getUsers();
-
-  return () => {
-    controller.abort();
-  };
-}, []);
-```
-
-This is useful for preventing unnecessary work when a request is no longer relevant.
-
----
-
-# 31. Common Mistake: Forgetting `await response.json()`
-
-❌ Wrong:
-
-```js
-const response = await fetch(url);
-
-console.log(response);
-```
-
-This gives you the **Response object**, not the actual JSON data.
-
-✅ Correct:
-
-```js
-const response = await fetch(url);
-const data = await response.json();
-
-console.log(data);
-```
-
----
-
-# 32. Common Mistake: Forgetting `response.ok`
-
-❌ This isn't enough:
-
-```js
-const response = await fetch(url);
-const data = await response.json();
-```
-
-A `404` or `500` response does not necessarily cause `fetch()` itself to throw.
-
-Better:
-
-```js
-if (!response.ok) {
-  throw new Error(`HTTP error: ${response.status}`);
-}
-```
-
----
-
-# 33. Common Mistake: Forgetting `JSON.stringify()`
-
-❌ Wrong:
-
-```js
-body: {
-  name: "John"
-}
-```
-
-For a JSON request, use:
-
-```js
-body: JSON.stringify({
-  name: "John"
-})
-```
-
-And usually:
-
-```js
-headers: {
-  "Content-Type": "application/json"
-}
-```
-
----
-
-# 34. Common Mistake: Calling `response.json()` Twice
-
-❌ Don't do:
-
-```js
-const data1 = await response.json();
-const data2 = await response.json();
-```
-
-The response body is generally consumed once.
-
-Instead:
-
-```js
-const data = await response.json();
-```
-
-Then use:
-
-```js
-data
-```
-
-as much as you need.
-
----
-
-# 35. Common Mistake: Not Handling Errors
-
-❌
-
-```js
-const response = await fetch(url);
-const data = await response.json();
-```
-
-Better:
-
-```js
-try {
-  const response = await fetch(url);
-
-  if (!response.ok) {
-    throw new Error("Request failed");
-  }
-
-  const data = await response.json();
-} catch (error) {
-  console.error(error);
-}
-```
-
----
-
-# 36. `Promise.all()`
-
-If you need multiple requests at the same time:
-
-```js
-const [usersResponse, postsResponse] = await Promise.all([
-  fetch("/api/users"),
-  fetch("/api/posts")
-]);
-```
-
-Then:
-
-```js
-const users = await usersResponse.json();
-const posts = await postsResponse.json();
-```
-
-This is useful when requests are independent.
-
----
-
-# 37. `Promise.allSettled()`
-
-Sometimes you want **all requests to finish**, even if one fails.
-
-```js
-const results = await Promise.allSettled([
-  fetch("/api/users"),
-  fetch("/api/posts")
-]);
-```
-
-Useful when one failed request shouldn't prevent you from seeing the results of the others.
-
----
-
-# 38. Request Timeout
-
-`fetch()` does not automatically give you a simple built-in timeout option like:
-
-```js
-timeout: 5000
-```
-
-A common approach is `AbortController`.
-
-```js
-const controller = new AbortController();
-
-const timeout = setTimeout(() => {
-  controller.abort();
-}, 5000);
-
-try {
-  const response = await fetch(url, {
-    signal: controller.signal
-  });
-
-  const data = await response.json();
-} finally {
-  clearTimeout(timeout);
-}
-```
-
-Now the request is aborted after approximately 5 seconds.
-
----
-
-# 39. The `Response` Object
-
-After:
-
-```js
-const response = await fetch(url);
-```
-
-you have a `Response` object.
-
-Useful properties include:
-
-```js
-response.ok
-response.status
-response.statusText
-response.headers
-response.url
-```
-
-And methods:
-
-```js
-response.json()
-response.text()
-response.blob()
-```
-
----
-
-# 40. Reading Response Headers
-
-You can access headers:
-
-```js
-console.log(response.headers);
-```
-
-Or retrieve a specific header:
-
-```js
-const contentType =
-  response.headers.get("content-type");
-```
-
----
-
-# 41. Request Headers vs Response Headers
-
-Don't confuse these.
-
-### Request headers
-
-Information **you send to the server**:
-
-```js
-fetch(url, {
-  headers: {
-    Authorization: `Bearer ${token}`
-  }
-});
-```
-
-### Response headers
-
-Information **the server sends back**:
-
-```js
-response.headers.get("content-type");
-```
-
----
-
-# 42. A Useful Mental Model
-
-Think about `fetch()` as a conversation:
-
-```text
-YOU
- │
- │  fetch(url)
- ↓
-SERVER
- │
- │  Response
- ↓
-YOU
- │
- │  response.json()
- ↓
-DATA
-```
-
-For POST:
-
-```text
-YOU
- │
- │  Request + data
- ↓
-SERVER
- │
- │  Response
- ↓
-YOU
- │
- │  Read response
- ↓
-RESULT
-```
-
----
-
-# 43. CRUD + Fetch
-
-A very useful thing to memorize:
-
-```text
-CREATE → POST
-READ   → GET
-UPDATE → PUT / PATCH
-DELETE → DELETE
-```
-
-Example:
-
-```js
-// READ
-fetch("/users");
-
-// CREATE
-fetch("/users", {
-  method: "POST"
-});
-
-// UPDATE
-fetch("/users/1", {
-  method: "PATCH"
-});
-
-// DELETE
-fetch("/users/1", {
-  method: "DELETE"
-});
-```
-
----
-
-# 44. The Fetch Pattern to Memorize
-
-For GET requests:
+> [!success] The essential pattern
 
 ```js
 async function getData() {
   try {
-    const response = await fetch(url);
+    const response = await fetch("/api/data");
 
     if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
+      throw new Error(`HTTP error: ${response.status}`);
     }
 
     const data = await response.json();
@@ -1319,123 +651,52 @@ async function getData() {
     return data;
   } catch (error) {
     console.error(error);
+    throw error;
   }
 }
 ```
 
-For POST:
+### Remember These Five Rules
+
+1. `fetch()` returns a Promise resolving to a `Response` when the HTTP response is received.
+2. Check `response.ok` because HTTP errors do not automatically reject the fetch Promise.
+3. Use the correct body reader: `json()`, `text()`, `blob()`, or another suitable method.
+4. Match `Content-Type` to the format of the request body.
+5. Use `try/catch` to handle rejected requests and body-reading errors.
+
+### Final Mental Model
 
 ```js
-async function createData(data) {
-  const response = await fetch(url, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify(data)
-  });
-
-  if (!response.ok) {
-    throw new Error(`HTTP ${response.status}`);
-  }
-
-  return response.json();
-}
+Request
+  |
+  v
+fetch(url, options)
+  |
+  v
+Response received?
+  |
+  +--- No ---> Promise rejects ---> catch
+  |
+  +--- Yes
+         |
+         v
+     Check response.ok
+         |
+         +--- false ---> Handle HTTP error
+         |
+         +--- true
+                |
+                v
+           Read the body
+                |
+                +--- JSON ---> response.json()
+                +--- Text ---> response.text()
+                +--- File ---> response.blob()
+                |
+                v
+           Use the data
 ```
 
----
-
-# 🧠 What You Should Know
-
-Before moving on, make sure you understand:
-
-- `fetch()`
-    
-- Promises
-    
-- `async / await`
-    
-- `try / catch`
-    
-- `response.ok`
-    
-- `response.status`
-    
-- `response.json()`
-    
-- GET
-    
-- POST
-    
-- PUT
-    
-- PATCH
-    
-- DELETE
-    
-- Headers
-    
-- JSON
-    
-- `JSON.stringify()`
-    
-- Query parameters
-    
-- Authentication
-    
-- Cookies / credentials
-    
-- CORS
-    
-- Loading states
-    
-- Error states
-    
-- `AbortController`
-    
-- `Promise.all()`
-    
-- Fetching data in React with `useEffect()`
-    
-
----
-
-# 🎯 Final Goal
-
-You should be able to look at an API and confidently do this:
-
-```text
-1. Send a request
-       ↓
-2. Wait for the response
-       ↓
-3. Check for errors
-       ↓
-4. Read the response
-       ↓
-5. Get the data
-       ↓
-6. Store/use the data
-       ↓
-7. Show loading/error/success states
-```
-
-### ⭐ The Core Pattern
-
-```js
-try {
-  const response = await fetch(url);
-
-  if (!response.ok) {
-    throw new Error(`HTTP ${response.status}`);
-  }
-
-  const data = await response.json();
-
-  // Use data here
-} catch (error) {
-  // Handle error here
-}
-```
+**Final takeaway:** `fetch()` handles the HTTP request. The `Response` object describes the server's reply. The body-reading method converts the response body into usable data. Your code must handle HTTP errors, rejected requests, and parsing failures appropriately.
 
 ---

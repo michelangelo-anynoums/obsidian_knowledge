@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "68d2ec65bc06e424",
+        "id": "fc98a6b89106f183",
         "type": "tabs",
         "children": [
           {
-            "id": "9939a49e2a5aa861",
+            "id": "36fc39976a741290",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Hashcat.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hashcat"
+              "title": "New tab"
             }
           }
         ]
@@ -176,7 +172,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Hashcat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,16 +208,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "9939a49e2a5aa861",
+  "active": "36fc39976a741290",
   "lastOpenFiles": [
-    "Programming notes/Computer Science/Linux/Kali Linux/Kali Linux.md",
+    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Crunch.md",
     "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/ROADMAP.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/Fetch.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/Promises.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/ROADMAP.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/API & Async Data.md",
+    "Programming notes/Computer Science/Programming/Python/Libraries/psutil library.md",
+    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Hashcat.md",
+    "Programming notes/Computer Science/Linux/Kali Linux/Kali Linux.md",
     "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/SSH (Secure Shell)/Introduction.md",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Tor service setup.md",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Vulnerability methods.md",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Windows hash cracking.md",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Routing.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/ROADMAP.md",
     "Programming notes/Assembly/Notes/CPU architectures.md",
     "Programming notes/Assembly/Images/Pasted image 20261008061957.png",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Component Architecture.md",
@@ -233,15 +234,9 @@
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Table methods.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/JavaScript Object.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Introduction.md",
-    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Hashcat.md",
     "Programming notes/Computer Science/Programming/CSS/Flex.md",
     "Programming notes/Computer Science/Programming/CSS/Grid.md",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Setup.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Lists & Forms.md",
-    "Programming notes/Computer Science/Programming/Java/Printf.md",
-    "Programming notes/Computer Science/Programming/Java/Math object.md",
-    "Programming notes/Computer Science/Programming/Python/ROADMAP.md",
-    "Programming notes/Computer Science/Programming/Python/Python Introduction.md",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/TypeScript",
     "Programming notes/Assembly/Images/imgupscaler-enhanced.png",
