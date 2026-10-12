@@ -254,7 +254,7 @@ Error → Show error
 
 ---
 
-## 🟠 BLOCK 8 — Context
+## 🟠 BLOCK 8 — Context [[Context]]
 
 Learn:
 

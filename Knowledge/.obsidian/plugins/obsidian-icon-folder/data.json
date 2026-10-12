@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiTextSearch",
-      "FabFirefoxBrowser",
-      "LiWifi",
-      "LiCat",
-      "LiBuilding"
+      "LiImage",
+      "LiSnapToObject",
+      "LiLink",
+      "LiTimerOff",
+      "LiTextSearch"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -116,5 +116,9 @@
   "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Hashcat.md": "LiCat",
   "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Aircrack-ng Suite.md": "LiWifi",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/BOM.md": "FabFirefoxBrowser",
-  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/RegExp.md": "LiTextSearch"
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/RegExp.md": "LiTextSearch",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Date object.md": "LiTimerOff",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/URL object.md": "LiLink",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Classes.md": "LiSnapToObject",
+  "Programming notes/Computer Science/Images": "LiImage"
 }

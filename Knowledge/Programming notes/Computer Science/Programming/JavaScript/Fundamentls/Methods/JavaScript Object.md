@@ -209,7 +209,7 @@ console.log(phone);
 "" || "Hi"   // "Hi"
 ```
 
-**`??`** only falls back for `null` or `undefined`.
+**??** only falls back for `null` or `undefined`.
 
 ---
 
