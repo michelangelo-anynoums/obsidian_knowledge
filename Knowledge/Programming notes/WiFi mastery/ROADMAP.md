@@ -43,7 +43,7 @@ By Day 30, understand Wi-Fi well enough to analyze captures, understand WPA2/WPA
 
 ### Day 1
 
-### Networking Basics [[Networking Basics]]
+### Networking Basics [[Programming notes/WiFi mastery/Notes/Networking Basics]]
 
 Learn:
 

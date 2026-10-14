@@ -284,7 +284,7 @@ Good examples:
 
 ---
 
-## 🟠 BLOCK 9 — Custom Hooks
+## 🟠 BLOCK 9 — Custom Hooks [[Custom Hooks]]
 
 Learn:
 
@@ -305,7 +305,7 @@ function useFetch(url) {
 
 ---
 
-## 🟠 BLOCK 10 — State Management
+## 🟠 BLOCK 10 — State Management [[State Management]]
 
 First understand React state well.
 

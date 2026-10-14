@@ -145,6 +145,28 @@ Examples include:
 
 ---
 
+# # 💻 CISK
+
+**CISC** (Complex Instruction Set Computer) is a CPU architecture introduced in the **1970s** designed to execute complex tasks with **fewer lines of code**. Unlike other architectures that rely on simple, single-step instructions, CISC processors can perform **multiple low-level operations** (such as loading data, calculating, and storing results) within a **single instruction**.
+
+Key characteristics include:
+
+- **Variable-length instructions** and a large set of complex commands.
+    
+- **Direct memory access**, allowing operations to be performed directly on data in memory rather than just registers.
+    
+- **Smaller code size**, which reduces memory requirements and simplifies compiler design.
+    
+- The **x86** architecture (used by Intel and AMD) is the most prominent example of CISC.
+    
+
+While CISC reduces the number of instructions needed for a program, its complex instructions often take **multiple clock cycles** to execute, making pipelining and parallelism more difficult compared to simpler architectures.
+
+
+![[Pasted image 20261014053307.png]]
+
+---
+
 # 🦾 ARM
 
 **ARM** is a family of processor architectures based on RISC principles.

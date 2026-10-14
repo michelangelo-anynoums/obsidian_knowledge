@@ -7,10 +7,10 @@
     "iconColor": null,
     "recentlyUsedIcons": [
       "LiImage",
-      "LiSnapToObject",
-      "LiLink",
-      "LiTimerOff",
-      "LiTextSearch"
+      "LiLibrary",
+      "LiParentheses",
+      "LiCurlyBraces",
+      "LiRoad"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -120,5 +120,13 @@
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Date object.md": "LiTimerOff",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/URL object.md": "LiLink",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Classes.md": "LiSnapToObject",
-  "Programming notes/Computer Science/Images": "LiImage"
+  "Programming notes/Computer Science/Images": "LiImage",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/atob & btoa.md": "LiKeyRound",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/Headers.md": "LiHeading",
+  "Programming notes/Computer Science/Linux/Networking": "LiNetwork",
+  "Programming notes/Computer Science/Linux/Networking/Networking basics.md": "LiRoad",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/URL Query Parameters.md": "LiCurlyBraces",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Set methods.md": "LiParentheses",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Library management.md": "LiLibrary",
+  "Programming notes/Assembly/Images": "LiImage"
 }
