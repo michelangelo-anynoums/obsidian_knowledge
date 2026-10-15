@@ -32,3 +32,25 @@ Loop back IP has over 16 millions of IPs...
 
 ===================================================================
 
+======================== 3 lesson ====================================
+
+RFC 1918 = bandage for the problem of the lack of IP address.
+
+What happened? NAT and private IPs
+
+NAT = Network Address Translation
+> Explain how it works
+
+So basically, there are private network with ONE public IP (NAT) and many private IP in your network.
+
+IPv4 = x.x.x.x = 4 numbers
+IPv6 = x.x.x.x.x.x = 8 numbers = 2^128...
+
+
+
+
+
+
+
+
+====================================================================

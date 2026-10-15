@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiImage",
-      "LiLibrary",
-      "LiParentheses",
-      "LiCurlyBraces",
-      "LiRoad"
+      "LiRoad",
+      "LiInfo",
+      "LiBookUp2",
+      "LiInfinity",
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -128,5 +128,10 @@
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/URL Query Parameters.md": "LiCurlyBraces",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Set methods.md": "LiParentheses",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Library management.md": "LiLibrary",
-  "Programming notes/Assembly/Images": "LiImage"
+  "Programming notes/Assembly/Images": "LiImage",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/for loops.md": "LiInfinity",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Modules management.md": "LiBookUp2",
+  "Programming notes/Computer Science/Programming/Images": "LiImage",
+  "Programming notes/Computer Science/Programming/PowerShell/Introduction.md": "LiInfo",
+  "Programming notes/Computer Science/Programming/PowerShell/Basics": "LiRoad"
 }

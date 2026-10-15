@@ -335,7 +335,7 @@ Understand:
 
 ---
 
-## 🔵 BLOCK 11 — Performance
+## 🔵 BLOCK 11 — Performance [[Performance]]
 
 Learn the basics:
 
