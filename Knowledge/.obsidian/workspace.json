@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7f3ed96826ccb91f",
+        "id": "5cf73add5b3f6040",
         "type": "tabs",
         "children": [
           {
-            "id": "d7d39c8b89c11975",
+            "id": "926a438f08416177",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Assembly/Notes/Memory.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Memory"
             }
           }
         ]
@@ -68,7 +72,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -101,20 +108,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dd53294527aac26e",
+        "id": "3fab00f26dcf6c30",
         "type": "tabs",
+        "dimension": 57.49385749385749,
         "children": [
           {
-            "id": "402fff31fd5cc2cb",
+            "id": "729ac1a70f2fdc72",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming notes/Assembly/Notes/CPU architectures.md",
+                "file": "Programming notes/Assembly/Notes/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -124,21 +132,21 @@
             }
           },
           {
-            "id": "f35132c46435b290",
+            "id": "c9aa215080276129",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Space and galaxies.md",
+                "file": "Programming notes/Assembly/Notes/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Space and galaxies"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "07739afa405bd200",
+            "id": "162b26a4a445b9e2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,7 +161,7 @@
             }
           },
           {
-            "id": "32372b643a1d0154",
+            "id": "e305f63e8be3405d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -167,11 +175,12 @@
             }
           },
           {
-            "id": "9d218e46c0e5eda1",
+            "id": "a0c054a6e2bd8e41",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Programming notes/Assembly/Notes/Memory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,23 +188,30 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "14fd8e4e8d4fd33a",
+        "type": "tabs",
+        "dimension": 42.50614250614251,
+        "children": [
           {
-            "id": "1498c49e422e2417",
+            "id": "ba48074ab3a91e85",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.8935546875
+    "width": 308.3101806640625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,54 +224,55 @@
       "bases:Create new base": false
     }
   },
-  "active": "d7d39c8b89c11975",
+  "active": "02b9f68937027fa0",
   "lastOpenFiles": [
+    "Programming notes/Assembly/Images/Pasted image 20261018154044.png",
+    "Programming notes/Assembly/Images/Pasted image 20261018153725.png",
+    "Programming notes/Computer Science/Digitalizacion/Resume.md",
+    "Programming notes/Assembly/Notes/Memory.md",
+    "Programming notes/Physics/Notes/Atoms.md",
+    "Programming notes/Computer Science/Digitalizacion",
+    "Programming notes/Physics/ROADMAP.md",
+    "2026-10-18.md",
+    "Programming notes/Computer Science/Programming/Java/Switch.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.base",
+    "Programming notes/Computer Science/Programming/Java/For loops.md",
+    "Programming notes/Computer Science/Programming/Java/Math object.md",
+    "Programming notes/Physics/Images/Pasted image 20261018151306.png",
+    "Programming notes/Physics/Notes/Data Compression.md",
+    "Programming notes/Physics/Notes/Modulation.md",
+    "Programming notes/Physics/Images/Pasted image 20261018151519.png",
+    "Programming notes/Physics/Images/Pasted image 20261018151358.png",
+    "Programming notes/WiFi mastery/Notes/Wireless Fundamentals.md",
+    "Programming notes/Physics/Images/Pasted image 20261018150828.png",
+    "Programming notes/Physics/Images/Pasted image 20261018145622.png",
+    "Programming notes/Physics/Notes/Bandwidth.md",
+    "Programming notes/Physics/Notes/Electromagnetic Waves.md",
+    "Programming notes/Physics/Notes/Radio Waves.md",
+    "Programming notes/Physics/Notes/Signal Propagation.md",
+    "Programming notes/Physics/Notes/Wave Basics.md",
+    "Programming notes/Physics/Images/Pasted image 20261018150343.png",
+    "Programming notes/Physics/Images/Pasted image 20261018150121.png",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/ROADMAP.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/TypeScript.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Build & Deploy.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Libraries/Confetti.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Libraries/3D Preview.md",
+    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/ROADMAP.md",
+    "Programming notes/Computer Science/Programming/PowerShell/Basics/Windows essentials.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Testing.md",
     "Programming notes/Assembly/Notes/B1T2_Actividades_Microprocesador.pdf",
     "Programming notes/Assembly/Notes/Microprocessor comparation.md",
-    "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
-    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Hashcat.md",
-    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/Aircrack-ng Suite.md",
-    "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking/Setup and references.md",
-    "Programming notes/Computer Science/Programming/PowerShell/Introduction.md",
-    "Programming notes/Computer Science/Programming/Java/Switch.md",
-    "Programming notes/Computer Science/Programming/Java/Ternary operator.md",
-    "Programming notes/Computer Science/Programming/Java/Printf.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/ROADMAP.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Performance.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Setup.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/Fetch.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/API & Async Data.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Modules management.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/JavaScript Object.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Library management.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/for loops.md",
-    "Programming notes/Assembly/Images/Pasted image 20261014053307.png",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Set methods.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/URL Query Parameters.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/State Management.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Routing.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Custom Hooks.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Libraries",
+    "Programming notes/Computer Science/Linux/Ethnical hacking/Windows hacking",
+    "Programming notes/Assembly/Images/Pasted image 20261016151734.png",
+    "Programming notes/Assembly/Images/Pasted image 20261016151555.png",
+    "Programming notes/Computer Science/Database",
     "Programming notes/Computer Science/Linux/Networking",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/DOMpurify.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/Headers.md",
-    "Programming notes/Assembly/Images/Pasted image 20261008061957.png",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/TypeScript",
-    "Programming notes/Assembly/Images/imgupscaler-enhanced.png",
-    "Programming notes/Assembly/Images/Pasted image 20261004111943.png",
-    "Programming notes/Assembly/Images/Pasted image 20261004111930.png",
-    "Programming notes/Computer Science/Programming/Java/Methods",
-    "Programming notes/Computer Science/Programming/CSS",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes",
-    "Programming notes/Computer Science/Other/Vim_Editor/vimlogo.svg",
-    "Programming notes/Computer Science/Images/Pasted image 20260913070829.png",
-    "Programming notes/WiFi mastery/Images/Pasted image 20260913061353.png",
-    "Programming notes/WiFi mastery/Images/Pasted image 20260913061116.png",
-    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/images/Pasted image 20260829125459.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }

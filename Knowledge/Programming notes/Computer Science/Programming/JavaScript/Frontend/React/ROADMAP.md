@@ -358,7 +358,7 @@ But don't optimize everything automatically.
 
 ---
 
-## 🔵 BLOCK 12 — Testing
+## 🔵 BLOCK 12 — Testing [[Testing]]
 
 Learn:
 
@@ -387,7 +387,7 @@ UI updates
 
 ---
 
-## 🟣 BLOCK 13 — TypeScript
+## 🟣 BLOCK 13 — TypeScript [[TypeScript]]
 
 Once you're comfortable with React + JavaScript:
 

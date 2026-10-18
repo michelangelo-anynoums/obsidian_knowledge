@@ -10,29 +10,21 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "tags": 1,
-    "requests": 2,
-    "python": 3,
-    "oop": 4,
+    "base64": 10,
+    "content-type": 18,
+    "decoding": 13,
     "dunder-methods": 5,
+    "encoding": 12,
+    "headers": 17,
+    "http": 15,
+    "javascript": 20,
     "memory-management": 6,
     "notes": 7,
-    "arp-scan": 8,
-    "JavaScript": 9,
-    "Base64": 10,
-    "WebDevelopment": 11,
-    "Encoding": 12,
-    "Decoding": 13,
-    "web-development": 14,
-    "http": 15,
-    "networking": 16,
-    "headers": 17,
-    "content-type": 18,
+    "oop": 4,
+    "python": 3,
     "user-agent": 19,
-    "javascript": 20,
-    "react": 21,
-    "custom-hooks": 22,
-    "frontend": 23
+    "webdevelopment": 11
   },
-  "_version": 3
+  "tagColors": {},
+  "_version": 4
 }
