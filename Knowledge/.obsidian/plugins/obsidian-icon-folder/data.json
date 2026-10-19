@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiInfo",
+      "FabOsi",
+      "FabLinux",
       "LiMemoryStick",
-      "LiSaveAll",
-      "LiLaptop",
-      "LiPlus",
-      "LiImage"
+      "LiSaveAll"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -165,5 +165,8 @@
   "Programming notes/Physics/Notes/Modulation.md": "LiPlus",
   "Programming notes/Computer Science/Digitalizacion": "LiLaptop",
   "Programming notes/Computer Science/Digitalizacion/Resume.md": "LiSaveAll",
-  "Programming notes/Assembly/Notes/Memory.md": "LiMemoryStick"
+  "Programming notes/Assembly/Notes/Memory.md": "LiMemoryStick",
+  "Programming notes/Computer Science/Linux/Ethnical hacking/MAC manipulation.md": "FabLinux",
+  "Programming notes/Computer Science/Linux/Networking/OSI model.md": "FabOsi",
+  "Programming notes/Computer Science/Linux/Introduction.md": "LiInfo"
 }

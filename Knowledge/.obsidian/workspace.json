@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming notes/Assembly/Notes/Memory.md",
-                "mode": "preview",
+                "file": "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory"
+              "title": "Networking basics"
             }
           }
         ]
@@ -110,7 +110,7 @@
       {
         "id": "3fab00f26dcf6c30",
         "type": "tabs",
-        "dimension": 57.49385749385749,
+        "dimension": 57.49385749385748,
         "children": [
           {
             "id": "729ac1a70f2fdc72",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming notes/Assembly/Notes/Memory.md",
+                "file": "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,7 +195,7 @@
       {
         "id": "14fd8e4e8d4fd33a",
         "type": "tabs",
-        "dimension": 42.50614250614251,
+        "dimension": 42.50614250614252,
         "children": [
           {
             "id": "ba48074ab3a91e85",
@@ -224,12 +224,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "02b9f68937027fa0",
+  "active": "926a438f08416177",
   "lastOpenFiles": [
+    "Programming notes/Computer Science/Linux/Introduction.md",
+    "Programming notes/Computer Science/Linux/Networking/OSI model.md",
+    "Programming notes/Computer Science/Digitalizacion/LibroDigitalización.pdf",
+    "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
+    "Programming notes/Computer Science/Images/Pasted image 20261019062453.png",
+    "Programming notes/Computer Science/Linux/Ethnical hacking/MAC manipulation.md",
+    "Programming notes/Computer Science/Linux/Ethnical hacking/Images/Pasted image 20261019062116.png",
+    "Programming notes/Assembly/Notes/Memory.md",
     "Programming notes/Assembly/Images/Pasted image 20261018154044.png",
     "Programming notes/Assembly/Images/Pasted image 20261018153725.png",
     "Programming notes/Computer Science/Digitalizacion/Resume.md",
-    "Programming notes/Assembly/Notes/Memory.md",
     "Programming notes/Physics/Notes/Atoms.md",
     "Programming notes/Computer Science/Digitalizacion",
     "Programming notes/Physics/ROADMAP.md",
@@ -254,25 +261,18 @@
     "Programming notes/Physics/Notes/Signal Propagation.md",
     "Programming notes/Physics/Notes/Wave Basics.md",
     "Programming notes/Physics/Images/Pasted image 20261018150343.png",
-    "Programming notes/Physics/Images/Pasted image 20261018150121.png",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/ROADMAP.md",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/TypeScript.md",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Build & Deploy.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Libraries/Confetti.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Libraries/3D Preview.md",
     "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/ROADMAP.md",
-    "Programming notes/Computer Science/Programming/PowerShell/Basics/Windows essentials.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Testing.md",
     "Programming notes/Assembly/Notes/B1T2_Actividades_Microprocesador.pdf",
-    "Programming notes/Assembly/Notes/Microprocessor comparation.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Libraries",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Windows hacking",
-    "Programming notes/Assembly/Images/Pasted image 20261016151734.png",
-    "Programming notes/Assembly/Images/Pasted image 20261016151555.png",
     "Programming notes/Computer Science/Database",
     "Programming notes/Computer Science/Linux/Networking",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/TypeScript",
     "Untitled 1.canvas"
   ]
 }
