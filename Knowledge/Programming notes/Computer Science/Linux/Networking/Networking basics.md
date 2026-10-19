@@ -50,7 +50,11 @@ IPv6 = x.x.x.x.x.x = 8 numbers = 2^128...
 
 =========================== 4 lesson ==================================
 
-
-
+Explain binary numbers.
+Explain how to convert decimal numbers to binary numbers and vice-versa in a simple form.
 
 =====================================================================
+
+========================= 5 lesson ====================================
+
+

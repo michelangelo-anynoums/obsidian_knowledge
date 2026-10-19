@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5cf73add5b3f6040",
+        "id": "e9b6a538864f8934",
         "type": "tabs",
         "children": [
           {
-            "id": "926a438f08416177",
+            "id": "8eb7a740ac2a45ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
-                "mode": "source",
+                "file": "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Roadmap.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networking basics"
+              "title": "Roadmap"
             }
           }
         ]
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
+                "file": "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,12 +224,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "926a438f08416177",
+  "active": "02b9f68937027fa0",
   "lastOpenFiles": [
+    "Programming notes/Computer Science/Programming/JavaScript/Security.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Security",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/Promises.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Roadmap.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Real-World React.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/ROADMAP.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Introduction.md",
+    "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
     "Programming notes/Computer Science/Linux/Introduction.md",
     "Programming notes/Computer Science/Linux/Networking/OSI model.md",
     "Programming notes/Computer Science/Digitalizacion/LibroDigitalización.pdf",
-    "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
     "Programming notes/Computer Science/Images/Pasted image 20261019062453.png",
     "Programming notes/Computer Science/Linux/Ethnical hacking/MAC manipulation.md",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Images/Pasted image 20261019062116.png",
@@ -259,20 +266,12 @@
     "Programming notes/Physics/Notes/Electromagnetic Waves.md",
     "Programming notes/Physics/Notes/Radio Waves.md",
     "Programming notes/Physics/Notes/Signal Propagation.md",
-    "Programming notes/Physics/Notes/Wave Basics.md",
     "Programming notes/Physics/Images/Pasted image 20261018150343.png",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/ROADMAP.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/TypeScript.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Build & Deploy.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Libraries/Confetti.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Libraries/3D Preview.md",
-    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/ROADMAP.md",
     "Programming notes/Assembly/Notes/B1T2_Actividades_Microprocesador.pdf",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Libraries",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Windows hacking",
     "Programming notes/Computer Science/Database",
     "Programming notes/Computer Science/Linux/Networking",
-    "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking",
     "Untitled 1.canvas"
   ]
 }
