@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiStar",
-      "LiCheckSmall",
-      "LiLocationEdit",
-      "🦈",
-      "LiLocate"
+      "LiNotebookTabs",
+      "LiSkipForward",
+      "LiSkipBack",
+      "LiForward",
+      "LiSquareTerminal"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -67,7 +67,7 @@
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Express": "FabNode",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls": "LiMap",
   "Programming notes/Computer Science/Programming/Git/Introduction.md": "LiMap",
-  "Programming notes/Computer Science/Programming/PowerShell": "LiCommand",
+  "Programming notes/Computer Science/Programming/PowerShell": "LiSquareTerminal",
   "Programming notes/Computer Science/Programming/Java": "FabJava",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Introduction.md": "LiNotebookTabs",
   "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/ROADMAP.md": "LiRoad",
@@ -175,5 +175,12 @@
   "Programming notes/Computer Science/Linux/Ethnical hacking/WireShark": "🦈",
   "Programming notes/Computer Science/Linux/Networking/Analyzing network.md": "LiChartNetwork",
   "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking/Cybersecurity hands-on course.md": "LiCheckSmall",
-  "General notes/Astronomy/Space and galaxies.md": "LiStar"
+  "General notes/Astronomy/Space and galaxies.md": "LiStar",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/JSON class.md": "LiFileJson",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Error handling.md": "⚠",
+  "Programming notes/Computer Science/Programming/Git/Basics": "LiInfo",
+  "Programming notes/Computer Science/Programming/Python/Python Introduction.md": "LiInfo",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend": "LiSkipBack",
+  "Programming notes/Computer Science/Programming/JavaScript/Frontend": "LiSkipForward",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Notes": "LiNotebookTabs"
 }

@@ -57,4 +57,19 @@ Explain how to convert decimal numbers to binary numbers and vice-versa in a sim
 
 ========================= 5 lesson ====================================
 
+255.255.255.0 = classic subnet mask
+It can have 256 IP addresses (2 IP are reserved = 254)
+
+11111111.11111111.11111111.00000000
+
+00000000 = last octet is the available IP addresses
+
+2^(# of 0) = available IP addresses
+
+We can get more!
+
+11111111.11111111.11111110 <-- change it .00000000
+Now we get 2^9 = 512 IP
+
+=====================================================================
 

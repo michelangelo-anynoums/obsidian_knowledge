@@ -6,7 +6,7 @@
 
 ---
 
-## 🗺️ 01 — JavaScript Foundations
+## 🗺️ 01 — JavaScript Foundations [[JavaScript Foundations]]
 
 _Before learning backend development, become comfortable with the language that powers it._
 
