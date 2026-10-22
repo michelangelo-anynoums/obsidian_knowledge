@@ -228,7 +228,7 @@ This helps protect against replay attacks and ensures that each session has its 
 
 ## 📦 Simple Flow
 
-```text
+```bash
 Password
     │
     ▼

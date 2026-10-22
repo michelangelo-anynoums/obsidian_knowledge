@@ -1,6 +1,6 @@
 # Thermal Paste
 
-**Reference:**  [[Thermal_paste]]
+**Reference:**  [[Thermal paste]]
 
 ## Purpose
 

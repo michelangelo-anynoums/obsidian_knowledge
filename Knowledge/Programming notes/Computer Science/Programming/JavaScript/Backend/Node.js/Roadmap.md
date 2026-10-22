@@ -33,7 +33,7 @@ Understand how JavaScript handles work that takes time.
 
 ---
 
-## 🟢 02 — Node.js Fundamentals
+## 🟢 02 — Node.js Fundamentals [[Node.js Fundamentals]]
 
 _Node.js lets you execute JavaScript outside the browser, making it possible to build servers, APIs, command-line tools, and background workers._
 

@@ -1,5 +1,5 @@
-**Every Computer Component Explained in 14 Minutes:**
-https://youtu.be/VHhAZx4EvM8
+> [!important] **Every Computer Component Explained in 14 Minutes:**
+*Reference:* https://youtu.be/VHhAZx4EvM8
 
 ---
 
@@ -7,6 +7,7 @@ https://youtu.be/VHhAZx4EvM8
 
 The **CPU** is the **brain of the computer**. It **processes data** and **runs programs**.
 
+![[Pasted image 20261022062231.png|415]]
 ## Cores
 
 - **Cores** are the **working parts** inside the CPU.

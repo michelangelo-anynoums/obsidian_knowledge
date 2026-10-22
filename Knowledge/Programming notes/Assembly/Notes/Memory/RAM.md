@@ -2,6 +2,9 @@
 
 **RAM** is the **temporary memory** of a computer. It stores **data and programs** that the CPU is currently using. RAM is **fast**, but it **loses its data when the computer is turned off**.
 
+> [!important] *Reference:* [[Memory]]
+
+![[Pasted image 20261022062534.png|508]]
 ## DDR Generations
 
 ### DDR3
@@ -60,3 +63,5 @@
 - **Latency** is the **delay** before RAM responds to a request.
     
 - **Lower latency** usually means **better performance**.
+
+---

@@ -34,9 +34,9 @@ Linux is a family of ==open-source==, Unix-like operating systems based on the =
 
 1. **Cybersecurity:** Linux provides a powerful environment for learning about and practicing cybersecurity skills. With its robust permission system, ease of accessing system logs, and command-line tools, Linux is often used by security professionals and ethical hackers. [[Web services]]
     
-2. **SSH (Secure Shell):** SSH is a protocol that allows secure remote access to Linux systems. You'll learn to use SSH for secure communication and remote server management, an essential skill in both sysadmin and cybersecurity fields. [[Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/SSH (Secure Shell)/Introduction|Introduction]]
+2. **SSH (Secure Shell):** SSH is a protocol that allows secure remote access to Linux systems. You'll learn to use SSH for secure communication and remote server management, an essential skill in both sysadmin and cybersecurity fields. [[SSH (Secure Shell)|SSH (Secure Shell)]]
     
-3. **Vim:** Vim is a highly efficient text editor used within the terminal. Learning Vim will enhance your productivity when working with configuration files, scripts, and code on Linux systems, as it’s widely used by developers and system administrators. [[Programming notes/Computer Science/Other/Vim_Editor/Introduction|Introduction]]
+3. **Vim:** Vim is a highly efficient text editor used within the terminal. Learning Vim will enhance your productivity when working with configuration files, scripts, and code on Linux systems, as it’s widely used by developers and system administrators. [[Programming notes/Computer Science/Other/Vim editor/Introduction|Introduction]]
 
 ---
 Forgot **hotkeys**? Go to [Hotkeys](app://obsidian.md/Hotkeys)  

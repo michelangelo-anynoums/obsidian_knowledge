@@ -372,3 +372,6 @@ If you remember nothing else, remember these:
 10. **ARM and x86 are not the same thing as CPU manufacturers** — they describe architectures; companies build processors that implement those architectures.
 
 > [!tip] The simplest mental model **CPU = what does the work** **ISA = language it understands** **RISC = a design philosophy** **ARM / x86 / RISC-V = architectures** **Microprocessor = CPU on a chip** **Microcontroller = CPU + memory + peripherals** **Chipset = supporting communication/I/O hardware** **32-bit / 64-bit = characteristics of the architecture and its data/address handling**
+
+
+---
