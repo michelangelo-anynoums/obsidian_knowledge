@@ -12,6 +12,10 @@
 - **Slower** than SSDs.
     
 
+
+> [!important] **YouTube reference:** [HDD explained!](https://www.youtube.com/watch?v=wtdnatmVdIg)
+
+
 ## SATA SSD (Solid State Drive)
 
 - Stores data on **flash memory**.
@@ -21,6 +25,8 @@
 - Uses the **SATA interface**.
     
 
+
+> [!important] **YouTube reference:** [SDD explained!](https://youtu.be/yoTPMQ7aL8o)
 ## NVMe SSD (Non-Volatile Memory Express)
 
 - Also uses **flash memory**.
@@ -30,6 +36,8 @@
 - **Significantly faster** than a SATA SSD.
     
 - Good for **gaming**, **video editing**, and **fast file transfers**.
+
+> [!important] **YouTube reference:** [M.2 SSD explained!](https://youtu.be/HvfIeTieXOI)
 
 ![[Pasted image 20261022061603.png|516]]
 

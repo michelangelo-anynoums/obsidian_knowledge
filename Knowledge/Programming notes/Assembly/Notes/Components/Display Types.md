@@ -2,6 +2,10 @@
 
 > [!abstract] Overview A computer display converts visual information into images using different technologies. These technologies affect picture quality, contrast, color accuracy, brightness, response time, and power consumption.
 
+> [!important] **YouTube reference:** [Display types explained](https://www.youtube.com/watch?v=YoMKsMOBflA)
+
+> [!fire] *How does it work?* [Explained!](https://www.youtube.com/watch?v=xAMhX3Drq14)
+
 ## 🧩 Understanding Display Technology
 
 Most modern displays fall into two main categories:

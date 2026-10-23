@@ -107,6 +107,9 @@ LCD panels use liquid crystals to control how light passes through the display.
 
 > [!abstract] Objective Understand the major hardware components inside a computer and how they work together.
 
+> [!important] **YouTube reference:** [PC components explained](https://www.youtube.com/watch?v=YxcTBB6_bws)
+
+
 ## ⚙️ CPU — Central Processing Unit [[CPU term]]
 
 The CPU executes instructions and performs general-purpose computations.
@@ -179,6 +182,8 @@ RAM temporarily stores data and instructions that the system is actively using.
 ---
 
 ## 💾 Storage [[Storage]]
+
+> [!important] **YouTube reference:** [PC components explained](https://www.youtube.com/watch?v=1vO9l1idWac)
 
 Storage retains files, applications, and the operating system when the computer is powered off.
 
@@ -316,6 +321,8 @@ Dust restricts airflow and can reduce the effectiveness of cooling systems.
 # 04 — Ports, Cables & Connectivity
 
 > [!abstract] Objective Identify the major computer ports, cables, and connectors, understand their purposes, and know where they are commonly used.
+
+> [!important] **YouTube reference:** [cables explained!](https://www.youtube.com/watch?v=fkCDXw4NzX8)
 
 ## 🔌 USB & Data Cables
 

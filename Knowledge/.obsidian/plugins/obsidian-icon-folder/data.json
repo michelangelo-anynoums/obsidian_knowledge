@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFileCog",
+      "LiFiles",
       "LiPaintBucket",
       "LiConstruction",
-      "LiBuilding2",
-      "LiShield",
-      "LiLink2"
+      "LiBuilding2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -192,5 +192,7 @@
   "Programming notes/Computer Science/Other/Utilities/Burn_disk.md": "LiBrickWallFire",
   "Programming notes/Computer Science/Other/Utilities/Schtasks.md": "LiAlbum",
   "Programming notes/Computer Science/Other/Utilities/VeraCrypt.md": "LiKeyRound",
-  "Programming notes/Computer Science/Other/Utilities/diskpart.md": "LiDisc"
+  "Programming notes/Computer Science/Other/Utilities/diskpart.md": "LiDisc",
+  "Programming notes/Assembly/Notes/FIle System": "LiFiles",
+  "Programming notes/Assembly/Notes/FIle System/Essential concepts.md": "LiFileCog"
 }

@@ -30,7 +30,7 @@
 
 There are a few well-established brands that dominate the market:
 
-![Pasted image 20260828143643.png|197](app://de3767c47cd6c7b084fbf0971cba18239323/home/kali/Desktop/Stuff/Programming/Vault_Obsidian/Knowledge/Programming%20notes/Assembly/Images/Pasted%20image%2020260828143643.png?1787945803191)
+![[Pasted image 20261023071850.png|343]]
 
 > [!important] **Arctic** – especially the **Arctic MX-6 or MX-7**, one of the best value and performance pastes for most users
 
@@ -38,9 +38,7 @@ There are a few well-established brands that dominate the market:
 Known for: long lifespan, easy application, **strong all-round performance**
  
 ---
-
-![Pasted image 20260828143716.png|223](app://de3767c47cd6c7b084fbf0971cba18239323/home/kali/Desktop/Stuff/Programming/Vault_Obsidian/Knowledge/Programming%20notes/Assembly/Images/Pasted%20image%2020260828143716.png?1787945836810)
-
+![[Pasted image 20261023071929.png|320]]
 
 > [!important] **Thermal Grizzly** – especially Thermal **Grizzly Kryonaut**, a top choice for high-performance CPUs and overclocking
 

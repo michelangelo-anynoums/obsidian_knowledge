@@ -2,6 +2,10 @@
 
 > [!abstract] Overview Keyboards differ in how their keys work, how they feel when pressed, and how they are designed for typing or gaming.
 
+> [!important] **YouTube reference:** [Keyboard types explained](https://www.youtube.com/watch?v=LhO28b1xFDI)
+
+> [!fire] *How does it work?* [Explained!](https://www.youtube.com/watch?v=h-NM1xSSzHQ)
+
 ---
 
 ## 🔩 Mechanical Keyboards
@@ -202,3 +206,5 @@ An **ergonomic keyboard** is designed to make typing more comfortable by encoura
 |Membrane|Rubber domes and membrane layers|Budget and office use|
 |Optical|Light-based key detection|Gaming and low-latency input|
 |Ergonomic|Comfort-focused layout|Extended typing sessions|
+
+---

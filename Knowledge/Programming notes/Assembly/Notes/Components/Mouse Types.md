@@ -2,6 +2,11 @@
 
 > [!abstract] Overview A computer mouse controls the cursor on the screen. Different mice use different tracking technologies, connection methods, and designs for comfort, office work, or gaming.
 
+> [!important] **YouTube reference:** [Mouse types explained](https://www.youtube.com/watch?v=fBllF6hBuWo)
+
+> [!fire] *How does it work?* [Explained!](https://www.youtube.com/watch?v=SAaESb4wTCM)
+
+
 ---
 
 ## ⚙️ Mechanical Mouse
@@ -220,3 +225,5 @@ A **trackball mouse** stays in one place while you move the cursor by rotating a
 |Gaming|Responsive sensor and extra features|Gaming and customization|
 |Vertical|Angled ergonomic shape|Alternative hand positioning|
 |Trackball|Stationary ball control|Small desks and reduced arm movement|
+
+---
