@@ -2,9 +2,35 @@
 
 ## 🌐 What is Ethical Wi-Fi Hacking?
 
-Ethical Wi-Fi hacking is the process of learning how wireless networks work and how they are protected. By understanding Wi-Fi security, you can learn how to find weak points and understand how they can be fixed.
+> [!important] Ethical Wi-Fi hacking is the process of learning how wireless networks work and how they are protected. By understanding Wi-Fi security, you can learn how to find weak points and understand how they can be fixed.
 
-It is a great way to learn about networking, encryption, wireless communication, and computer security.
+> [!question] It is a great way to learn about networking, encryption, wireless communication, and computer security.
+
+### 📡 Wi-Fi — Wireless Networking
+
+> [!question] **Wi-Fi** is a wireless networking technology that allows devices to exchange data over radio waves without physical cables. It follows the **IEEE 802.11 standards** and enables devices to connect to a local network and access the internet.
+
+### 🔄 How does it conceptually work?
+
+`Client → Router / Access Point → Internet Provider (ISP) → Server`
+
+The **client** (laptop or phone) sends data wirelessly to the router or access point, which forwards it through the **ISP** to the destination server. The response travels back along the same path.
+
+![[Pasted image 20261023064813.png|604]]
+
+### 🔐 Security & Protocols
+
+> [!important] Wi-Fi security protects data and controls network access through authentication and encryption. During the **4-way handshake** used by WPA/WPA2-Personal, the client and access point derive and confirm session keys using shared credentials, helping establish secure communication.
+
+- **WEP** — Outdated and insecure; easily compromised.
+- **WPA** — Introduced improved security but is now obsolete.
+- **WPA2** — Uses AES-CCMP for strong encryption; widely supported.
+- **WPA3** — Newer and stronger protection, with improved password-based authentication using **SAE**.
+
+> 💡 **Key idea:** Wi-Fi provides the wireless connection, while security protocols protect the data transmitted across it.
+
+> [!question] *Wi-Fi security protocols*: [explained!](https://www.youtube.com/watch?v=r_At4vSoVI4)
+
 
 ## 🛠️ Useful Tools
 
@@ -14,11 +40,17 @@ These tools are commonly used to observe Wi-Fi networks, capture wireless traffi
 
 ![[Pasted image 20260720130710.png|372]]
 
-**Note reference:** [[Cybersecurity hands-on course]]
-**Theory psychics:** [[Wireless Fundamentals]]
-**Aicrack-ng Suite:** [[Aircrack-ng Suite]]
-**mdk4 tool**: [[mdk4 tool]]
-**Detecting deauthentication packets in Wireshark: **
+> [!important] **Note reference:** [[Cybersecurity hands-on course]]
+
+> [!fire] **Theory psychics:** [[Wireless Fundamentals]]
+
+> [!theory] **Aicrack-ng Suite:** [[Aircrack-ng Suite]]
+
+> [!lesson] **mdk4 tool**: [[mdk4 tool]]
+
+> [!important] **Detecting deauthentication packets in Wireshark: ** [[Detect deauthentication attacks]]
+
+> [!question] *Wi-Fi Generations*: [explained!](https://www.youtube.com/watch?v=D_7OuxvKYLQ)
 
 - **Wireshark** – Network packet analyzer.
     
@@ -57,7 +89,7 @@ These tools help discover nearby wireless networks and collect information such 
     
 - Arp-scan → [https://www.kali.org/tools/arp-scan/](https://www.kali.org/tools/arp-scan/)
 
-Reference for **arp-scan** tool: [[arp-scan]]
+> [!question] Reference for **arp-scan** tool: [[arp-scan]]
 
 ---
 
@@ -80,13 +112,14 @@ These Alfa adapters are popular because they support monitor mode and packet cap
 
 ## 🤝 The 4-Way Handshake
 
-When you connect your phone or laptop to a Wi-Fi network, the device and the router must first make sure they both know the correct Wi-Fi password.
+> [!question] When you connect your phone or laptop to a Wi-Fi network, the device and the router must first make sure they both know the correct Wi-Fi password.
 
-Instead of sending the password through the air, they use the password to create the same secret keys on both devices.
-
-Think of it like two people solving the same puzzle. If both get the same answer, they know they both had the correct password, even though they never said the answer out loud.
-
-The 4-Way Handshake is simply four messages that help both devices agree on new encryption keys.
+> [!NOTE]
+> Instead of sending the password through the air, they use the password to create the same secret keys on both devices.
+> 
+> Think of it like two people solving the same puzzle. If both get the same answer, they know they both had the correct password, even though they never said the answer out loud.
+> 
+> The 4-Way Handshake is simply four messages that help both devices agree on new encryption keys.
 
 ![[Pasted image 20260720125011.png|449]]
 
@@ -94,22 +127,23 @@ The 4-Way Handshake is simply four messages that help both devices agree on new 
 
 ## 🔑 The Master Key (PMK)
 
-The **Pairwise Master Key (PMK)** is the main secret key.
+> [!important] The **Pairwise Master Key (PMK)** is the main secret key.
 
-It comes from the Wi-Fi password (or from another login method in business networks).
-
-You can think of the PMK as a **master key** that is almost never used directly to lock or unlock data.
-
-Instead, it is used to create other keys.
-
-🏠 House example:
-
-- 🗝️ Master key = stored safely.
-    
-- 🔑 Daily key = used every day to lock and unlock the door.
-    
-
-This makes the connection more secure because the master key stays protected.
+> [!NOTE]
+> It comes from the Wi-Fi password (or from another login method in business networks).
+> 
+> You can think of the PMK as a **master key** that is almost never used directly to lock or unlock data.
+> 
+> Instead, it is used to create other keys.
+> 
+> 🏠 House example:
+> 
+> - 🗝️ Master key = stored safely.
+>     
+> - 🔑 Daily key = used every day to lock and unlock the door.
+>     
+> 
+> This makes the connection more secure because the master key stays protected.
 
 ![[Pasted image 20260720125048.png|453]]
 
@@ -117,22 +151,24 @@ This makes the connection more secure because the master key stays protected.
 
 ## 🔒 The Temporal Key (PTK)
 
-The **Pairwise Temporal Key (PTK)** is the working key.
+> [!important] The **Pairwise Temporal Key (PTK)** is the working key.
 
-It is created during the 4-Way Handshake using:
-
-- 🔑 The PMK
-    
-- 🎲 Random numbers made by the router and the device (called _nonces_)
-    
-- 📡 The MAC address of both devices
-    
-
-Because these values are different every time you connect, a **new PTK is created for every connection**.
-
-This means that even if you reconnect to the same Wi-Fi with the same password, the encryption key will be different.
-
-The PTK is then used to encrypt and protect the Wi-Fi traffic.
+> [!NOTE]
+> 
+> It is created during the 4-Way Handshake using:
+> 
+> - 🔑 The PMK
+>     
+> - 🎲 Random numbers made by the router and the device (called _nonces_)
+>     
+> - 📡 The MAC address of both devices
+>     
+> 
+> Because these values are different every time you connect, a **new PTK is created for every connection**.
+> 
+> This means that even if you reconnect to the same Wi-Fi with the same password, the encryption key will be different.
+> 
+> The PTK is then used to encrypt and protect the Wi-Fi traffic.
 
 ---
 
@@ -228,7 +264,7 @@ This helps protect against replay attacks and ensures that each session has its 
 
 ## 📦 Simple Flow
 
-```text
+```bash
 Password
     │
     ▼
@@ -260,3 +296,5 @@ Encrypt Wi-Fi traffic
 - 📡 The PTK encrypts all Wi-Fi traffic after the handshake is complete.
     
 - 🤝 The 4-Way Handshake lets both devices prove they know the same password and safely create fresh encryption keys.
+
+---

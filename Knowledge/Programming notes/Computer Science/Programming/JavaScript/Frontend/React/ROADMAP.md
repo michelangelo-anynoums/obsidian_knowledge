@@ -254,7 +254,7 @@ Error → Show error
 
 ---
 
-## 🟠 BLOCK 8 — Context
+## 🟠 BLOCK 8 — Context [[Context]]
 
 Learn:
 
@@ -284,7 +284,7 @@ Good examples:
 
 ---
 
-## 🟠 BLOCK 9 — Custom Hooks
+## 🟠 BLOCK 9 — Custom Hooks [[Custom Hooks]]
 
 Learn:
 
@@ -305,7 +305,7 @@ function useFetch(url) {
 
 ---
 
-## 🟠 BLOCK 10 — State Management
+## 🟠 BLOCK 10 — State Management [[State Management]]
 
 First understand React state well.
 
@@ -335,7 +335,7 @@ Understand:
 
 ---
 
-## 🔵 BLOCK 11 — Performance
+## 🔵 BLOCK 11 — Performance [[Performance]]
 
 Learn the basics:
 
@@ -358,7 +358,7 @@ But don't optimize everything automatically.
 
 ---
 
-## 🔵 BLOCK 12 — Testing
+## 🔵 BLOCK 12 — Testing [[Testing]]
 
 Learn:
 
@@ -387,7 +387,7 @@ UI updates
 
 ---
 
-## 🟣 BLOCK 13 — TypeScript
+## 🟣 BLOCK 13 — TypeScript [[TypeScript]]
 
 Once you're comfortable with React + JavaScript:
 
@@ -419,7 +419,8 @@ type UserProps = {
 
 ---
 
-## 🟣 BLOCK 14 — Real-World React
+## 🟣 BLOCK 14 — Real-World React [[Real-World React]]
+
 
 Learn:
 

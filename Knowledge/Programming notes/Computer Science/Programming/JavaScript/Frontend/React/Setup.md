@@ -59,7 +59,7 @@ This tells React:
 
 ## 4. How It All Connects
 
-```text
+```bash
 index.html
     ↓
 <div id="root"></div>
@@ -75,7 +75,18 @@ App.jsx
 🌐 Browser
 ```
 
-### 🧠 Remember
+---
+## **5. Build for Production**  
+
+> [!important] When your application is ready for deployment, run the build command. This creates an optimized, minified bundle in the `dist` folder:
+
+```bash
+npm run build
+```
+
+---
+
+## 🧠 Remember
 
 - **Component** → describes the UI
     

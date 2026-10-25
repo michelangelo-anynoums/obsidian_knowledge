@@ -2,7 +2,7 @@
 
 ## **What is Modulation?**
 
-**Modulation** is the process of **adding information to a wave** so it can be transmitted.
+> [!important] **Modulation** is the process of **adding information to a wave** so it can be transmitted.
 
 A **carrier wave** is changed to carry information such as:
 
@@ -12,6 +12,8 @@ A **carrier wave** is changed to carry information such as:
 
 **Example:**  
 A radio station uses a carrier wave to send music through the air.
+
+![[Pasted image 20261018151306.png|576]]
 
 ---
 
@@ -29,6 +31,8 @@ It is used in:
 - **Wi-Fi**
 - **Mobile networks**
 - **Bluetooth**
+
+![[Pasted image 20261018151358.png]]
 
 ---
 
@@ -77,6 +81,8 @@ Used in:
 - **4G/5G**
 - **Bluetooth**
 - **Satellite communication**
+
+![[Pasted image 20261018151519.png]]
 
 ---
 
