@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPresentation",
+      "LiSidebarToggleButtonIcon",
+      "LiLibraryBig",
       "LiFileCog",
-      "LiFiles",
-      "LiPaintBucket",
-      "LiConstruction",
-      "LiBuilding2"
+      "LiFiles"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -194,5 +194,8 @@
   "Programming notes/Computer Science/Other/Utilities/VeraCrypt.md": "LiKeyRound",
   "Programming notes/Computer Science/Other/Utilities/diskpart.md": "LiDisc",
   "Programming notes/Assembly/Notes/FIle System": "LiFiles",
-  "Programming notes/Assembly/Notes/FIle System/Essential concepts.md": "LiFileCog"
+  "Programming notes/Assembly/Notes/FIle System/Essential concepts.md": "LiFileCog",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries": "LiLibraryBig",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/Libraries.md": "LiSidebarToggleButtonIcon",
+  "Programming notes/Assembly/Presentations": "LiPresentation"
 }

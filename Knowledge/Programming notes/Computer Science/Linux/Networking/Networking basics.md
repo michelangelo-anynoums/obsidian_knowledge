@@ -73,3 +73,25 @@ Now we get 2^9 = 512 IP
 
 =====================================================================
 
+==========================  6 lesson ===================================
+
+How to split subnetmask and create more subnetworks:
+
+255.255.255.0 = 11111111.11111111.11111111.00000000
+
+Basically, if we need 4 networks we can follow this scheme:
+
+128  64  32  16  8 4  (2) (1)
+				 ^
+				  |
+256  128  64  32  16 8 {4}  2
+
+That's two bits than we convert out subnetmask:
+
+11111111.11111111.11111111. {11 <-- change here from 00 to 11} 000000
+
+Result = 255.255.255.192 = 26 subnetworks
+
+Explain everything here
+
+=====================================================================
