@@ -2,6 +2,8 @@
 
 > ⚠️ Use this for your own server/lab. A Tor website is called an **onion service**.
 
+![[Pasted image 20261026160838.png|582]]
+
 ## 1. How It Works 🌐
 
 A normal website looks like:
