@@ -95,3 +95,13 @@ Result = 255.255.255.192 = 26 subnetworks
 Explain everything here
 
 =====================================================================
+
+====================== 7 lesson =======================================
+
+Subneting mask:
+
+Basically, how to subnet ip mask to configure subnetworks and hosts in a cafe shop, for example.
+
+Explain how to do that.
+
+=====================================================================

@@ -11,10 +11,14 @@
             "id": "72e984f69d2aef72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Networking basics"
             }
           }
         ]
@@ -176,6 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -221,14 +226,23 @@
   },
   "active": "72e984f69d2aef72",
   "lastOpenFiles": [
+    "Programming notes/Computer Science/Linux/Networking/arp utility.md",
+    "Programming notes/Computer Science/Linux/Networking/Analyzing network.md",
+    "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
+    "Programming notes/Computer Science/Linux/Networking/OSI model.md",
+    "Programming notes/Computer Science/Linux/Bash/Bash basics.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/path node.js.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/Libraries.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/AbortController.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Notes/HTTP & Networking Fundamentals.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/URL object.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Roadmap.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/URL Query Parameters.md",
     "Programming notes/Assembly/Presentations/UT2. Componentes de un Sistema Informático (2).pdf",
     "Programming notes/Assembly/Presentations/UT1. Introducción a los Sistemas Informáticos.pdf",
     "Programming notes/Assembly/Notes/Processor/Chip & Chipset.md",
     "Programming notes/Assembly/Presentations",
-    "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Tor service setup.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/Libraries.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Roadmap.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/file system node.js.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Untitled.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries",
@@ -250,15 +264,7 @@
     "Programming notes/Assembly/Images/Pasted image 20261023071929.png",
     "Programming notes/Assembly/Computer Hardware Roadmap.md",
     "Programming notes/Assembly/Notes/Memory/Storage.md",
-    "Programming notes/Assembly/Notes/Components/Keyboards.md",
-    "Programming notes/Assembly/Notes/Components/Display Types.md",
-    "Programming notes/Assembly/Notes/Components/Mouse Types.md",
-    "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking/Setup and references.md",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Images/Pasted image 20261023064813.png",
-    "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking/Detect deauthentication attacks.md",
-    "Programming notes/WiFi mastery/Notes/Wireless Fundamentals.md",
-    "Programming notes/Physics/Notes/Antennas.md",
-    "Programming notes/Computer Science/Linux/Kali Linux/Kali Tools/Tools/cURL.md",
     "Programming notes/Assembly/Images/Pasted image 20261022064641.png",
     "Programming notes/Computer Science/Programming/Java/Utilities",
     "Programming notes/Computer Science/Database/Paso relacional/UD02_Relacional_Inmobiliaria.pdf",

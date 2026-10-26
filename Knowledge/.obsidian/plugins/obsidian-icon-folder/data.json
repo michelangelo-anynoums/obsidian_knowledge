@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPresentation",
-      "LiSidebarToggleButtonIcon",
-      "LiLibraryBig",
-      "LiFileCog",
-      "LiFiles"
+      "LiInfo",
+      "LiFile",
+      "LiFolderTree",
+      "LiCircleStop",
+      "LiPresentation"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -111,9 +111,7 @@
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/BOM.md": "FabFirefoxBrowser",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/RegExp.md": "LiTextSearch",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Date object.md": "LiTimerOff",
-  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/URL object.md": "LiLink",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Classes.md": "LiSnapToObject",
-  "Programming notes/Computer Science/Images": "LiImage",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/atob & btoa.md": "LiKeyRound",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/Headers.md": "LiHeading",
   "Programming notes/Computer Science/Linux/Networking": "LiNetwork",
@@ -197,5 +195,11 @@
   "Programming notes/Assembly/Notes/FIle System/Essential concepts.md": "LiFileCog",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries": "LiLibraryBig",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/Libraries.md": "LiSidebarToggleButtonIcon",
-  "Programming notes/Assembly/Presentations": "LiPresentation"
+  "Programming notes/Assembly/Presentations": "LiPresentation",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/URL object.md": "LiLink",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/AbortController.md": "LiCircleStop",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/path node.js.md": "LiFolderTree",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/file system node.js.md": "LiFile",
+  "Programming notes/Computer Science/Other/Images": "LiImage",
+  "Programming notes/Computer Science/Linux/Bash/Bash basics.md": "LiInfo"
 }
