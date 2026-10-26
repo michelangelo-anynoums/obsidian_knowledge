@@ -1,26 +1,9 @@
 {
   "main": {
-    "id": "1d26612a58b228f9",
+    "id": "224489ad460a541f",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "65ec827d3e435c65",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "14f211c251a9fb1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Assembly/Utilities/Thermal paste.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thermal paste"
-=======
         "id": "c85eaa7f6f01d573",
         "type": "tabs",
         "children": [
@@ -28,19 +11,12 @@
             "id": "72e984f69d2aef72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
-                "mode": "source",
-                "source": false
+                "file": "Programming notes/Assembly/Presentations/UT2 - Práctica 1.pdf"
               },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "New tab"
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
-=======
-              "title": "Networking basics"
->>>>>>> 502d80a66f36edbfe6d44e2df5778704ff9a9f59
+              "icon": "lucide-file-text",
+              "title": "UT2 - Práctica 1"
             }
           }
         ]
@@ -49,15 +25,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6bc909e9c40e76e8",
+    "id": "95796b5105496e4e",
     "type": "split",
     "children": [
       {
-        "id": "63b54ed6737a263a",
+        "id": "8d6323bc50cdcc4d",
         "type": "tabs",
+        "dimension": 71.81818181818181,
         "children": [
           {
-            "id": "3b97f171901908ee",
+            "id": "02b9f68937027fa0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,7 +49,7 @@
             }
           },
           {
-            "id": "d2687aa9c4eb5ecc",
+            "id": "99728836a6a7f060",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -89,7 +66,7 @@
             }
           },
           {
-            "id": "6d4f05c6805588ff",
+            "id": "fbe4b571c22ff6f3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -102,39 +79,44 @@
             }
           }
         ]
+      },
+      {
+        "id": "61510ee69869674c",
+        "type": "tabs",
+        "dimension": 28.18181818181818,
+        "children": [
+          {
+            "id": "f4b7458aedfe5c8e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5004348754883
   },
   "right": {
-    "id": "8c751f0f29dcc720",
+    "id": "620444b996bf9adb",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "f9bf9aa5edd4f107",
-=======
         "id": "3fab00f26dcf6c30",
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
         "type": "tabs",
         "dimension": 57.49385749385748,
         "children": [
           {
-<<<<<<< HEAD
-            "id": "d10e2d8acfca4432",
-=======
             "id": "729ac1a70f2fdc72",
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Programming notes/Computer Science/Linux/Ethnical hacking/Windows hash cracking.md",
-=======
                 "file": "Programming notes/Assembly/Notes/Memory.md",
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,41 +126,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Windows hash cracking"
+              "title": "Backlinks"
             }
           },
           {
-<<<<<<< HEAD
-            "id": "c686739d3e5aac06",
-=======
             "id": "c9aa215080276129",
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Programming notes/Computer Science/Linux/Ethnical hacking/Windows hash cracking.md",
-=======
                 "file": "Programming notes/Assembly/Notes/Memory.md",
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-              "title": "Outgoing links from Windows hash cracking"
-            }
-          },
-          {
-            "id": "38d07eabac541094",
-=======
               "title": "Outgoing links"
             }
           },
           {
             "id": "162b26a4a445b9e2",
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -193,11 +159,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "35aa6f46b5a82d33",
-=======
             "id": "e305f63e8be3405d",
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -211,23 +173,12 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "162379c7841c9191",
-=======
             "id": "a0c054a6e2bd8e41",
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "Programming notes/Assembly/Utilities/Thermal paste.md",
-=======
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
-=======
-                "file": "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
->>>>>>> 502d80a66f36edbfe6d44e2df5778704ff9a9f59
+                "file": "Programming notes/Assembly/Presentations/UT2 - Práctica 1.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -245,11 +196,7 @@
         "dimension": 42.50614250614252,
         "children": [
           {
-<<<<<<< HEAD
-            "id": "2f270d5f61c73ea4",
-=======
             "id": "ba48074ab3a91e85",
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -262,11 +209,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 300
-=======
     "width": 308.3101806640625
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,16 +222,14 @@
       "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-  "active": "14f211c251a9fb1a",
-  "lastOpenFiles": [
-    "Programming notes/Assembly/Notes/RAM.md"
-=======
   "active": "72e984f69d2aef72",
   "lastOpenFiles": [
+    "Programming notes/Assembly/Presentations/UT1. Introducción a los Sistemas Informáticos.pdf",
+    "Programming notes/Assembly/Presentations/B1T2_Actividades_Microprocesador.pdf",
+    "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
+    "Programming notes/Assembly/Presentations/UT2 - Práctica 1.pdf",
     "Programming notes/Computer Science/Linux/Networking/arp utility.md",
     "Programming notes/Computer Science/Linux/Networking/Analyzing network.md",
-    "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
     "Programming notes/Computer Science/Linux/Networking/OSI model.md",
     "Programming notes/Computer Science/Linux/Bash/Bash basics.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/path node.js.md",
@@ -299,7 +240,6 @@
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Roadmap.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/URL Query Parameters.md",
     "Programming notes/Assembly/Presentations/UT2. Componentes de un Sistema Informático (2).pdf",
-    "Programming notes/Assembly/Presentations/UT1. Introducción a los Sistemas Informáticos.pdf",
     "Programming notes/Assembly/Notes/Processor/Chip & Chipset.md",
     "Programming notes/Assembly/Presentations",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Tor service setup.md",
@@ -315,7 +255,6 @@
     "Programming notes/Assembly/Notes/Memory/Memory.md",
     "Programming notes/Assembly/Notes/FIle System",
     "Programming notes/Assembly/Notes/Memory/RAM.md",
-    "Programming notes/Assembly/Notes/Processor/B1T2_Actividades_Microprocesador.pdf",
     "Programming notes/Assembly/Notes/Processor/CPU architectures.md",
     "Programming notes/Assembly/Notes/Processor/CPU term.md",
     "Programming notes/Assembly/Notes/Processor/GPU & memory.md",
@@ -323,17 +262,14 @@
     "Programming notes/Assembly/Utilities/Thermal paste.md",
     "Programming notes/Assembly/Images/Pasted image 20261023071929.png",
     "Programming notes/Assembly/Computer Hardware Roadmap.md",
-    "Programming notes/Assembly/Notes/Memory/Storage.md",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Images/Pasted image 20261023064813.png",
     "Programming notes/Assembly/Images/Pasted image 20261022064641.png",
     "Programming notes/Computer Science/Programming/Java/Utilities",
     "Programming notes/Computer Science/Database/Paso relacional/UD02_Relacional_Inmobiliaria.pdf",
     "Programming notes/Computer Science/Database/Paso relacional",
-    "Programming notes/Computer Science/Database/Diseño/Apuntes_RA6_Diseno_BD.pdf",
     "Programming notes/Assembly/Images/Pasted image 20261022065433.png",
     "Programming notes/Assembly/Images/Pasted image 20261022065308.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
   ]
 }

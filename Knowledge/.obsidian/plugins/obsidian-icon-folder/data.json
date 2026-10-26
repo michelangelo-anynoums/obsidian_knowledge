@@ -5,9 +5,6 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-<<<<<<< HEAD
-    "recentlyUsedIcons": [],
-=======
     "recentlyUsedIcons": [
       "LiInfo",
       "LiFile",
@@ -15,7 +12,6 @@
       "LiCircleStop",
       "LiPresentation"
     ],
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -37,9 +33,6 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-<<<<<<< HEAD
-  }
-=======
   },
   "Programming notes/Assembly": "LiCpu",
   "Programming notes/Computer Science": "LiComputer",
@@ -202,10 +195,6 @@
   "Programming notes/Assembly/Notes/FIle System/Essential concepts.md": "LiFileCog",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries": "LiLibraryBig",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/Libraries.md": "LiSidebarToggleButtonIcon",
-<<<<<<< HEAD
-  "Programming notes/Assembly/Presentations": "LiPresentation"
->>>>>>> 3cf1a143a8d62550819b5ab8f3ccf57a3a4f509e
-=======
   "Programming notes/Assembly/Presentations": "LiPresentation",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/URL object.md": "LiLink",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/AbortController.md": "LiCircleStop",
@@ -213,5 +202,4 @@
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/file system node.js.md": "LiFile",
   "Programming notes/Computer Science/Other/Images": "LiImage",
   "Programming notes/Computer Science/Linux/Bash/Bash basics.md": "LiInfo"
->>>>>>> 502d80a66f36edbfe6d44e2df5778704ff9a9f59
 }
