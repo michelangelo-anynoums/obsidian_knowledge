@@ -311,7 +311,7 @@ name="John"
 ```
 
 > [!important]  
-> **Don't put spaces around `=`.**
+> **Don't put spaces around =.**
 
 Correct:
 

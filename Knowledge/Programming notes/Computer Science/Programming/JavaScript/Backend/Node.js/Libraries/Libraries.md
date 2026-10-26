@@ -7,7 +7,7 @@
 - 📁 **fs** — Read, write, and manage files.
     - 🔗 Reference: [[file system node.js]]
 - 🧭 **path** — Work with file and directory paths.
-    - 🔗 Reference:
+    - 🔗 Reference: [[path node.js]]
 - 🌐 **http** — Create HTTP servers and handle requests.
     - 🔗 Reference:
 - 🔒 **crypto** — Hashing, encryption, and secure random values.
