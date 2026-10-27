@@ -105,3 +105,10 @@ Basically, how to subnet ip mask to configure subnetworks and hosts in a cafe sh
 Explain how to do that.
 
 =====================================================================
+
+============================== 8 lesson ===============================
+
+Reverse subnetting...
+
+
+=====================================================================

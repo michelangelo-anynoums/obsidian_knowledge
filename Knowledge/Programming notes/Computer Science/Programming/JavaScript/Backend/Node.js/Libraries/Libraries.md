@@ -9,7 +9,7 @@
 - 🧭 **path** — Work with file and directory paths.
     - 🔗 Reference: [[path node.js]]
 - 🌐 **http** — Create HTTP servers and handle requests.
-    - 🔗 Reference:
+    - 🔗 Reference: [[http node.js]]
 - 🔒 **crypto** — Hashing, encryption, and secure random values.
     - 🔗 Reference:
 - ⚙️ **process** — Access environment variables and process information.

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiInfo",
-      "LiFile",
-      "LiFolderTree",
-      "LiCircleStop",
-      "LiPresentation"
+      "LiLogs",
+      "LiToolbox",
+      "LiList",
+      "LiLink2",
+      "LiInfo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -201,5 +201,9 @@
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/path node.js.md": "LiFolderTree",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/file system node.js.md": "LiFile",
   "Programming notes/Computer Science/Other/Images": "LiImage",
-  "Programming notes/Computer Science/Linux/Bash/Bash basics.md": "LiInfo"
+  "Programming notes/Computer Science/Linux/Bash/Bash basics.md": "LiInfo",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/http node.js.md": "LiLink2",
+  "Programming notes/Computer Science/Programming/Java/Methods": "LiList",
+  "Programming notes/Computer Science/Programming/Java/Utilities": "LiToolbox",
+  "Programming notes/Computer Science/Programming/Java/Utilities/Logger.md": "LiLogs"
 }
