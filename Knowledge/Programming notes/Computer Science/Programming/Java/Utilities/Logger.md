@@ -121,30 +121,132 @@ if (logger.isLoggable(Level.FINE)) {
 
 🔍 Useful when preparing a log message is expensive. The condition avoids doing that work when `FINE` logging is disabled.
 
-## 📂 7. Write Logs to a File
+---
 
-Configure a `FileHandler` to save logs.
+## 7. 📁 File Logging in Java
+
+Java provides the `FileHandler` class in `java.util.logging` to write log messages into a file.
+
+### 7.1 📝 Write logs to a file
+
 
 ```java
 import java.io.IOException;
-import java.util.logging.FileHandler;
-import java.util.logging.SimpleFormatter;
+import java.util.logging.*;
 
-try {
-    FileHandler fileHandler =
-            new FileHandler("application.log", true);
+public class Main {
+    private static final Logger logger =
+            Logger.getLogger(Main.class.getName());
 
-    fileHandler.setFormatter(new SimpleFormatter());
-    logger.addHandler(fileHandler);
+    public static void main(String[] args) {
+        try (FileHandler handler =
+                     new FileHandler("application.log")) {
 
-} catch (IOException e) {
-    logger.log(Level.SEVERE, "Could not create log file", e);
+            handler.setFormatter(new SimpleFormatter());
+            logger.addHandler(handler);
+
+            try {
+                logger.info("Application started");
+                logger.warning("This is a warning");
+                logger.severe("An error occurred");
+            } finally {
+                logger.removeHandler(handler);
+            }
+
+        } catch (IOException e) {
+            System.err.println("Logging failed: " + e.getMessage());
+        }
+    }
 }
 ```
 
-📌 `true` appends to the existing file instead of overwriting it.
+**🔍 Explanation:**
 
-⚠️ Remember to close handlers when they are no longer needed. For production, consider file rotation and centralized configuration.
+- 📄 `FileHandler("application.log")` creates a handler that writes logs to the specified file. By default, an existing file may be overwritten.
+- ✍️ `setFormatter(new SimpleFormatter())` formats log records as readable text.
+- 🔗 `logger.addHandler(handler)` connects the handler to the logger.
+- 🔌 `logger.removeHandler(handler)` disconnects the handler when it is no longer needed.
+- ✅ `try-with-resources` automatically closes the handler, even if an exception occurs.
+
+### 7.2 ➕ Append new logs to an existing file
+
+> [!important] To preserve previous logs and add new ones, pass `true` as the second argument to the `FileHandler` constructor:
+
+```java
+new FileHandler("application.log", true);
+```
+
+For example:
+
+```java
+try (FileHandler handler =
+         new FileHandler("application.log", true)) {
+
+    handler.setFormatter(new SimpleFormatter());
+    logger.addHandler(handler);
+
+    try {
+        logger.info("A new application session started");
+        logger.info("Processing a task");
+    } finally {
+        logger.removeHandler(handler);
+    }
+
+} catch (IOException e) {
+    System.err.println("Could not write logs: " + e.getMessage());
+}
+```
+
+🔄 When the program runs again, new log records are appended to the existing file instead of replacing its contents.
+
+### 7.3 🔒 How to close a FileHandler properly
+
+A `FileHandler` should be closed when you finish logging to release resources and ensure pending log data is written.
+
+**✅ Option 1: Try-with-resources (recommended)**
+
+> [!fire] Java automatically closes the handler when the `try` block finishes.
+
+```java
+try (FileHandler handler =
+         new FileHandler("application.log", true)) {
+
+    logger.addHandler(handler);
+    try {
+        logger.info("Application started");
+    } finally {
+        logger.removeHandler(handler);
+    }
+
+} catch (IOException e) {
+    System.err.println(e.getMessage());
+}
+```
+
+**🧹 Option 2: Finally block**
+
+> [!fire] Close the handler manually, even if an exception occurs.
+
+```java
+FileHandler handler = null;
+
+try {
+    handler = new FileHandler("application.log", true);
+    logger.addHandler(handler);
+    logger.info("Application started");
+
+} catch (IOException e) {
+    System.err.println(e.getMessage());
+
+} finally {
+    if (handler != null) {
+        logger.removeHandler(handler);
+        handler.close();
+    }
+}
+```
+
+💡 **Best practice:** Use try-with-resources for short tasks. For long-running applications, keep the handler open and close it during application shutdown.
 
 ## ⚙️ 8. Configure Logging with `logging.properties`
 

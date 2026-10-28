@@ -59,3 +59,5 @@ The **CPU** is the **brain of the computer**. It **processes data** and **runs p
 - Popular models: **Ryzen 3**, **Ryzen 5**, **Ryzen 7**, and **Ryzen 9**.
     
 - Known for **good performance** and **good value**.
+
+---

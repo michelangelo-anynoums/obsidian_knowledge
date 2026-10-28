@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c85eaa7f6f01d573",
+        "id": "fecffdbcc12f3623",
         "type": "tabs",
         "children": [
           {
-            "id": "72e984f69d2aef72",
+            "id": "e9643a5d469d04c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Computer Science/Programming/Java/Utilities/Logger.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Logger"
-            }
-          },
-          {
-            "id": "0fe84290b4a2b1e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Computer Science/Programming/Java/Utilities/Logger.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Logger"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming notes/Computer Science/Programming/Java/Utilities/Logger.md",
+                "file": "Programming notes/Computer Science/Other/Images/Pasted image 20261028075013.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,9 +220,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "0fe84290b4a2b1e8",
+  "active": "02b9f68937027fa0",
   "lastOpenFiles": [
-    "Programming notes/Computer Science/Linux/Networking/Networking basics.md",
+    "Programming notes/Computer Science/Other/Images/imgupscaler-enhanced.jpg",
+    "Programming notes/Computer Science/Digitalizacion/Resume.md",
+    "Programming notes/Computer Science/Digitalizacion/LibroDigitalización.pdf",
+    "Programming notes/Computer Science/Networking/Networking basics.md",
+    "Programming notes/Computer Science/Other/Images/Pasted image 20261028084438.png",
+    "Programming notes/Computer Science/Other/Images/Pasted image 20261028083447.png",
+    "Programming notes/Computer Science/Other/Images/Pasted image 20261028083315.png",
+    "Programming notes/Computer Science/Other/Images/Pasted image 20261028082816.png",
+    "Programming notes/Computer Science/Other/Images/Pasted image 20261028075943.png",
+    "Programming notes/Computer Science/Other/Images/Pasted image 20261028075846.png",
+    "Programming notes/Computer Science/Other/Images/Pasted image 20261028075629.png",
+    "Programming notes/Computer Science/Other/Images/Pasted image 20261028075609.png",
+    "Programming notes/Computer Science/Other/Images/Pasted image 20261028075313.png",
+    "Programming notes/Assembly/Utilities/Thermal paste.md",
+    "Programming notes/Assembly/Notes/Processor/CPU term.md",
+    "Programming notes/Assembly/Notes/Processor/CPU architectures.md",
+    "Programming notes/Assembly/Notes/Processor/Von Neumann architecture.md",
+    "Programming notes/Assembly/Notes/Processor/GPU & memory.md",
+    "Programming notes/Assembly/Presentations/UT1. Introducción a los Sistemas Informáticos.pdf",
+    "Programming notes/Assembly/Presentations/UT2 - Práctica 1.pdf",
+    "Programming notes/Assembly/Presentations/UT2. Componentes de un Sistema Informático (2).pdf",
     "Programming notes/Computer Science/Programming/Java/Utilities/Logger.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/http node.js.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/Libraries.md",
@@ -255,38 +256,17 @@
     "Programming notes/Computer Science/Linux/Ethnical hacking/MAC manipulation.md",
     "Programming notes/Computer Science/Programming/Python/Libraries/venv.md",
     "Programming notes/Computer Science/Linux/Ethnical hacking/Tor service setup.md",
-    "Programming notes/Assembly/Presentations/UT2 - Práctica 1.pdf",
-    "Programming notes/Assembly/Presentations/UT2. Componentes de un Sistema Informático (2).pdf",
     "Programming notes/Assembly/Presentations/B1T2_Actividades_Microprocesador.pdf",
-    "Programming notes/Computer Science/Linux/Ethnical hacking/Images/Pasted image 20261026160838.png",
-    "Programming notes/Computer Science/Linux/Networking/arp utility.md",
-    "Programming notes/Computer Science/Linux/Networking/Analyzing network.md",
-    "Programming notes/Computer Science/Linux/Networking/OSI model.md",
+    "Programming notes/Computer Science/Networking/arp utility.md",
+    "Programming notes/Computer Science/Networking/Analyzing network.md",
+    "Programming notes/Computer Science/Networking/OSI model.md",
     "Programming notes/Computer Science/Linux/Bash/Bash basics.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/AbortController.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Notes/HTTP & Networking Fundamentals.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/URL object.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/URL Query Parameters.md",
-    "Programming notes/Assembly/Presentations/UT1. Introducción a los Sistemas Informáticos.pdf",
-    "Programming notes/Assembly/Notes/Processor/Chip & Chipset.md",
     "Programming notes/Assembly/Presentations",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Untitled.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Notes/Advance Node.js & Asynchronous Internals.md",
-    "Programming notes/Assembly/Notes/FIle System/Essential concepts.md",
-    "Programming notes/Assembly/Images/Pasted image 20261023073507.png",
-    "Programming notes/Assembly/Images/Pasted image 20261023073320.png",
-    "Programming notes/Assembly/Images/Pasted image 20261023073230.png",
-    "Programming notes/Assembly/Images/Pasted image 20261023073201.png",
     "Programming notes/Assembly/Notes/FIle System",
     "Programming notes/Assembly/Notes/Processor/B1T2_Actividades_Microprocesador.pdf",
-    "Programming notes/Assembly/Images/Pasted image 20261023071850.png",
-    "Programming notes/Assembly/Images/Pasted image 20261023071929.png",
-    "Programming notes/Computer Science/Linux/Ethnical hacking/Images/Pasted image 20261023064813.png",
-    "Programming notes/Assembly/Images/Pasted image 20261022064641.png",
     "Programming notes/Computer Science/Programming/Java/Utilities",
-    "Programming notes/Computer Science/Database/Paso relacional/UD02_Relacional_Inmobiliaria.pdf",
-    "Programming notes/Assembly/Images/Pasted image 20261022065433.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
