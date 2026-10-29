@@ -153,7 +153,7 @@ Order matters: parsing should happen before routes that consume the parsed body,
 
 ---
 
-## 🧱 06 — REST API Design & Validation
+## 🧱 06 — REST API Design & Validation [[REST API Design & Validation]]
 
 _Build APIs that are predictable, consistent, and easy for other developers to consume._
 

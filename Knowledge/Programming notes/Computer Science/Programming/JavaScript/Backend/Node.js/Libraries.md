@@ -11,7 +11,7 @@
 - 🌐 **http** — Create HTTP servers and handle requests.
     - 🔗 Reference: [[http node.js]]
 - 🔒 **crypto** — Hashing, encryption, and secure random values.
-    - 🔗 Reference:
+    - 🔗 Reference: [[crypto node.js]]
 - ⚙️ **process** — Access environment variables and process information.
     - 🔗 Reference:
 - 🖥️ **os** — Get operating system information.

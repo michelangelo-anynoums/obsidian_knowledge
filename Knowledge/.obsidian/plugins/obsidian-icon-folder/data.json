@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiLogs",
-      "LiToolbox",
-      "LiList",
-      "LiLink2",
-      "LiInfo"
+      "LiNewspaper",
+      "FabCss3Alt",
+      "LiPower",
+      "LiParentheses",
+      "FabBuffer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -189,7 +189,6 @@
   "Programming notes/Assembly/Notes/FIle System": "LiFiles",
   "Programming notes/Assembly/Notes/FIle System/Essential concepts.md": "LiFileCog",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries": "LiLibraryBig",
-  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/Libraries.md": "LiSidebarToggleButtonIcon",
   "Programming notes/Assembly/Presentations": "LiPresentation",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Asynchronous/URL object.md": "LiLink",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/AbortController.md": "LiCircleStop",
@@ -205,5 +204,12 @@
   "Programming notes/Computer Science/Networking/Analyzing network.md": "LiChartNetwork",
   "Programming notes/Computer Science/Networking/Networking basics.md": "LiRoad",
   "Programming notes/Computer Science/Networking/OSI model.md": "FabOsi",
-  "Programming notes/Computer Science/Networking/arp utility.md": "LiLocate"
+  "Programming notes/Computer Science/Networking/arp utility.md": "LiLocate",
+  "Prompt AI.md": "LiTextCursor",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries.md": "LiSidebarToggleButtonIcon",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/crypto node.js.md": "LiLock",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Buffer.md": "FabBuffer",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/toString().md": "LiParentheses",
+  "Programming notes/Computer Science/Programming/CSS/@property.md": "FabCss3Alt",
+  "Programming notes/Computer Science/Programming/CSS/Embed PDF.md": "LiNewspaper"
 }
