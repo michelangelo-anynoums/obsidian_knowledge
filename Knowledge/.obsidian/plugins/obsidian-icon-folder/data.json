@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiNewspaper",
-      "FabCss3Alt",
-      "LiPower",
-      "LiParentheses",
-      "FabBuffer"
+      "LiGpu",
+      "LiLinksGoingOut",
+      "LiNotepadText",
+      "LiRoad",
+      "LiMail"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -211,5 +211,14 @@
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Buffer.md": "FabBuffer",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/toString().md": "LiParentheses",
   "Programming notes/Computer Science/Programming/CSS/@property.md": "FabCss3Alt",
-  "Programming notes/Computer Science/Programming/CSS/Embed PDF.md": "LiNewspaper"
+  "Programming notes/Computer Science/Programming/CSS/Embed PDF.md": "LiNewspaper",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/process.md": "LiSettings",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Setup.md": "LiColumnsSettings",
+  "Programming notes/Computer Science/NGINX": "LiServer",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/PM2 manager": "LiServer",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/PostgreSQL Node.js.md": "LiMail",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Roadmap.md": "LiRoad",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes": "LiNotepadText",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/WebSockets.md": "LiLinksGoingOut",
+  "Programming notes/Assembly/Notes/Processor/GPU & memory.md": "LiGpu"
 }

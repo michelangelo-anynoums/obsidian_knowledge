@@ -183,7 +183,7 @@ _Build APIs that are predictable, consistent, and easy for other developers to c
 
 ---
 
-## 🗄️ 07 — Databases & Data Modeling
+## 🗄️ 07 — Databases & Data Modeling [[Databases & Data Modeling]]
 
 _An API becomes useful when it can persist and retrieve data reliably._
 

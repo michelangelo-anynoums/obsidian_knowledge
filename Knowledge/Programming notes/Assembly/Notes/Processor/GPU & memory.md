@@ -121,3 +121,66 @@ Example: You launch a 3D game 🎮
 - **FPS:** Measures frame production per second.
 
 > [!quote] 💡 Final takeaway The **CPU coordinates**, the **GPU computes**, the **VRAM supplies fast working space**, and the **monitor displays the result**.
+
+---
+
+![[Pasted image 20261030084032.png|599]]
+
+# 🎮 RTX Technology: Quick Guide
+
+## ⚡ What is RTX?
+
+> [!abstract] **RTX** (Ray Tracing Texel eXtreme) is a GPU technology by NVIDIA designed to bring real-time ray tracing, AI-powered graphics, and advanced simulation to games and creative apps.
+
+## 🌟 Core Features
+
+- **Ray Tracing**: Real-time simulation of light physics for hyper-realistic shadows, reflections, and refraction.
+    
+- **DLSS (Deep Learning Super Sampling)**: AI-driven upscaling that boosts frame rates while maintaining sharp image quality.
+    
+- **Tensor Cores**: Specialized hardware accelerating AI and machine learning tasks.
+    
+- **RT Cores**: Dedicated hardware speeding up ray-tracing calculations.
+    
+
+
+# Graphics APIs
+
+> [!abstract]  **graphics API** is a standardized set of functions (a contract) that your application calls to tell the GPU what to draw. 
+> The **driver** — not the API itself — translates those calls into hardware-specific commands for your particular GPU.
+
+```bash
+Your code  →  Graphics API  →  Driver  →  GPU hardware
+```
+
+> Cross-platform vs. proprietary rendering interfaces for GPU communication.
+
+> [!important] Are a cross-platform graphics API designed for ease of use and broad compatibility, making it ideal for beginners and legacy systems.
+
+## The Big Three
+
+| API | Level | Platform | Status |
+|-----|-------|----------|--------|
+| **OpenGL** | High-level | Cross-platform | Legacy / maintenance |
+| **Vulkan** | Low-level | Cross-platform | Modern standard |
+| **DirectX** | Mid-level | Windows / Xbox | Proprietary |
+
+## Key Differences
+
+- **OpenGL** — simple, permissive, but high driver overhead. Good for prototyping & legacy.
+- **Vulkan** — explicit memory management, multi-threaded, minimal CPU cost. Steep learning curve.
+- **DirectX (12)** — Windows-only, tuned for MS hardware, dominant in PC gaming.
+
+## Rule of Thumb
+
+Beginner / quick project → OpenGL  
+Performance-critical → Vulkan  
+Windows-only game → DirectX 12
+
+## 🚀 Quick Summary
+
+- **RT Cores** = Fast geometry & ray intersection.
+    
+- **Tensor Cores** = AI frame generation & denoising.
+    
+- **Result** = Cinematic lighting at playable frame rates! ✨

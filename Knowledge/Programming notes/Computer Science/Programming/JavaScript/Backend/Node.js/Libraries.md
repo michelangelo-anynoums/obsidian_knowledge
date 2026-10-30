@@ -13,7 +13,7 @@
 - 🔒 **crypto** — Hashing, encryption, and secure random values.
     - 🔗 Reference: [[crypto node.js]]
 - ⚙️ **process** — Access environment variables and process information.
-    - 🔗 Reference:
+    - 🔗 Reference: [[process]]
 - 🖥️ **os** — Get operating system information.
     - 🔗 Reference:
 - 📍 **url** — Parse and construct URLs.
@@ -40,6 +40,10 @@
     - 🔗 Reference:
 - 📂 **node:fs/promises** — Use promise-based filesystem operations.
     - 🔗 Reference:
+- ⚙️ **dotenv** — Not preinstalled library for environment management.
+    - 🔗 Reference:
+- 📡 **helmet** — Not preinstalled library for controlling traffic (rate limiting).
+    - 🔗 Reference:
 
 ## 💻 Import Examples
 
@@ -53,23 +57,6 @@ import { EventEmitter } from 'node:events'
 import { Readable } from 'node:stream'
 import { fileURLToPath } from 'node:url'
 ```
-
-## ⭐ Learning Priority
-
-1. 📁 `fs`
-2. 🧭 `path`
-3. ⚙️ `process`
-4. 📍 `url`
-5. 🌐 `http`
-6. 📦 `buffer`
-7. 🌊 `stream`
-8. 📡 `events`
-9. 🔒 `crypto`
-10. 🖥️ `os`
-
-> [!tip] 📚 Official documentation [https://nodejs.org/api/](https://nodejs.org/api/)
-> 
-> **Note:** These are built-in Node.js modules, not third-party npm packages. Some are namespaces with submodules, such as `node:fs/promises`.
 
 
 ---

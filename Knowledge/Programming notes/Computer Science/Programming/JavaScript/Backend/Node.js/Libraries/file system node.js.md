@@ -19,8 +19,6 @@ import fsPromises from 'node:fs/promises'
 
 ## 📖 2. Read a File
 
-js
-
 ```js
 import { readFile } from 'node:fs/promises'
 
@@ -33,7 +31,6 @@ console.log(data)
 
 Creates a file or replaces its existing content.
 
-js
 
 ```js
 import { writeFile } from 'node:fs/promises'

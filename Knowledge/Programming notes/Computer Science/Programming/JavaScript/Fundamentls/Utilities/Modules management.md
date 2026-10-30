@@ -114,3 +114,59 @@ console.log(math.PI);
 **Remember:** `export` makes something available; `import` brings it into another module.
 
 ---
+
+## Explained module.exports vs export
+
+> [!abstract]  module.exports vs export
+
+> [!important] One is a **property**. The other is a **keyword**. They don't mix.
+
+## CommonJS — `module.exports`
+
+````js
+// export
+module.exports = { foo, bar };
+
+// import
+const { foo } = require('./mod');
+````
+
+- Object you hand over. Replace it, mutate it, whatever.
+    
+- `exports` is just a live alias → reassigning it silently breaks.
+    
+- Node.js default. Synchronous.
+    
+
+## ES Modules — `export`
+
+```js
+// export
+export const foo = () => {};
+export default bar;
+
+// import
+import foo, { bar } from './mod.js';
+```
+
+- Static, hoisted, tree-shakeable.
+    
+- Named exports are **live bindings** (mutations visible to importers).
+    
+- Browsers + Node (`.mjs` / `"type": "module"`).
+    
+
+## TL;DR
+
+|              |                  |                    |
+| ------------ | ---------------- | ------------------ |
+|              | CommonJS         | ESM                |
+| Unit         | `module.exports` | `export`           |
+| Import       | `require()`      | `import`           |
+| Dynamic?     | ✅ yes            | `import()` only    |
+| Tree-shaking | ❌                | ✅                  |
+| Where        | Node (legacy)    | Everywhere, modern |
+
+_Pick ESM by default. CommonJS is the fallback for older Node deps._
+
+---
