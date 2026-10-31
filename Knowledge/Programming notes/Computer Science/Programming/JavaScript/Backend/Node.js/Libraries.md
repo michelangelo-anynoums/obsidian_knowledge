@@ -15,7 +15,7 @@
 - ⚙️ **process** — Access environment variables and process information.
     - 🔗 Reference: [[process]]
 - 🖥️ **os** — Get operating system information.
-    - 🔗 Reference:
+    - 🔗 Reference: [[os node.js]]
 - 📍 **url** — Parse and construct URLs.
     - 🔗 Reference:
 - 📡 **events** — Create and handle event-driven communication.
@@ -44,6 +44,10 @@
     - 🔗 Reference:
 - 📡 **helmet** — Not preinstalled library for controlling traffic (rate limiting).
     - 🔗 Reference:
+- 📁 **fileupload** — secure way to handle file uploads.
+    - 🔗 Reference:
+
+
 
 ## 💻 Import Examples
 

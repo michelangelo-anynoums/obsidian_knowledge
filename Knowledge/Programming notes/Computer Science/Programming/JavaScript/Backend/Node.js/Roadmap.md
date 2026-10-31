@@ -219,7 +219,7 @@ Start with PostgreSQL or another relational database.
 
 ---
 
-## 🔐 08 — Authentication & Security
+## 🔐 08 — Authentication & Security [[Authentication & Security]]
 
 _Security is a core backend skill, not an optional final step._
 

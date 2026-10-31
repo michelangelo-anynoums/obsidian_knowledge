@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8bf0283e2a43c229",
+        "id": "219746993547208d",
         "type": "tabs",
         "children": [
           {
-            "id": "178860b2d7ad0821",
+            "id": "7c93d5d469795a18",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming notes/Assembly/Notes/Processor/GPU & memory.md",
+                "file": "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,12 +222,22 @@
   },
   "active": "02b9f68937027fa0",
   "lastOpenFiles": [
-    "Programming notes/Assembly/Images/Pasted image 20261030084032.png",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/PM2 manager.md",
     "Prompt AI.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Roadmap.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Request & Response.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes",
+    "Programming notes/Computer Science/Linux/Ethnical hacking/MAC manipulation.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/os node.js.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Roadmap.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Notes/Authentication & Security.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/file system node.js.md",
+    "Programming notes/Computer Science/Networking/Networking basics.md",
+    "Programming notes/Computer Science/Programming/CSS/Images HTML.md",
+    "Programming notes/Assembly/Images/Pasted image 20261030084032.png",
     "Programming notes/Assembly/Notes/Processor/GPU & memory.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/WebSockets.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/file system node.js.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Roadmap.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Untitled.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/PostgreSQL Node.js.md",
@@ -235,10 +245,8 @@
     "Programming notes/Computer Science/Programming/NGINX.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/PM2 manager",
     "Programming notes/Computer Science/NGINX",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Introduction.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/process.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Roadmap.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Notes/Databases & Data Modeling.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Modules management.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Library management.md",
@@ -246,13 +254,8 @@
     "Programming notes/Computer Science/Programming/CSS/Embed PDF.md",
     "Programming notes/Computer Science/Programming/CSS/@property.md",
     "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/toString().md",
-    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Methods/Buffer.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/crypto node.js.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Notes/REST API Design & Validation.md",
     "Programming notes/Computer Science/Other/Images/imgupscaler-enhanced.jpg",
-    "Programming notes/Computer Science/Digitalizacion/Resume.md",
     "Programming notes/Computer Science/Digitalizacion/LibroDigitalización.pdf",
-    "Programming notes/Computer Science/Networking/Networking basics.md",
     "Programming notes/Computer Science/Other/Images/Pasted image 20261028084438.png",
     "Programming notes/Computer Science/Other/Images/Pasted image 20261028083447.png",
     "Programming notes/Computer Science/Other/Images/Pasted image 20261028083315.png",
@@ -260,14 +263,11 @@
     "Programming notes/Computer Science/Other/Images/Pasted image 20261028075943.png",
     "Programming notes/Computer Science/Other/Images/Pasted image 20261028075846.png",
     "Programming notes/Computer Science/Other/Images/Pasted image 20261028075629.png",
-    "Programming notes/Computer Science/Other/Images/Pasted image 20261028075609.png",
-    "Programming notes/Assembly/Utilities/Thermal paste.md",
     "Programming notes/Assembly/Presentations/UT1. Introducción a los Sistemas Informáticos.pdf",
     "Programming notes/Assembly/Presentations/UT2 - Práctica 1.pdf",
     "Programming notes/Assembly/Presentations/UT2. Componentes de un Sistema Informático (2).pdf",
     "Programming notes/Assembly/Presentations/B1T2_Actividades_Microprocesador.pdf",
     "Programming notes/Assembly/Presentations",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

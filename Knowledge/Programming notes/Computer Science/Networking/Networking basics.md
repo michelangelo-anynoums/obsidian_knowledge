@@ -4,6 +4,10 @@
 
 > [!abstract] 🎯 Goal Understand IP addresses, binary, subnet masks, NAT, and subnetting.
 
+> [!important] Networking basics reference: https://www.youtube.com/watch?v=255Pv3Z9gj4 
+
+> [!important] Networking basics 2 reference: https://www.youtube.com/watch?v=j7O6Uqy6ZJY
+
 ## 1. 📍 IP Addresses
 
 An **IP address** identifies a network interface so data can reach the correct device.
