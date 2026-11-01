@@ -17,7 +17,7 @@
 - 🖥️ **os** — Get operating system information.
     - 🔗 Reference: [[os node.js]]
 - 📍 **url** — Parse and construct URLs.
-    - 🔗 Reference:
+    - 🔗 Reference: [[url node.js]]
 - 📡 **events** — Create and handle event-driven communication.
     - 🔗 Reference:
 - 🌊 **stream** — Process data incrementally and efficiently.

@@ -258,7 +258,7 @@ _Security is a core backend skill, not an optional final step._
 
 ---
 
-## 🧪 09 — Testing & Code Quality
+## 🧪 09 — Testing & Code Quality [[Testing & Code Quality]]
 
 _Reliable backends need tests that cover both expected behavior and failure cases._
 

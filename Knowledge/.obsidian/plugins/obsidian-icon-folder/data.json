@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLink",
       "LiMap",
       "LiNotepadText",
       "LiAntenna",
-      "LiFileInput",
-      "FabHtml5"
+      "LiFileInput"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -223,5 +223,6 @@
   "Programming notes/Assembly/Notes/Processor/GPU & memory.md": "LiGpu",
   "Programming notes/Computer Science/Programming/CSS/Images HTML.md": "FabHtml5",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/os node.js.md": "LiFileInput",
-  "Programming notes/Computer Science/Programming/JavaScript/Backend/PM2 manager.md": "LiMap"
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/PM2 manager.md": "LiMap",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/url node.js.md": "LiLink"
 }
