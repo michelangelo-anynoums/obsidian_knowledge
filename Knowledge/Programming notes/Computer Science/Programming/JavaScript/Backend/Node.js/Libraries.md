@@ -19,7 +19,7 @@
 - 📍 **url** — Parse and construct URLs.
     - 🔗 Reference: [[url node.js]]
 - 📡 **events** — Create and handle event-driven communication.
-    - 🔗 Reference:
+    - 🔗 Reference: [[events node.js]]
 - 🌊 **stream** — Process data incrementally and efficiently.
     - 🔗 Reference:
 - 🧩 **util** — Useful utilities for debugging, promises, and more.

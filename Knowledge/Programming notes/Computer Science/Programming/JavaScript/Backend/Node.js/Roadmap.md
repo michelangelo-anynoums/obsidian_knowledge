@@ -289,7 +289,7 @@ _Reliable backends need tests that cover both expected behavior and failure case
 
 ---
 
-## 🏗️ 10 — Architecture & Maintainable Code
+## 🏗️ 10 — Architecture & Maintainable Code [[Architecture & Maintainable Code]]
 
 _As an application grows, the way you organize code becomes as important as the code itself._
 

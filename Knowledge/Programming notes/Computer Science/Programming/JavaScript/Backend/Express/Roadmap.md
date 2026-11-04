@@ -69,7 +69,7 @@ app.get("/users/:id", (req, res) => {
 });
 ```
 
-## 4. 🔄 Middleware
+## 4. 🔄 Middleware [[Middleware]]
 
 Functions executed during the request-response cycle.
 
