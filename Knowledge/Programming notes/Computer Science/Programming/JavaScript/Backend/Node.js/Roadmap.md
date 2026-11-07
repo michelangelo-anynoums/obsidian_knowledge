@@ -324,7 +324,7 @@ A useful starting point:
 
 ---
 
-## 📡 11 — Advanced Backend Engineering
+## 📡 11 — Advanced Backend Engineering [[Advanced Backend Engineering]]
 
 _These topics help you move from building functional APIs to operating robust systems._
 
@@ -463,53 +463,3 @@ Build notifications, chat, or live updates using WebSockets or Server-Sent Event
 
 ---
 
-## 📚 16 — Recommended Learning Order
-
-|Stage|Focus|Outcome|
-|---|---|---|
-|01|JavaScript|Write confident modern JavaScript|
-|02|Node.js basics|Build CLI tools and use core modules|
-|03|Async internals|Understand concurrency and performance|
-|04|HTTP|Understand requests, responses, and REST|
-|05|Express.js|Build and organize API routes|
-|06|Validation & API design|Create consistent, documented APIs|
-|07|PostgreSQL|Persist and model application data|
-|08|Security|Protect identities, resources, and inputs|
-|09|Testing|Verify behavior and prevent regressions|
-|10|Architecture|Separate business logic from infrastructure|
-|11|Advanced backend|Improve reliability, performance, and observability|
-|12|Deployment|Ship and operate production applications|
-|13|TypeScript|Improve type safety and maintainability|
-
----
-
-## 💎 Final Principles
-
-- Understand the fundamentals before adopting abstractions.
-- Prefer readable, explicit code over clever code.
-- Treat every external input as untrusted.
-- Never confuse authentication with authorization.
-- Use asynchronous APIs appropriately and avoid blocking the event loop.
-- Learn SQL even if you use an ORM.
-- Test failure paths, not only successful requests.
-- Keep business logic separate from HTTP and database details.
-- Measure performance before optimizing.
-- Read official documentation and build projects regularly.
-- Learn advanced architecture when your actual requirements justify it.
-
-### 📖 Official Documentation
-
-- [Node.js Documentation](https://nodejs.org/docs/latest/api/)
-- [Express.js Documentation](https://expressjs.com/)
-- [MDN — HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
-- [Docker Documentation](https://docs.docker.com/)
-- [OpenAPI Specification](https://spec.openapis.org/oas/latest.html)
-
----
-
-> [!quote] The Best Way to Learn Don't just watch tutorials. Learn a concept, build something with it, break it, debug it, test it, and explain how it works. Repeat until the knowledge becomes a skill.
-
-_Last reviewed: 2026-10-19_ _Tags: #roadmap #backend #nodejs #expressjs #javascript #webdevelopment #programming_

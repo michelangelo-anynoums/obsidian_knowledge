@@ -21,7 +21,7 @@
 - 📡 **events** — Create and handle event-driven communication.
     - 🔗 Reference: [[events node.js]]
 - 🌊 **stream** — Process data incrementally and efficiently.
-    - 🔗 Reference:
+    - 🔗 Reference: [[stream]]
 - 🧩 **util** — Useful utilities for debugging, promises, and more.
     - 🔗 Reference:
 - 📦 **buffer** — Handle binary data.

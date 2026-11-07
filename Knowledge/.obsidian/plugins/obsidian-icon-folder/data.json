@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiWaves",
+      "LiLaptop",
+      "LiInfo",
       "LiSettings",
-      "LiBuilding",
-      "LiWorkflow",
-      "LiLink",
-      "LiMap"
+      "LiBuilding"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -227,5 +227,8 @@
   "Programming notes/Computer Science/Database/Creación": "LiBuilding",
   "Programming notes/Computer Science/Database/Instalación Oracle.md": "LiSettings",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/events node.js.md": "LiWorkflow",
-  "Programming notes/Computer Science/NGINX/Setup.md": "LiSettings"
+  "Programming notes/Computer Science/NGINX/Setup.md": "LiSettings",
+  "Programming notes/Computer Science/NGINX/Installation.md": "LiInfo",
+  "Programming notes/Assembly/Notes/Software.md": "LiLaptop",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/stream.md": "LiWaves"
 }
