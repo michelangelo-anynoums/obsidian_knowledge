@@ -69,7 +69,7 @@ app.get("/users/:id", (req, res) => {
 });
 ```
 
-## 4. 🔄 Middleware
+## 4. 🔄 Middleware [[Middleware]]
 
 Functions executed during the request-response cycle.
 
@@ -91,7 +91,7 @@ Important middleware:
 - `express.static()` — Serve static files.
 - Custom middleware — Authentication, logging, etc.
 
-## 5. 📂 Routers
+## 5. 📂 Routers [[Routers]]
 
 Organize endpoints into separate files.
 
@@ -159,7 +159,7 @@ const port = process.env.PORT || 3000;
 
 Never commit `.env` to Git.
 
-## 8. 🗄️ Database Integration
+## 8. 🗄️ Database Integration [[Database Integration]]
 
 Connect Express to a database.
 
