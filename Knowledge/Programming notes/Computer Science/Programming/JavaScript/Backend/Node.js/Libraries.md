@@ -23,7 +23,7 @@
 - 🌊 **stream** — Process data incrementally and efficiently.
     - 🔗 Reference: [[stream]]
 - 🧩 **util** — Useful utilities for debugging, promises, and more.
-    - 🔗 Reference:
+    - 🔗 Reference: [[util node.js]]
 - 📦 **buffer** — Handle binary data.
     - 🔗 Reference:
 - ⏱️ **timers** — Schedule delayed and repeated callbacks.
@@ -43,6 +43,8 @@
 - ⚙️ **dotenv** — Not preinstalled library for environment management.
     - 🔗 Reference:
 - 📡 **helmet** — Not preinstalled library for controlling traffic (rate limiting).
+    - 🔗 Reference:
+- 🌐 **cors** — Not preinstalled library for controlling traffic.
     - 🔗 Reference:
 - 📁 **fileupload** — secure way to handle file uploads.
     - 🔗 Reference:

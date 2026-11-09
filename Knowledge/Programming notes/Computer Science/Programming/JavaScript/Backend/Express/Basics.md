@@ -159,7 +159,7 @@ const port = process.env.PORT || 3000;
 
 Never commit `.env` to Git.
 
-## 8. 🗄️ Database Integration
+## 8. 🗄️ Database Integration [[Database Integration]]
 
 Connect Express to a database.
 

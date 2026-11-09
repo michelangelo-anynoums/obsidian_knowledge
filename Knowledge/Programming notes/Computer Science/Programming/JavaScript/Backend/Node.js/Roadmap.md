@@ -363,7 +363,7 @@ _These topics help you move from building functional APIs to operating robust sy
 
 ---
 
-## ☁️ 12 — Deployment & DevOps
+## ☁️ 12 — Deployment & DevOps [[Deployment & DevOps]]
 
 _An application is not production-ready until it can be configured, deployed, monitored, and recovered safely._
 

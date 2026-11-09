@@ -53,13 +53,10 @@ Python is a ==high-level==, ==interpreted programming language== known for its s
 **beautifulsoup4** – Parse and extract data from HTML/XML.  [[bs4 library]]
 **paramiko** – SSH connections and remote command execution.  
 **pynput** – Monitor or control keyboard and mouse. [[pynput library]]
-**telebot** – Create Telegram bots and automate messages.
 **psutil** - Process and System Utilities. Talk to your operating system. [[psutil library]]
 **rich** - is a Python library for rich text and formatting in the terminal. [[rich library]]
-**pytube** - is a Python library to work with YouTube services and download content. [[pytube library]]
 **qrcode** - The qrcode library is a simple and popular Python package for generating QR codes. [[qrcode library]]
 **calendar** - this powerful module shows a full calendar in a console. [[calendar_library]]
-**Flask** – is a lightweight micro-framework for web development in Python. [[Programming notes/Computer Science/Programming/Python/Flask/Introduction|Introduction]]
 **dotenv** - Python module for creating environment variables. [[dotenv library]]
 
 ---

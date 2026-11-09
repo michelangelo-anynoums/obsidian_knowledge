@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiToolbox",
+      "LiBrickWall",
+      "LiLibrary",
       "LiWaves",
-      "LiLaptop",
-      "LiInfo",
-      "LiSettings",
-      "LiBuilding"
+      "LiLaptop"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -215,7 +215,6 @@
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Setup.md": "LiColumnsSettings",
   "Programming notes/Computer Science/NGINX": "LiServer",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/PostgreSQL Node.js.md": "LiMail",
-  "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Roadmap.md": "LiRoad",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes": "LiNotepadText",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/WebSockets.md": "LiLinksGoingOut",
   "Programming notes/Assembly/Notes/Processor/GPU & memory.md": "LiGpu",
@@ -230,5 +229,9 @@
   "Programming notes/Computer Science/NGINX/Setup.md": "LiSettings",
   "Programming notes/Computer Science/NGINX/Installation.md": "LiInfo",
   "Programming notes/Assembly/Notes/Software.md": "LiLaptop",
-  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/stream.md": "LiWaves"
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/stream.md": "LiWaves",
+  "Programming notes/Computer Science/Programming/Python/Libraries": "LiLibrary",
+  "Programming notes/Computer Science/Programming/Python/OOP": "LiBrickWall",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/util node.js.md": "LiToolbox",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md": "LiRoad"
 }

@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "224489ad460a541f",
+    "id": "b4b2fb6682ab8591",
     "type": "split",
     "children": [
       {
-        "id": "edec0eee25321723",
+        "id": "68d135373582cced",
         "type": "tabs",
         "children": [
           {
-            "id": "d9709f84be11911c",
+            "id": "9e6ecb369b23b41e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Roadmap.md",
-                "mode": "preview",
+                "file": "Programming notes/Computer Science/Digitalizacion/Resume.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "Resume"
             }
           }
         ]
@@ -27,16 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "95796b5105496e4e",
+    "id": "3d4fc32342b55b45",
     "type": "split",
     "children": [
       {
-        "id": "8d6323bc50cdcc4d",
+        "id": "d4eab9e98de12be6",
         "type": "tabs",
-        "dimension": 71.81818181818181,
         "children": [
           {
-            "id": "02b9f68937027fa0",
+            "id": "fe2a873633430eac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,12 +50,12 @@
             }
           },
           {
-            "id": "99728836a6a7f060",
+            "id": "ac9afda4c2c16c72",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#️⃣",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +67,7 @@
             }
           },
           {
-            "id": "fbe4b571c22ff6f3",
+            "id": "0da0631cb4d218f7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,44 +80,26 @@
             }
           }
         ]
-      },
-      {
-        "id": "61510ee69869674c",
-        "type": "tabs",
-        "dimension": 28.18181818181818,
-        "children": [
-          {
-            "id": "f4b7458aedfe5c8e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.5004348754883
+    "width": 300
   },
   "right": {
-    "id": "620444b996bf9adb",
+    "id": "25b5073ccb6cb271",
     "type": "split",
     "children": [
       {
-        "id": "3fab00f26dcf6c30",
+        "id": "bdef1e0b450ba7b3",
         "type": "tabs",
-        "dimension": 57.49385749385748,
         "children": [
           {
-            "id": "729ac1a70f2fdc72",
+            "id": "ae73e702a90356ee",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming notes/Assembly/Notes/Memory.md",
+                "file": "Programming notes/Computer Science/Digitalizacion/Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,12 +113,12 @@
             }
           },
           {
-            "id": "c9aa215080276129",
+            "id": "f9360bfe7f17386e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming notes/Assembly/Notes/Memory.md",
+                "file": "Programming notes/Computer Science/Digitalizacion/Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -146,7 +127,7 @@
             }
           },
           {
-            "id": "162b26a4a445b9e2",
+            "id": "6f45831ca39839d6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,7 +142,7 @@
             }
           },
           {
-            "id": "e305f63e8be3405d",
+            "id": "7c3dc907d1f7be75",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -175,12 +156,12 @@
             }
           },
           {
-            "id": "a0c054a6e2bd8e41",
+            "id": "786db4326b3e81ff",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Roadmap.md",
+                "file": "Programming notes/Computer Science/Digitalizacion/Resume.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,17 +169,9 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "14fd8e4e8d4fd33a",
-        "type": "tabs",
-        "dimension": 42.50614250614252,
-        "children": [
+          },
           {
-            "id": "ba48074ab3a91e85",
+            "id": "acee626db66774af",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -211,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.3101806640625
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,55 +198,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "d9709f84be11911c",
-  "lastOpenFiles": [
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Intersection Observer.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Routers.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Roadmap.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/stream.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Roadmap.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Notes/Advanced Backend Engineering.md",
-    "Programming notes/Assembly/Utilities/Softwares.md",
-    "Programming notes/Assembly/Notes/Software.md",
-    "Programming notes/Computer Science/NGINX/Installation.md",
-    "Programming notes/Computer Science/NGINX/Setup.md",
-    "Programming notes/Computer Science/Other/Images/Pasted image 20261107071958.png",
-    "Prompt AI.md",
-    "Programming notes/Computer Science/Database/Creación/Apuntes_RA2_Creacion_BD.pdf",
-    "Programming notes/Computer Science/Database/Instalación Oracle.md",
-    "Programming notes/Computer Science/Database/Creación/SQL notes",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Middleware.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/events node.js.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Notes/Architecture & Maintainable Code.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/PM2 manager.md",
-    "Programming notes/Computer Science/Programming/Java/Utilities/Logger.md",
-    "Programming notes/Assembly/Presentations/UT2. Componentes de un Sistema Informático (2).pdf",
-    "Programming notes/Computer Science/Database/Creación",
-    "Programming notes/Assembly/Presentations/UT1. Introducción a los Sistemas Informáticos.pdf",
-    "Programming notes/Assembly/Presentations/Practice/B1T2_Actividades_Microprocesador.pdf",
-    "Programming notes/Assembly/Presentations/Practice",
-    "Programming notes/Assembly/Presentations/Practice/UT2 - Práctica 1.pdf",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Notes/Testing & Code Quality.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/url node.js.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/ROADMAP.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Build & Deploy.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Setup.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/useRef.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Custom Hooks.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Request & Response.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes",
-    "Programming notes/Assembly/Images/Pasted image 20261030084032.png",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes",
-    "Programming notes/Computer Science/Programming/Images/Pasted image 20261030071731.png",
-    "Programming notes/Computer Science/Other/Images/imgupscaler-enhanced.jpg",
-    "Programming notes/Computer Science/Other/Images/Pasted image 20261028084438.png",
-    "Programming notes/Computer Science/Other/Images/Pasted image 20261028083447.png",
-    "Programming notes/Computer Science/Other/Images/Pasted image 20261028083315.png",
-    "Programming notes/Computer Science/Other/Images/Pasted image 20261028082816.png",
-    "Programming notes/Computer Science/Other/Images/Pasted image 20261028075943.png",
-    "Programming notes/Computer Science/Other/Images/Pasted image 20261028075846.png",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
-  ]
+  "active": "9e6ecb369b23b41e",
+  "lastOpenFiles": []
 }
