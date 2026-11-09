@@ -8,6 +8,7 @@
 
 > [!important] Networking basics 2 reference: https://www.youtube.com/watch?v=j7O6Uqy6ZJY
 
+> [!important] VoIP explanation: [watch video](https://www.youtube.com/watch?v=Z4EuDqQ-8kU)
 ## 1. 📍 IP Addresses
 
 An **IP address** identifies a network interface so data can reach the correct device.
