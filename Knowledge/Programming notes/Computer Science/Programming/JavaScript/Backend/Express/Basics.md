@@ -179,7 +179,7 @@ Example CRUD operations:
 // Delete
 ```
 
-## 9. 🔑 Authentication & Authorization
+## 9. 🔑 Authentication & Authorization [[Authentication & Authorization]]
 
 Protect routes and manage users.
 

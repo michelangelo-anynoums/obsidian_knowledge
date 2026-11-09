@@ -390,7 +390,7 @@ A production service should validate its configuration at startup, use HTTPS, en
 
 ---
 
-## 🧠 13 — TypeScript for Node.js
+## 🧠 13 — TypeScript for Node.js [[TypeScript for Node.js]]
 
 _Once you are comfortable with JavaScript and Express, TypeScript helps you build larger codebases with stronger tooling and clearer contracts._
 

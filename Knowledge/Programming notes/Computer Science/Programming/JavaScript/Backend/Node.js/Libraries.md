@@ -25,7 +25,7 @@
 - 🧩 **util** — Useful utilities for debugging, promises, and more.
     - 🔗 Reference: [[util node.js]]
 - 📦 **buffer** — Handle binary data.
-    - 🔗 Reference:
+    - 🔗 Reference: [[buffer node.js]]
 - ⏱️ **timers** — Schedule delayed and repeated callbacks.
     - 🔗 Reference:
 - 🧵 **worker_threads** — Run JavaScript in parallel threads.
