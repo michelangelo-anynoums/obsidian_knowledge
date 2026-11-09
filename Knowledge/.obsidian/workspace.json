@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "66642ee5f094c03a",
+        "id": "213c23b8a4c4b640",
         "type": "tabs",
         "children": [
           {
-            "id": "489c6e450c3e5938",
+            "id": "fd45a1d16017b86f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md",
-                "mode": "preview",
+                "file": "Programming notes/Computer Science/Digitalizacion/Resume.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basics"
+              "title": "Resume"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md",
+                "file": "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md",
+                "file": "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md",
+                "file": "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Setup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,10 +198,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "f37f89b78eb1016c",
+  "active": "fd45a1d16017b86f",
   "lastOpenFiles": [
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Database Integration.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Setup.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Build & Deploy.md",
+    "Programming notes/Computer Science/Digitalizacion/LibroDigitalización.pdf",
+    "Programming notes/Computer Science/Digitalizacion/Resume.md",
+    "Programming notes/Computer Science/Networking/Networking basics.md",
+    "Programming notes/Computer Science/Linux/Ethnical hacking/Windows hacking/arp util.md",
+    "Programming notes/Computer Science/Linux/Ethnical hacking/Windows hacking/net command.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Database Integration.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/util node.js.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Notes/Deployment & DevOps.md",
