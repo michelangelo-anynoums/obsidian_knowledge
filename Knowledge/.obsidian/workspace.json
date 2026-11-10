@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "60ea56e283d99eb3",
+        "id": "e3e683b263f123fa",
         "type": "tabs",
         "children": [
           {
-            "id": "ed477f658f42300f",
+            "id": "cd4c3d2c6a2f0ff1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Computer Science/Programming/CSS/Images HTML.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Images HTML"
+              "title": "New tab"
             }
           }
         ]
@@ -161,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming notes/Computer Science/Programming/CSS/Images HTML.md",
+                "file": "Programming notes/Computer Science/Database/Creación/SQL notes/Users, Tables, Types.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,16 +194,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "ed477f658f42300f",
+  "active": "16649cc9d02aa904",
   "lastOpenFiles": [
-    "Programming notes/Computer Science/Programming/CSS/Grid.md",
     "Prompt AI.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Authentication & Authorization.md",
+    "Programming notes/Computer Science/Database/Creación/SQL notes/Users, Tables, Types.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Middleware.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/buffer node.js.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Security & CORS.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/timers node.js.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Notes/TypeScript for Node.js.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Roadmap.md",
+    "Programming notes/Computer Science/Programming/CSS/Images HTML.md",
+    "Programming notes/Computer Science/Programming/CSS/Grid.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Authentication & Authorization.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/buffer node.js.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Notes/TypeScript for Node.js.md",
     "Programming notes/Computer Science/Digitalizacion/Resume.md"
   ]
 }

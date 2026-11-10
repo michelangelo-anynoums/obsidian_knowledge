@@ -27,7 +27,7 @@
 - 📦 **buffer** — Handle binary data.
     - 🔗 Reference: [[buffer node.js]]
 - ⏱️ **timers** — Schedule delayed and repeated callbacks.
-    - 🔗 Reference:
+    - 🔗 Reference: [[timers node.js]]
 - 🧵 **worker_threads** — Run JavaScript in parallel threads.
     - 🔗 Reference:
 - 🧒 **child_process** — Launch external processes and commands.

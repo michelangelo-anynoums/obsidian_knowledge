@@ -225,3 +225,57 @@ app.use() → Register global middleware
 **Middleware is the pipeline between receiving a request and sending a response.**
 
 ---
+
+# 🧩 Essential Express.js Middlewares
+
+Useful middlewares for almost every Node.js / Express API.
+
+|Middleware|Purpose|
+|---|---|
+|`express.json()`|Parse incoming JSON requests.|
+|`express.urlencoded()`|Parse form data.|
+|`cors`|Control cross-origin requests.|
+|`helmet`|Secure HTTP headers.|
+|`express-rate-limit`|Limit incoming requests.|
+|`morgan`|Log HTTP requests.|
+|`cookie-parser`|Parse cookies.|
+|`compression`|Compress HTTP responses.|
+
+## 📦 Install
+
+```bash
+npm install cors helmet express-rate-limit morgan cookie-parser compression
+```
+
+## ⚡ Basic Setup
+
+
+```js
+const express = require("express");
+const cors = require("cors");
+const helmet = require("helmet");
+const rateLimit = require("express-rate-limit");
+const morgan = require("morgan");
+const cookieParser = require("cookie-parser");
+const compression = require("compression");
+
+const app = express();
+
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+app.use(cors());
+app.use(helmet());
+app.use(rateLimit({
+  windowMs: 15 * 60 * 1000,
+  limit: 100
+}));
+
+app.use(morgan("dev"));
+app.use(cookieParser());
+app.use(compression());
+```
+
+💡 **Remember:** Middleware executes in the order it is registered. Configure CORS origins, rate limits, and proxy settings appropriately for production.
+
+---

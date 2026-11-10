@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTimer",
       "LiToolbox",
       "LiBrickWall",
       "LiLibrary",
-      "LiWaves",
-      "LiLaptop"
+      "LiWaves"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -233,5 +233,6 @@
   "Programming notes/Computer Science/Programming/Python/Libraries": "LiLibrary",
   "Programming notes/Computer Science/Programming/Python/OOP": "LiBrickWall",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/util node.js.md": "LiToolbox",
-  "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md": "LiRoad"
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md": "LiRoad",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/timers node.js.md": "LiTimer"
 }

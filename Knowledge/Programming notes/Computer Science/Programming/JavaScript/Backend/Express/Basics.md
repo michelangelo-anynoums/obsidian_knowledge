@@ -229,7 +229,7 @@ Common status codes:
 |404|Not Found|
 |500|Server Error|
 
-## 11. 🛡️ Security & CORS
+## 11. 🛡️ Security & CORS [[Security & CORS]]
 
 Protect your server and API.
 
