@@ -269,7 +269,7 @@ Useful tools:
 npm run dev
 ```
 
-## 13. 🚀 Deployment
+## 13. 🚀 Deployment [[Deployment]]
 
 Make your server available online.
 
