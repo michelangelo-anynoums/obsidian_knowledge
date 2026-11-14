@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "292bb998992d9e68",
+        "id": "b748e8a0f5935b14",
         "type": "tabs",
         "children": [
           {
-            "id": "9987e1b0f9c1487b",
+            "id": "9a0e8219228d180d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Computer Science/Programming/Java/Methods/Arrays methods.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Arrays methods"
             }
           }
         ]
@@ -157,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/os node.js.md",
+                "file": "Programming notes/Computer Science/Programming/Java/Methods/Arrays methods.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,13 +198,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "16649cc9d02aa904",
+  "active": "9a0e8219228d180d",
   "lastOpenFiles": [
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/file system node.js.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/worker_threads node.js.md",
-    "Prompt AI.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md",
+    "Programming notes/Computer Science/Programming/Java/Methods/Arrays methods.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/child_process node.js.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries.md",
+    "Prompt AI.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/file system node.js.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/path node.js.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Canvas.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Error handling.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/worker_threads node.js.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Deployment.md",
     "Programming notes/Computer Science/Programming/Python/Libraries/os library.md",
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Intersection Observer.md",

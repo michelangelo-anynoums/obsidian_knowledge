@@ -31,7 +31,7 @@
 - 🧵 **worker_threads** — Run JavaScript in parallel threads.
     - 🔗 Reference: [[worker_threads node.js]]
 - 🧒 **child_process** — Launch external processes and commands.
-    - 🔗 Reference:
+    - 🔗 Reference: [[child_process node.js]]
 - 🗂️ **readline** — Read input line by line, including terminal input.
     - 🔗 Reference:
 - 🧪 **assert** — Check conditions in tests and debugging.
@@ -64,6 +64,8 @@
 - 🔐 **bcrypt** — Securely hashes passwords before storing them in the database and verifies passwords during login.
     - 🔗 Reference: 
 - ✅ **zod** — Validates and checks incoming data, such as request bodies, parameters, and query strings.
+    - 🔗 Reference:
+- 🏁 **Mutex** — Prevents **race conditions** by acting as a **synchronization mechanism.**
     - 🔗 Reference:
 
 ---
