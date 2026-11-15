@@ -33,7 +33,7 @@
 - 🧒 **child_process** — Launch external processes and commands.
     - 🔗 Reference: [[child_process node.js]]
 - 🗂️ **readline** — Read input line by line, including terminal input.
-    - 🔗 Reference:
+    - 🔗 Reference: [[readline node.js]]
 - 🧪 **assert** — Check conditions in tests and debugging.
     - 🔗 Reference:
 - 🧰 **module** — Understand and work with Node.js modules.
