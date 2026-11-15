@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiTimer",
-      "LiToolbox",
-      "LiBrickWall",
-      "LiLibrary",
-      "LiWaves"
+      "LiWorkflow",
+      "👨‍⚕️",
+      "LiTrees",
+      "🧒",
+      "LiBinary"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -153,7 +153,7 @@
   "Programming notes/Computer Science/Linux/Ethnical hacking/Wi-Fi hacking/Cybersecurity hands-on course.md": "LiCheckSmall",
   "General notes/Astronomy/Space and galaxies.md": "LiStar",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/JSON class.md": "LiFileJson",
-  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Error handling.md": "⚠",
+  "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Error handling.md": "LiBan",
   "Programming notes/Computer Science/Programming/Git/Basics": "LiInfo",
   "Programming notes/Computer Science/Programming/Python/Python Introduction.md": "LiInfo",
   "Programming notes/Computer Science/Programming/JavaScript/Backend": "LiSkipBack",
@@ -234,5 +234,8 @@
   "Programming notes/Computer Science/Programming/Python/OOP": "LiBrickWall",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/util node.js.md": "LiToolbox",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md": "LiRoad",
-  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/timers node.js.md": "LiTimer"
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/timers node.js.md": "LiTimer",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/buffer node.js.md": "LiBinary",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/child_process node.js.md": "LiTrees",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/worker_threads node.js.md": "LiWorkflow"
 }

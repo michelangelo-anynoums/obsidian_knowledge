@@ -80,29 +80,14 @@ Control how and when images are loaded.
 >
 ```
 
-### 🔒 What about encryption?
-
-HTML has **no** **encryption** **image attribute**.
-
-- HTTPS encrypts image data during transmission.
-- Encrypted storage protects image files at rest.
-- `crossorigin` is not encryption.
-- `referrerpolicy` controls privacy, not encryption.
-
-```html
-<img src="https://example.com/secure-image.jpg" alt="Secure image">
-```
-
-HTTPS protects the connection, not necessarily the image file itself.
-
 ## 4. 🎯 Other useful attributes
 
-|Attribute|Purpose|
-|---|---|
-|`usemap`|Connects an image to a clickable image map.|
-|`ismap`|Makes an image a server-side image map.|
-|`sizes`|Defines image display sizes for responsive loading.|
-|`srcset`|Provides multiple image resolutions.|
+| Attribute | Purpose                                             |
+| --------- | --------------------------------------------------- |
+| `usemap`  | Connects an image to a clickable image map.         |
+| `ismap`   | Makes an image a server-side image map.             |
+| `sizes`   | Defines image display sizes for responsive loading. |
+| `srcset`  | Provides multiple image resolutions.                |
 
 **Responsive image example:**
 
