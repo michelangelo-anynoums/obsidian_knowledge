@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImages",
+      "LiToolbox",
+      "LiTestTube",
       "LiFile",
-      "LiUpload",
-      "LiWorkflow",
-      "👨‍⚕️",
-      "LiTrees"
+      "LiUpload"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -239,5 +239,8 @@
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/child_process node.js.md": "LiTrees",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/worker_threads node.js.md": "LiWorkflow",
   "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Deployement.md": "LiUpload",
-  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/readline node.js.md": "LiFile"
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/readline node.js.md": "LiFile",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/assert node.js.md": "LiTestTube",
+  "Programming notes/Computer Science/Linux/Tools": "LiToolbox",
+  "Programming notes/Computer Science/Linux/Tools/ImageMagick.md": "LiImages"
 }

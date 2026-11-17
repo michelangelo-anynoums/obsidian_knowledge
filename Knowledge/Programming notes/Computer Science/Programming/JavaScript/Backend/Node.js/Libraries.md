@@ -35,7 +35,7 @@
 - 🗂️ **readline** — Read input line by line, including terminal input.
     - 🔗 Reference: [[readline node.js]]
 - 🧪 **assert** — Check conditions in tests and debugging.
-    - 🔗 Reference:
+    - 🔗 Reference: [[assert node.js]]
 - 🧰 **module** — Understand and work with Node.js modules.
     - 🔗 Reference:
 - 📂 **node:fs/promises** — Use promise-based filesystem operations.

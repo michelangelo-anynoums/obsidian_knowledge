@@ -171,3 +171,42 @@ Your server only needs to be running Tor and the local web server. You don't hav
 - 🔗 `HiddenServicePort` connects the onion service to your local web server
 
 ---
+
+# 🌉 The 3 Default Tor Bridges
+
+> [!abstract] Tor Bridges are special Tor relays that help people connect to the Tor network when access to Tor is blocked or restricted.
+
+There are **3 main default Tor bridge types:**
+
+### 1. 🌐 obfs4
+
+- Makes Tor traffic look random rather than recognisable as Tor traffic.
+- Helps bypass internet censorship.
+- One of the most commonly used bridge types.
+
+### 2. 🐢 meek-azure
+
+- Uses Microsoft's Azure cloud infrastructure to disguise Tor connections.
+- Makes connections look like ordinary visits to a cloud service.
+- Can be slower than other bridges.
+
+### 3. 🚀 Snowflake
+
+- Uses temporary volunteer proxies to help users connect to Tor.
+- Makes Tor traffic harder to identify and block.
+- Uses WebRTC technology.
+
+---
+
+### 🔐 Quick Summary
+
+|Bridge|Main purpose|
+|---|---|
+|🌐 obfs4|Hides Tor traffic patterns|
+|🐢 meek-azure|Disguises connections through cloud services|
+|🚀 Snowflake|Uses volunteer proxies|
+
+> [!warning] 💡  **Remember:** Bridges help you access Tor when it is blocked. They provide an additional way to connect, but they do not guarantee complete anonymity or protection.
+
+---
+
