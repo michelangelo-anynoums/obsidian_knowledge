@@ -37,7 +37,7 @@
 - 🧪 **assert** — Check conditions in tests and debugging.
     - 🔗 Reference: [[assert node.js]]
 - 🧰 **module** — Understand and work with Node.js modules.
-    - 🔗 Reference:
+    - 🔗 Reference: [[module node.js]]
 - 📂 **node:fs/promises** — Use promise-based filesystem operations.
     - 🔗 Reference:
 

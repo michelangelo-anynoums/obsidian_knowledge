@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiImages",
-      "LiToolbox",
-      "LiTestTube",
-      "LiFile",
-      "LiUpload"
+      "LiBox",
+      "LiKeySquare",
+      "LiSettings",
+      "LiBrickWallFire",
+      "LiGoal"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -213,7 +213,6 @@
   "Programming notes/Computer Science/Programming/CSS/Embed PDF.md": "LiNewspaper",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/process.md": "LiSettings",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Setup.md": "LiColumnsSettings",
-  "Programming notes/Computer Science/NGINX": "LiServer",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/PostgreSQL Node.js.md": "LiMail",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes": "LiNotepadText",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/WebSockets.md": "LiLinksGoingOut",
@@ -226,8 +225,6 @@
   "Programming notes/Computer Science/Database/Creación": "LiBuilding",
   "Programming notes/Computer Science/Database/Instalación Oracle.md": "LiSettings",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/events node.js.md": "LiWorkflow",
-  "Programming notes/Computer Science/NGINX/Setup.md": "LiSettings",
-  "Programming notes/Computer Science/NGINX/Installation.md": "LiInfo",
   "Programming notes/Assembly/Notes/Software.md": "LiLaptop",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/stream.md": "LiWaves",
   "Programming notes/Computer Science/Programming/Python/Libraries": "LiLibrary",
@@ -242,5 +239,13 @@
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/readline node.js.md": "LiFile",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/assert node.js.md": "LiTestTube",
   "Programming notes/Computer Science/Linux/Tools": "LiToolbox",
-  "Programming notes/Computer Science/Linux/Tools/ImageMagick.md": "LiImages"
+  "Programming notes/Computer Science/Linux/Tools/ImageMagick.md": "LiImages",
+  "Programming notes/Computer Science/Networking/NGINX": "LiServer",
+  "Programming notes/Computer Science/Networking/NGINX/Installation.md": "LiInfo",
+  "Programming notes/Computer Science/Networking/NGINX/Setup.md": "LiSettings",
+  "Programming notes/Computer Science/Networking/NGINX/Forward proxy.md": "LiGoal",
+  "Programming notes/Computer Science/Networking/WireGuard": "LiBrickWallFire",
+  "Programming notes/Computer Science/Networking/WireGuard/Setup.md": "LiSettings",
+  "Programming notes/Computer Science/Networking/Let's Encrypt.md": "LiKeySquare",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/module node.js.md": "LiBox"
 }
