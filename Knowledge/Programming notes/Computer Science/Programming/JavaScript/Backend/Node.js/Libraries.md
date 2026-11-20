@@ -35,9 +35,9 @@
 - 🗂️ **readline** — Read input line by line, including terminal input.
     - 🔗 Reference: [[readline node.js]]
 - 🧪 **assert** — Check conditions in tests and debugging.
-    - 🔗 Reference:
+    - 🔗 Reference: [[assert node.js]]
 - 🧰 **module** — Understand and work with Node.js modules.
-    - 🔗 Reference:
+    - 🔗 Reference: [[module node.js]]
 - 📂 **node:fs/promises** — Use promise-based filesystem operations.
     - 🔗 Reference:
 
@@ -46,7 +46,7 @@
 ## ⚡ Essential Node.js Libraries
 
 - ⚙️ **dotenv** — Loads environment variables from `.env` files to manage configuration, credentials, and API keys.
-    - 🔗 Reference: 
+    - 🔗 Reference: [[dotenv node.js]]
 - 🛡️ **helmet** — Adds security HTTP headers to protect your backend against common web vulnerabilities.
     - 🔗 Reference: 
 - 📡 **express-rate-limit** — Limits incoming requests to prevent brute-force attacks and API abuse.
