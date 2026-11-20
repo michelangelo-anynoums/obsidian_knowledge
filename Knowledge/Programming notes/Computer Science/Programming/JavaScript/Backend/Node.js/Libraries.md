@@ -46,7 +46,7 @@
 ## ⚡ Essential Node.js Libraries
 
 - ⚙️ **dotenv** — Loads environment variables from `.env` files to manage configuration, credentials, and API keys.
-    - 🔗 Reference: 
+    - 🔗 Reference: [[dotenv node.js]]
 - 🛡️ **helmet** — Adds security HTTP headers to protect your backend against common web vulnerabilities.
     - 🔗 Reference: 
 - 📡 **express-rate-limit** — Limits incoming requests to prevent brute-force attacks and API abuse.

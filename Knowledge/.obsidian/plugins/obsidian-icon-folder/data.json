@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiOpenVault",
       "LiBox",
       "LiKeySquare",
       "LiSettings",
-      "LiBrickWallFire",
-      "LiGoal"
+      "LiBrickWallFire"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -247,5 +247,6 @@
   "Programming notes/Computer Science/Networking/WireGuard": "LiBrickWallFire",
   "Programming notes/Computer Science/Networking/WireGuard/Setup.md": "LiSettings",
   "Programming notes/Computer Science/Networking/Let's Encrypt.md": "LiKeySquare",
-  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/module node.js.md": "LiBox"
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/module node.js.md": "LiBox",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/dotenv node.js.md": "LiOpenVault"
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d8cffbd25f4b0e8",
+        "id": "a1a3880ec346bd91",
         "type": "tabs",
         "children": [
           {
-            "id": "9225a44e3fff38f6",
+            "id": "1c9b5feb7d3f96be",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/module node.js.md",
+                "file": "Programming notes/Assembly/Notes/Memory/Storage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,11 +196,13 @@
   },
   "active": "16649cc9d02aa904",
   "lastOpenFiles": [
+    "Programming notes/Assembly/Notes/Memory/Memory.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/dotenv node.js.md",
+    "Prompt AI.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/module node.js.md",
     "Programming notes/Computer Science/Networking/Let's Encrypt.md",
     "Programming notes/Computer Science/Networking/WireGuard/Setup.md",
-    "Prompt AI.md",
     "Programming notes/Computer Science/Networking/NGINX/Forward proxy.md",
     "Programming notes/Computer Science/Other/Images/Pasted image 20261118072036.png",
     "Programming notes/Computer Science/Networking/WireGuard",
@@ -223,8 +225,6 @@
     "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Build & Deploy.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/worker_threads node.js.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/child_process node.js.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Deployment.md",
-    "Programming notes/Computer Science/Programming/Java/Methods/Arrays methods.md"
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/child_process node.js.md"
   ]
 }
