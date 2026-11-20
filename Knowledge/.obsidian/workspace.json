@@ -1,40 +1,24 @@
 {
   "main": {
-    "id": "2eb6cc909d98af54",
+    "id": "e7bbc7b0892d7ec4",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "9c19f90d5cffd0d3",
+        "id": "edf95d3129db9f13",
         "type": "tabs",
         "children": [
           {
-            "id": "895871fb92e280d3",
-=======
-        "id": "e3e683b263f123fa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cd4c3d2c6a2f0ff1",
->>>>>>> 1b8f0e01123da1ffc50362dab07756f296072aed
+            "id": "343c3a03a8f71e78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Build & Deploy.md",
-=======
-                "file": "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/readline node.js.md",
->>>>>>> 1b8f0e01123da1ffc50362dab07756f296072aed
-                "mode": "preview",
+                "file": "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Deployement.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Build & Deploy"
-=======
-              "title": "readline node.js"
->>>>>>> 1b8f0e01123da1ffc50362dab07756f296072aed
+              "title": "Deployement"
             }
           }
         ]
@@ -43,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7d1fc16dcdad5216",
+    "id": "a26b22da3342c637",
     "type": "split",
     "children": [
       {
-        "id": "9c98ef0f1e4194dd",
+        "id": "0108f9c3e3f4f97f",
         "type": "tabs",
         "children": [
           {
-            "id": "16649cc9d02aa904",
+            "id": "b1650b4b885e7a1a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,7 +50,7 @@
             }
           },
           {
-            "id": "aff36363eeb5df69",
+            "id": "4a4e4da1575535b8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +67,7 @@
             }
           },
           {
-            "id": "40dbe7f7cca4c5e1",
+            "id": "78a032c99423827e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -102,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "39097acdad74a63f",
+    "id": "2eb38f9e16137b91",
     "type": "split",
     "children": [
       {
-        "id": "ddf4796a3f85a21c",
+        "id": "6bbef0426bf2c596",
         "type": "tabs",
         "children": [
           {
-            "id": "3c7d6956753cb2c0",
+            "id": "d73e24eb06cd69e6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming notes/Computer Science/Programming/CSS/Images HTML.md",
+                "file": "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Deployement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,12 +113,12 @@
             }
           },
           {
-            "id": "d9cea5d24268d23c",
+            "id": "189c498ce68e8bee",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming notes/Computer Science/Programming/CSS/Images HTML.md",
+                "file": "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Deployement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -143,7 +127,7 @@
             }
           },
           {
-            "id": "b859220ad4a8d43f",
+            "id": "6997268df28fcb06",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -158,7 +142,7 @@
             }
           },
           {
-            "id": "2570e2cbc506a8c3",
+            "id": "9a730e8846bee28f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -172,16 +156,12 @@
             }
           },
           {
-            "id": "6ef065c9b8d9e249",
+            "id": "a6b7a296c0380b0c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Build & Deploy.md",
-=======
-                "file": "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/readline node.js.md",
->>>>>>> 1b8f0e01123da1ffc50362dab07756f296072aed
+                "file": "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Deployement.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,7 +171,7 @@
             }
           },
           {
-            "id": "1b360c1b144fa5f4",
+            "id": "a75fc68ce0af8a5c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -200,12 +180,12 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,43 +198,6 @@
       "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-  "active": "895871fb92e280d3",
-  "lastOpenFiles": [
-    "Programming notes/Computer Science/Programming/Python/Libraries/os library.md",
-    "Programming notes/Computer Science/Programming/Java/Methods/Arrays methods.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/child_process node.js.md",
-=======
-  "active": "cd4c3d2c6a2f0ff1",
-  "lastOpenFiles": [
->>>>>>> 1b8f0e01123da1ffc50362dab07756f296072aed
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/readline node.js.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Environment.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Deployement.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Build & Deploy.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md",
-    "Prompt AI.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/worker_threads node.js.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/child_process node.js.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Deployment.md",
-<<<<<<< HEAD
-    "Programming notes/Computer Science/Programming/JavaScript/Frontend/React/Notes/Intersection Observer.md",
-    "Programming notes/Computer Science/Programming/CSS/Images HTML.md",
-=======
-    "Programming notes/Computer Science/Programming/Java/Methods/Arrays methods.md",
->>>>>>> 1b8f0e01123da1ffc50362dab07756f296072aed
-    "Programming notes/Computer Science/Database/Creación/SQL notes/Users, Tables, Types.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Middleware.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Security & CORS.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/timers node.js.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Roadmap.md",
-    "Programming notes/Computer Science/Programming/CSS/Images HTML.md",
-    "Programming notes/Computer Science/Programming/CSS/Grid.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Authentication & Authorization.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/buffer node.js.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Notes/TypeScript for Node.js.md",
-    "Programming notes/Computer Science/Digitalizacion/Resume.md"
-  ]
+  "active": "343c3a03a8f71e78",
+  "lastOpenFiles": []
 }
