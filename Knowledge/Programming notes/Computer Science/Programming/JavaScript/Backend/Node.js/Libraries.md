@@ -38,8 +38,6 @@
     - 🔗 Reference: [[assert node.js]]
 - 🧰 **module** — Understand and work with Node.js modules.
     - 🔗 Reference: [[module node.js]]
-- 📂 **node:fs/promises** — Use promise-based filesystem operations.
-    - 🔗 Reference:
 
 ---
 
@@ -48,7 +46,7 @@
 - ⚙️ **dotenv** — Loads environment variables from `.env` files to manage configuration, credentials, and API keys.
     - 🔗 Reference: [[dotenv node.js]]
 - 🛡️ **helmet** — Adds security HTTP headers to protect your backend against common web vulnerabilities.
-    - 🔗 Reference: 
+    - 🔗 Reference: [[helmet node.js]]
 - 📡 **express-rate-limit** — Limits incoming requests to prevent brute-force attacks and API abuse.
     - 🔗 Reference: 
 - 🌐 **cors** — Controls which external origins are allowed to access your backend.

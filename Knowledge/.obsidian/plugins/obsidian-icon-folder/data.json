@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiVault",
       "LiOpenVault",
       "LiBox",
       "LiKeySquare",
-      "LiSettings",
-      "LiBrickWallFire"
+      "LiSettings"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -120,7 +120,6 @@
   "Programming notes/Assembly/Images": "LiImage",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/for loops.md": "LiInfinity",
   "Programming notes/Computer Science/Programming/JavaScript/Fundamentls/Utilities/Modules management.md": "LiBookUp2",
-  "Programming notes/Computer Science/Programming/Images": "LiImage",
   "Programming notes/Computer Science/Programming/PowerShell/Introduction.md": "LiInfo",
   "Programming notes/Computer Science/Programming/PowerShell/Basics": "LiRoad",
   "Programming notes/Computer Science/Database": "LiDatabase",
@@ -248,5 +247,7 @@
   "Programming notes/Computer Science/Networking/WireGuard/Setup.md": "LiSettings",
   "Programming notes/Computer Science/Networking/Let's Encrypt.md": "LiKeySquare",
   "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/module node.js.md": "LiBox",
-  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/dotenv node.js.md": "LiOpenVault"
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/dotenv node.js.md": "LiOpenVault",
+  "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/helmet node.js.md": "LiVault",
+  "Programming notes/Computer Science/Other/Images/Images": "LiImage"
 }
