@@ -48,7 +48,7 @@
 - 🛡️ **helmet** — Adds security HTTP headers to protect your backend against common web vulnerabilities.
     - 🔗 Reference: [[helmet node.js]]
 - 📡 **express-rate-limit** — Limits incoming requests to prevent brute-force attacks and API abuse.
-    - 🔗 Reference: 
+    - 🔗 Reference: [[express-rate-limit node.js]]
 - 🌐 **cors** — Controls which external origins are allowed to access your backend.
     - 🔗 Reference: 
 - 📁 **multer** — Handles file uploads through `multipart/form-data`, with file size and storage configuration.

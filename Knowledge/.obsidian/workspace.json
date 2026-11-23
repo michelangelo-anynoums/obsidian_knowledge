@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bbec4709da6ff4fb",
+        "id": "11052e217c9f661b",
         "type": "tabs",
         "children": [
           {
-            "id": "a23a8c3682971f52",
+            "id": "66274a42a918706a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Libraries"
+              "title": "New tab"
             }
           }
         ]
@@ -195,11 +191,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "05c5467a3805d651",
+  "active": "66274a42a918706a",
   "lastOpenFiles": [
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/helmet node.js.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/express-rate-limit node.js.md",
     "Prompt AI.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Middleware.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/helmet node.js.md",
     "Programming notes/Assembly/Notes/Memory/RAM.md",
     "Programming notes/Assembly/Notes/Memory/Storage.md",
     "Programming notes/Assembly/Notes/Memory/Memory.md",
