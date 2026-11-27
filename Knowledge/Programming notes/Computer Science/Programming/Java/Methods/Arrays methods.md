@@ -260,3 +260,79 @@ System.out.println(Arrays.toString(numbers));
 **Remember:** Practice accessing, sorting, searching, copying and reversing arrays. These operations are very common in Java programming exercises.
 
 ---
+
+# Java – Array Copy Methods
+
+Java provides different methods to copy arrays.
+
+### 1. `System.arraycopy()`
+
+Copies elements from one array into another array.
+
+**Syntax:**
+
+```java
+System.arraycopy(source, sourcePos, destination, destinationPos, length);
+```
+
+- `source`: Original array.
+- `sourcePos`: Starting position in the source array.
+- `destination`: Array where elements are copied.
+- `destinationPos`: Starting position in the destination array.
+- `length`: Number of elements to copy.
+
+**Example:**
+
+```java
+int[] a = {1, 2, 3, 4, 5};
+int[] b = new int[5];
+
+System.arraycopy(a, 0, b, 0, 5);
+```
+
+---
+### 2. `Arrays.copyOf()`
+
+Creates a new array by copying an existing array. You can also change its length.
+
+**Example:**
+
+```java
+import java.util.Arrays;
+
+int[] a = {1, 2, 3};
+
+int[] b = Arrays.copyOf(a, 5);
+```
+
+Result: `{1, 2, 3, 0, 0}`
+
+---
+
+### 3. `Arrays.copyOfRange()`
+
+Copies a specific range of elements into a new array.
+
+**Example:**
+
+```java
+import java.util.Arrays;
+
+int[] a = {1, 2, 3, 4, 5};
+
+int[] b = Arrays.copyOfRange(a, 1, 4);
+```
+
+Result: `{2, 3, 4}`
+
+### Important differences
+
+|Method|Description|
+|---|---|
+|`System.arraycopy()`|Copies elements into an existing array.|
+|`Arrays.copyOf()`|Creates a new array with a specified length.|
+|`Arrays.copyOfRange()`|Creates a new array from a selected range.|
+
+**Remember:** These methods perform shallow copies. For primitive arrays, values are copied. For object arrays, references are copied, not the objects themselves.
+
+---

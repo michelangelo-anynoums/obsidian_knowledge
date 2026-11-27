@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "11052e217c9f661b",
+        "id": "9a6a564a7c354627",
         "type": "tabs",
         "children": [
           {
-            "id": "66274a42a918706a",
+            "id": "24240a10518ef799",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.9513740539551
   },
   "right": {
     "id": "d114518bb66c4b1d",
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming notes/Assembly/Notes/Execution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Programming notes/Assembly/Notes/Execution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -173,12 +175,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 297.9444580078125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,18 +193,49 @@
       "bases:Create new base": false
     }
   },
-  "active": "66274a42a918706a",
+  "active": "05c5467a3805d651",
   "lastOpenFiles": [
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/express-rate-limit node.js.md",
     "Prompt AI.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Notes/Middleware.md",
+    "Programming notes/Assembly/Notes/Execution.md",
+    "Programming notes/Assembly/Notes/Processor/Chip & Chipset.md",
+    "Programming notes/Computer Science/Other/Images/Images_2/Pasted image 20261127132616.png",
+    "Programming notes/Assembly/Notes/Software.md",
+    "Programming notes/Assembly/Utilities/Softwares.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/cors node.js.md",
+    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries.md",
     "Programming notes/Computer Science/Programming/JavaScript/Backend/Express/Basics.md",
-    "Programming notes/Computer Science/Programming/JavaScript/Backend/Node.js/Libraries/helmet node.js.md",
-    "Programming notes/Assembly/Notes/Memory/RAM.md",
+    "Programming notes/Computer Science/Programming/Java/Java Execution.md",
+    "Programming notes/Computer Science/Other/Images/Images_2/Pasted image 20261127130504.png",
+    "Programming notes/Computer Science/Programming/Java/Fundamentals/For loops.md",
+    "Programming notes/Computer Science/Programming/Java/Fundamentals",
+    "Programming notes/Computer Science/Linux/Ethnical hacking/Code obfuscation.md",
+    "Programming notes/Computer Science/Networking/Search engine.md",
+    "Programming notes/Assembly/Notes/Motherboard & utilites/Thermal Paste theory.md",
+    "Programming notes/Assembly/Notes/Motherboard & utilites/Advices",
+    "Programming notes/Assembly/Notes/Motherboard & utilites/Motherboard.md",
+    "Programming notes/Assembly/Notes/Motherboard & utilites/Advices/Upgrade Paths.md",
+    "Programming notes/Assembly/Notes/Components/Mouse Types.md",
+    "Programming notes/Assembly/Images/Pasted image 20261127115952.png",
     "Programming notes/Assembly/Notes/Memory/Storage.md",
+    "Programming notes/Assembly/Notes/Memory/RAM.md",
+    "Programming notes/Assembly/Notes/Processor/Von Neumann architecture.md",
+    "Programming notes/Assembly/Notes/Processor/GPU & memory.md",
+    "Programming notes/Assembly/Notes/Processor/CPU term.md",
+    "Programming notes/Assembly/Notes/Processor/CPU architectures.md",
+    "Programming notes/Assembly/Images/Pasted image 20261127120417.png",
+    "Programming notes/Assembly/Images/Pasted image 20261127120409.png",
+    "Programming notes/Assembly/Images/Pasted image 20261127120239.png",
+    "Programming notes/Assembly/Images/Pasted image 20261127120115.png",
     "Programming notes/Assembly/Notes/Memory/Memory.md",
     "Programming notes/Assembly/Notes/FIle System/Essential concepts.md",
-    "Programming notes/Computer Science/Programming/Python/Libraries/rich library.md"
+    "Programming notes/Assembly/Images/Pasted image 20261127115501.png",
+    "Programming notes/Assembly/Presentations/UT4. Instalación de Linux.pdf",
+    "Programming notes/Computer Science/Networking/Deployment website/NGINX Setup.md",
+    "Programming notes/Computer Science/Networking/Deployment website/Domain.md",
+    "Programming notes/Computer Science/Networking/Deployment website",
+    "Programming notes/Computer Science/Other/Images/Images_1/imgupscaler-enhanced.jpg",
+    "Programming notes/Computer Science/Database/Creación/Apuntes_RA2_Creacion_BD.pdf",
+    "Programming notes/Assembly/Presentations/Unconfirmed 588766.crdownload",
+    "Programming notes/Computer Science/Programming/Java/Methods/Unconfirmed 64206.crdownload"
   ]
 }

@@ -3,7 +3,6 @@
 The **motherboard** is the **main circuit board** of a computer. It **connects** all computer parts so they can work together.
 
 ![[Pasted image 20261022061749.png]]
-
 ## Purpose
 
 - The **purpose** of the motherboard is to **connect** and **control communication** between all hardware.
@@ -15,6 +14,7 @@ The **motherboard** is the **main circuit board** of a computer. It **connects**
     
 - It also controls **which features** the motherboard supports.
     
+
 
 ![[Pasted image 20261022061822.png]]
 
@@ -46,3 +46,6 @@ The **motherboard** is the **main circuit board** of a computer. It **connects**
 - They are used for **graphics cards**, **sound cards**, **network cards**, and more.
     
 - The most common type is **PCIe (PCI Express)**.
+
+
+---

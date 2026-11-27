@@ -4,7 +4,7 @@
 
 ## 1. Windows Passwords 🔑
 
-This applies primarily to **local Windows accounts**.
+> [!important] This applies primarily to **local Windows accounts**.
 
 Windows does not store the plaintext password. Instead, it stores an **NT hash** (often casually called an _NTLM hash_).
 
@@ -18,7 +18,7 @@ NT hash
 Stored in SAM
 ```
 
-When you log in, Windows takes the password you entered, calculates its NT hash, and compares it with the stored value.
+> When you log in, Windows takes the password you entered, calculates its NT hash, and compares it with the stored value.
 
 ```Bash
 User types a password
@@ -37,11 +37,11 @@ No? Access denied!
 
 An NT hash is essentially:
 
-```text
+```bash
 MD4(UTF-16LE(password))
 ```
 
-It is **not encryption** — it is a hash. However, NT hashes are relatively fast to calculate, which makes offline password cracking practical when a hash has been obtained.
+> It is **not encryption** — it is a hash. However, NT hashes are relatively fast to calculate, which makes offline password cracking practical when a hash has been obtained.
 
 📍 Local account information is stored in:
 
@@ -61,17 +61,27 @@ C:\Windows\System32\config\SYSTEM
 
 ## 2. Getting SAM + SYSTEM 🗄️
 
-If you have sufficient administrative access, you can obtain copies of the:
+**Requirements:**
+- Windows PowerShell running as Administrator.
 
-```bash
+> [!abstract] The Windows Registry command-line utility is `reg.exe`. Its `save` operation exports a registry hive to a file.
+
+The syntax is:
+
+```powershell
+reg save <RegistryKey> <DestinationFile>
+```
+
+> [!important] If you have sufficient administrative access, you can obtain copies of the:
+
+```powershell
 reg save HKLM\sam.save sam.save
-			↓
 reg save HKLM\system.save system.save
 ```
 
-registry hives and analyze them offline.
+> registry hives and analyze them offline.
 
-There are also classic techniques involving `utilman.exe` that abuse the Windows login screen to obtain SYSTEM-level access.
+> [!danger] There are also classic techniques involving `utilman.exe` that abuse the Windows login screen to obtain SYSTEM-level access.
 
 ---
 
@@ -79,7 +89,7 @@ There are also classic techniques involving `utilman.exe` that abuse the Windows
 
 On Kali Linux, **Impacket** provides `secretsdump.py`.
 
-For offline SAM + SYSTEM files:
+> For offline SAM + SYSTEM files:
 
 ```bash
 impacket-secretsdump.py -sam sam.save -system system.save LOCAL

@@ -1,83 +1,324 @@
 # 💻 Hardware Chips & Chipsets
 
+> [!abstract] 🧠 Big picture Chips are the electronic components that perform tasks. A chipset connects and coordinates different hardware components so they can work together.
+
+---
+![[Pasted image 20261127132616.png|500]]
 ## 🔹 1. What is a chip?
 
-A **chip** is an integrated circuit (IC) containing electronic components, mainly transistors, fabricated on semiconductor material.
+A **chip (Integrated Circuit – IC)** is a tiny electronic circuit built on a semiconductor material, usually silicon.
 
-- 🧠 **CPU:** Executes instructions.
-- 🎮 **GPU:** Processes graphics and parallel tasks.
-- 📡 **Wireless chip:** Sends and receives radio signals.
-- 💾 **Memory chip:** Stores data.
-- 🎛️ **Microcontroller (MCU):** Combines a processor, memory and peripherals.
+It contains millions or billions of **transistors** that control electrical signals.
+
+|Chip|Main function|
+|---|---|
+|🧠 CPU|Executes instructions|
+|🎮 GPU|Processes graphics|
+|📡 RF chip|Sends and receives radio signals|
+|💾 Memory chip|Stores data|
+|🎛️ MCU|Controls electronic devices|
+|📶 Modem|Handles digital communication|
+
+**Example:**
+
+```
+CPU = Brain 🧠
+RAM = Working memory 💾
+GPU = Graphics processor 🎮
+```
 
 ## 🔹 2. What is a chipset?
 
-A **chipset** manages communication between hardware components.
+A **chipset** is a collection of controller circuits that manages communication between the CPU and other hardware.
 
-- **CPU:** Processes instructions.
-- **Chipset:** Coordinates hardware communication.
-- **Modern systems:** Many chipset functions are integrated into the CPU.
+Think of it as a traffic control system 🚦.
 
-## 🔹 3. Essential concepts
 
-- ⚡ **Transistor:** Controls electrical signals.
-- 🔗 **Bus:** Transfers data between components.
-- 🧠 **Registers:** Hold values currently being processed.
-- 💾 **RAM:** Temporary, volatile memory.
-- 📦 **Flash / ROM:** Non-volatile storage.
-- ⚙️ **Firmware:** Low-level software controlling hardware.
-- 🔢 **ISA:** Instruction Set Architecture; defines CPU instructions.
+```
+          🧠 CPU
+            ↕
+       🔗 CHIPSET
+       ↙    ↓    ↘
+     USB   SATA   PCIe
+     💾    💽     🎮
+```
 
-## 🔹 4. CISC vs. RISC
+It coordinates data transfers between components.
 
-- **CISC** (Complex Instruction Set Computer): Supports complex instructions. Example: x86-64 (Intel/AMD).
-- **RISC** (Reduced Instruction Set Computer): Traditionally emphasizes simpler instructions. Examples: ARM, RISC-V.
+## 🔹 3. Northbridge & Southbridge 🏛️
 
-Both can run complex software efficiently.
+Older PC motherboards used two main chipset components.
 
-## 🔹 5. Does a chip have its own memory?
+### ⚡ Northbridge
 
-Yes, depending on its design.
+The Northbridge handled high-speed communication.
 
-- **CPU:** Registers and cache; usually uses external RAM.
-- **Microcontroller:** Often has built-in Flash and SRAM.
-- **Wireless chip:** May have internal ROM/RAM and external or internal Flash.
+- 🧠 CPU communication
+- 💾 RAM controller
+- 🎮 Graphics interface (AGP / PCIe)
 
-## 🔹 6. How does firmware work?
+### 🔌 Southbridge
 
-1. 🔌 Power reaches the chip.
-2. 🚀 Startup instructions execute.
-3. 📖 Firmware runs from ROM/Flash or is copied into RAM.
-4. ⚙️ Hardware interfaces and registers are configured.
-5. 🔄 The chip performs its assigned task.
+The Southbridge handled slower peripheral connections.
 
-**Example:** Wi-Fi firmware manages radio communication and network packets.
+- 🔊 Audio
+- 🔌 USB
+- 💽 SATA storage
+- ⌨️ Keyboard and mouse
+- 🌐 Other input/output interfaces
 
-## 🔹 7. Where are chips used?
+### 🗺️ How they worked together
 
-- 📱 Phones: CPU, modem, memory, Wi-Fi.
-- 🚗 Cars: Engine control, braking, sensors.
-- 📺 TVs: Video, audio and display processing.
-- 🏭 Industry: Automation and motor control.
-- 🏥 Medical devices: Measurement and monitoring.
+text
 
-## 🔹 8. 📡 From antenna to screen
+```
+             🧠 CPU
+               ↕
+        ⚡ NORTHBRIDGE
+          ↙         ↘
+       💾 RAM      🎮 GPU
+          ↕
+       🔌 SOUTHBRIDGE
+       ↙    ↓     ↘
+     USB   SATA   AUDIO
+```
 
-1. **Electromagnetic waves:** Carry modulated information through the air.
-2. **Antenna:** Converts the incoming electromagnetic field into an electrical signal.
-3. **RF receiver:** Filters and amplifies the signal.
-4. **Modem/baseband chip:** Recovers and decodes the transmitted bits.
-5. **CPU + software:** Interprets the data.
-6. **GPU/display controller:** Produces pixel values.
-7. **Screen:** Emits light to display the result.
+💡 **Important:** Modern computers no longer use this traditional two-chip arrangement.
 
-### Where does firmware fit?
+Many Northbridge functions moved directly into the CPU. The remaining peripheral controller functions are commonly handled by a single chipset.
 
-- 📡 Radio firmware: Configures and controls wireless hardware.
-- 📶 Modem firmware: Manages communication and signal processing.
-- 🧠 Boot firmware: Initializes hardware and starts the operating system.
-- 🖥️ Display firmware: Controls display functions, when present.
+## 🔹 4. Modern chipsets
 
-**Summary:** 📡 Waves → ⚡ Electrical signal → 🔢 Bits → 🧠 Processing → 🖥️ Pixels
+Today, chipset architecture is different.
+
+
+```
+       🧠 CPU
+       ↙   ↘
+     RAM   PCIe
+            ↕
+        🔌 CHIPSET
+       ↙    ↓    ↘
+     USB   SATA  NETWORK
+```
+
+### Popular chipset families
+
+|Manufacturer|Chipset examples|
+|---|---|
+|🔵 Intel|Z790, Z890, B760, H770|
+|🔴 AMD|X870E, X870, B850, B650|
+|🍎 Apple|M-series SoCs (integrated system architecture)|
+|📱 Qualcomm|Snapdragon platforms|
+
+💡 Intel Z/B/H and AMD X/B/A families target different motherboard features and market segments. Exact capabilities depend on the chipset generation and motherboard.
+
+## 🔹 5. Essential hardware concepts ⚙️
+
+|Term|Simple meaning|
+|---|---|
+|Transistor|Electronic switch|
+|Bus|Data communication pathway|
+|Register|Very small, fast CPU storage|
+|Cache|Fast memory close to the processor|
+|RAM|Temporary working memory|
+|Flash|Non-volatile storage|
+|Firmware|Software that controls hardware|
+|ISA|Defines the instructions a CPU understands|
+|PCIe|High-speed expansion interface|
+|SoC|System on a Chip|
+
+## 🔹 6. CISC vs RISC 🧮
+
+Two major CPU instruction-set approaches:
+
+- **CISC:** Complex Instruction Set Computing.
+    - Example: x86-64 (Intel / AMD).
+- **RISC:** Reduced Instruction Set Computing.
+    - Examples: ARM and RISC-V.
+
+💡 The ISA defines the instructions; the microarchitecture determines how the processor implements them.
+
+## 🔹 7. Does a chip have memory? 💾
+
+Yes! Depending on its design.
+
+```
+🧠 CPU
+ ├── Registers
+ ├── Cache (L1 / L2 / L3)
+ └── Uses external RAM
+
+🎛️ Microcontroller
+ ├── CPU
+ ├── SRAM
+ └── Flash memory
+```
+
+- **Registers:** Hold values currently being processed.
+- **Cache:** Stores frequently needed data.
+- **SRAM:** Fast temporary memory.
+- **Flash:** Stores data without power.
+
+## 🔹 8. Firmware: How does a chip start? 🚀
+
+Firmware is low-level software that initializes and controls hardware.
+
+text
+
+```
+🔌 Power ON
+     ↓
+⚡ Hardware initialization
+     ↓
+📖 Firmware execution
+     ↓
+⚙️ Configure registers
+     ↓
+🔄 Hardware starts working
+```
+
+Examples:
+
+- BIOS/UEFI → Initializes the computer.
+- Wi-Fi firmware → Controls wireless hardware.
+- Modem firmware → Manages modem operation.
 
 ---
+
+# 📡 9. From antenna to screen
+
+Let's follow a wireless signal from an antenna to your phone screen.
+
+## 📶 Example: Receiving a Wi-Fi signal
+
+### Step 1 — Antenna 📡
+
+The antenna receives an electromagnetic wave through the air.
+
+It converts the electromagnetic field into a small electrical RF signal.
+
+**Technical terms:**
+
+- RF = Radio Frequency.
+- EM wave = Electromagnetic wave.
+- Frequency = Number of oscillations per second (Hz).
+- Gain = Antenna's directional signal concentration.
+
+### Step 2 — RF Front-End ⚡
+
+The RF front-end prepares the received signal.
+
+Main components:
+
+- **Filter:** Removes unwanted frequencies.
+- **LNA:** Low Noise Amplifier boosts weak signals.
+- **Mixer:** Converts the signal to another frequency.
+- **LO:** Local Oscillator provides a reference frequency.
+
+### Step 3 — ADC 🔢
+
+The Analog-to-Digital Converter transforms the analog signal into digital samples.
+
+text
+
+```
+Analog signal → ADC → Digital samples
+```
+
+### Step 4 — Baseband / Modem 🧠
+
+The baseband processor recovers the transmitted information.
+
+Typical operations:
+
+- Demodulation
+- Channel decoding
+- Error correction
+- Packet processing
+
+The result is digital data (bits).
+
+### Step 5 — CPU 💻
+
+The CPU and operating system process the received data.
+
+Example: Your browser receives a webpage.
+
+### Step 6 — GPU 🎮
+
+The GPU processes graphics and helps generate the image.
+
+### Step 7 — Display 🖥️
+
+The display controller sends pixel information to the screen.
+
+The screen produces light, and you see the webpage!
+
+## 🔄 Complete signal flow
+
+text
+
+```
+📡 ANTENNA
+    ↓
+⚡ RF FRONT-END
+    ↓
+📈 LNA + FILTER + MIXER
+    ↓
+🔢 ADC
+    ↓
+🧠 BASEBAND / MODEM
+    ↓
+💻 CPU + OPERATING SYSTEM
+    ↓
+🎮 GPU / DISPLAY CONTROLLER
+    ↓
+🖥️ SCREEN
+```
+
+### 📤 What about transmission?
+
+The process works in reverse:
+
+text
+
+```
+💻 Digital data
+      ↓
+🧠 Baseband encoding
+      ↓
+🔢 DAC
+      ↓
+⚡ RF transmitter
+      ↓
+📈 Power amplifier (PA)
+      ↓
+📡 Antenna
+      ↓
+〰️ Electromagnetic waves
+```
+
+---
+
+## 🎯 10. Final mental model
+
+|Component|Think of it as...|
+|---|---|
+|🧠 CPU|The brain|
+|🔌 Chipset|The traffic controller|
+|💾 RAM|The working desk|
+|📡 Antenna|The wireless gateway|
+|⚡ RF front-end|Signal preparation|
+|🔢 ADC / DAC|Analog ↔ Digital converter|
+|📶 Modem|Communication processor|
+|🎮 GPU|Graphics engine|
+|📖 Firmware|Hardware instructions|
+
+> [!tip] 💡 Remember **Chip = Performs a task.**
+> 
+> **Chipset = Coordinates communication.**
+> 
+> **Firmware = Controls hardware.**
+> 
+> **Antenna = Converts between electromagnetic waves and electrical signals.**

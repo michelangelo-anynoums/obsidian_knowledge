@@ -50,7 +50,7 @@
 - 📡 **express-rate-limit** — Limits incoming requests to prevent brute-force attacks and API abuse.
     - 🔗 Reference: [[express-rate-limit node.js]]
 - 🌐 **cors** — Controls which external origins are allowed to access your backend.
-    - 🔗 Reference: 
+    - 🔗 Reference: [[cors node.js]]
 - 📁 **multer** — Handles file uploads through `multipart/form-data`, with file size and storage configuration.
     - 🔗 Reference: 
 - 🗄️ **better-sqlite3** — Provides fast and simple SQLite database operations, including queries and transactions.

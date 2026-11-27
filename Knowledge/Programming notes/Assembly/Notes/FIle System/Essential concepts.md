@@ -119,6 +119,8 @@ Example:
 
 ---
 
+![[Pasted image 20261127115501.png|617]]
+
 ## 🧭 4. MBR — Master Boot Record
 
 **MBR** is an older partitioning scheme used to describe disk partitions and support traditional PC booting.
@@ -171,7 +173,7 @@ GPT stands for **GUID Partition Table**.
 
 ## ⚙️ 6. How a File System Organizes Data
 
-A file system needs more than clusters to manage files. It also maintains information about files, folders, and available storage.
+> A file system needs more than clusters to manage files. It also maintains information about files, folders, and available storage.
 
 Important concepts include:
 

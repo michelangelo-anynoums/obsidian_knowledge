@@ -5,6 +5,8 @@
 > [!important] *Reference:* [[Memory]]
 
 ![[Pasted image 20261022062534.png|508]]
+
+> [!abstract] **RAM:** [Explained!](https://youtu.be/7dS92ADkezk)
 ## DDR Generations
 
 ### DDR3
