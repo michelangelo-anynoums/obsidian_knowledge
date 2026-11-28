@@ -4,6 +4,8 @@
 
 > [!abstract] 🎯 Goal Understand IP addresses, binary, subnet masks, NAT, and subnetting.
 
+> [!abstract] [Networking Ecosystem Explained!](https://www.youtube.com/watch?v=TR0RU2pmMeA) 
+
 > [!important] Networking basics reference: https://www.youtube.com/watch?v=255Pv3Z9gj4 
 
 > [!important] Networking basics 2 reference: https://www.youtube.com/watch?v=j7O6Uqy6ZJY

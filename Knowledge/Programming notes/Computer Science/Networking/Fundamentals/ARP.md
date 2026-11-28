@@ -44,7 +44,7 @@ ip neigh show
 
 ## ⚡ 02 · Bettercap — ARP Spoofing
 
-
+![[Pasted image 20261128102150.png|352]]
 ### 🔁 `arp.spoof.fullduplex true`
 
 Enables spoofing in both directions.

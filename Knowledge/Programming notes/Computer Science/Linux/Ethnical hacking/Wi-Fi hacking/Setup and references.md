@@ -18,6 +18,12 @@ The **client** (laptop or phone) sends data wirelessly to the router or access p
 
 ![[Pasted image 20261023064813.png|604]]
 
+#### 💻 Cybersecurity tools worth knowing
+
+![[Pasted image 20261128101654.png|573]]
+
+> [!important] **YouTube refrence:** [Explained!](https://youtu.be/W4-D49TgHK4)
+
 ### 🔐 Security & Protocols
 
 > [!important] Wi-Fi security protects data and controls network access through authentication and encryption. During the **4-way handshake** used by WPA/WPA2-Personal, the client and access point derive and confirm session keys using shared credentials, helping establish secure communication.

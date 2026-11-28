@@ -52,7 +52,7 @@
 - 🌐 **cors** — Controls which external origins are allowed to access your backend.
     - 🔗 Reference: [[cors node.js]]
 - 📁 **multer** — Handles file uploads through `multipart/form-data`, with file size and storage configuration.
-    - 🔗 Reference: 
+    - 🔗 Reference: [[multer node.js]]
 - 🗄️ **better-sqlite3** — Provides fast and simple SQLite database operations, including queries and transactions.
     - 🔗 Reference: 
 - 💾 **connect-sqlite3** — Stores Express sessions in an SQLite database, allowing sessions to persist after server restarts.
